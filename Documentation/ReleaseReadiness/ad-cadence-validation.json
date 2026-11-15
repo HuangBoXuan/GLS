@@ -1,0 +1,95 @@
+{
+  "status": "client_checks_and_apk_passed_native_device_validation_pending",
+  "checks": [
+    "eligible win requests ad before result buttons",
+    "completed settlement ad reveals result",
+    "closed ad persists cadence once",
+    "restart serialization preserves cooldown and wins",
+    "Next never requests an interstitial",
+    "no-fill checks once at settlement",
+    "no fill preserves ad budget",
+    "result refresh does not retry inventory",
+    "revive offer does not trigger interstitial",
+    "first failed attempt protected",
+    "second qualifying failure tries ad only after declining revive",
+    "failed native display still shows failure page",
+    "home time excluded",
+    "paused time excluded",
+    "background time excluded",
+    "cancelled rewarded close protects without granting item",
+    "rewarded protection suppresses next settlement ad",
+    "late old-round callback cannot stamp another round or show a modal",
+    "history replay does not create ad opportunity",
+    "protected early levels stay ad-free for veteran saves",
+    "background settlement never creates a delayed interstitial",
+    "unfocused settlement never creates a delayed interstitial"
+  ],
+  "nativeSdkExecuted": false,
+  "nativeRewardCompletionVerified": false,
+  "comparedWoolRushLuaCases": 12000,
+  "date": "2026-11-02",
+  "luaSyntaxCount": 33,
+  "boundaryChecks": 29,
+  "integrationChecks": 22,
+  "productionReady": false,
+  "temporaryProbeShipped": false,
+  "source": "games/TapGarden/HotUpdate/games/garden/ad_cadence.lua",
+  "policy": {
+    "protectedLevels": 5,
+    "firstWins": 5,
+    "firstGameplaySeconds": 180,
+    "cooldownSeconds": 120,
+    "earlyRounds": 2,
+    "frequentFromLevel": 11,
+    "frequentRounds": 1,
+    "failureFromLevel": 8,
+    "failureAttemptSeconds": 45,
+    "rewardedProtectionSeconds": 120
+  },
+  "standaloneAndModuleUseSharedPolicy": true,
+  "backgroundAndFocusSettlementProtection": true,
+  "platformDirectNextAndCanceledRewardedProtection": "passed",
+  "woolRushPolicySha256": "a6853f3b4db377eb7100f080f107f5e0572c137a8c3efd47e6a324a29c033930",
+  "additionalPlatformRegression": "Interstitial fallback, duplicate callback, account invalidation, native banner inset, direct Next and rewarded protection passed",
+  "apk": "Builds\\AndroidPlayer\\LoopSort-20261102-165318.apk",
+  "sha256": "98b0505c525717e2b1fe952d8b483b8105f101655b90d98ed3a9e941e289fb8a",
+  "bytes": 100451348,
+  "apkBuilt": true,
+  "signatureVerified": true,
+  "package": "com.falcogames.loopsort",
+  "targetApi": 36,
+  "minimumApi": 24,
+  "nativeAdAndUmpClassesDefined": true,
+  "automaticAdRuntimePresent": true,
+  "dedicatedDiagnosticCodeAbsent": true,
+  "administrativeCredentialMatches": 0,
+  "nativeLibraries": [
+    {
+      "file": "lib/arm64-v8a/libapplovin-native-crash-reporter.so",
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libil2cpp.so",
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libmain.so",
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libunity.so",
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libxlua.so",
+      "elf16kAligned": true
+    }
+  ],
+  "luaSyntaxAndAdRegression": "passed",
+  "embeddedLuaMatchesSource": true,
+  "nativeCooldown120Verified": true,
+  "fontAndLocalizationPreserved": true,
+  "sameSigningCertificateAsPreviousPreview": true,
+  "persistedPlayerDataKeyUnchanged": true,
+  "backgroundAndFocusGuardInBinary": true
+}

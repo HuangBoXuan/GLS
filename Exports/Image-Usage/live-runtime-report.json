@@ -1,0 +1,346 @@
+{
+  "capturedAtUtc": "2026-11-03T07:23:44.6701334Z",
+  "capturedAtChina": "2026-11-03 15:23:44 +08:00",
+  "project": "D:/MiniProject/workspace/games/LoopSort",
+  "source": "live Unity 2022.3.62f2 editor via installed MCP execute_code; Resources.FindObjectsOfTypeAll / UI sprite and renderer material references",
+  "playing": true,
+  "luaReady": true,
+  "observedImageFiles": 22,
+  "onDemandImageFiles": 7,
+  "unusedConfirmed": 0,
+  "deletedThisPass": [],
+  "sdkToolImagesSeparate": 5,
+  "restoredView": {
+    "isHome": true,
+    "level": 201
+  },
+  "rawEvidenceDirectory": "D:/MiniProject/BuildTemp/LoopSort-live-image-audit",
+  "notes": [
+    "Initial live session had LuaReady=false; pre-restart snapshot is not used as a completeness test. Play Mode was restarted; level remained 201 and the view was restored to the home screen.",
+    "No resource loading was performed by the snapshot collector. Opening the real mechanics gallery caused its images to load.",
+    "The 7 particle files were NOT observed in these snapshots; retained based on enabled particle material configuration and production trigger sites, including the native platform add-cart path."
+  ],
+  "images": [
+    {
+      "图片": "particle-269.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Textures/particle-269.png",
+      "证据分类": "按需特效，本次未触发",
+      "观察页面": "",
+      "运行对象或触发路径": "隐藏方块 SoulRelease 拖尾；TrailModule.enabled=true；GameController.CargoReveal.cs → HiddenReveal → SourceParticleEffect",
+      "activeAt": [],
+      "bindingCount": 0
+    },
+    {
+      "图片": "particle-309.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Textures/particle-309.png",
+      "证据分类": "按需特效，本次未触发",
+      "观察页面": "",
+      "运行对象或触发路径": "完成收集的 Glow；CompletionMotion.cs → Firework → complete",
+      "activeAt": [],
+      "bindingCount": 0
+    },
+    {
+      "图片": "particle-315.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Textures/particle-315.png",
+      "证据分类": "按需特效，本次未触发",
+      "观察页面": "",
+      "运行对象或触发路径": "加车的 VerticalGlow；platform/boosters.lua → mechanics:particle(spawn)",
+      "activeAt": [],
+      "bindingCount": 0
+    },
+    {
+      "图片": "particle-322.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Textures/particle-322.png",
+      "证据分类": "按需特效，本次未触发",
+      "观察页面": "",
+      "运行对象或触发路径": "加车的主发光；platform/boosters.lua → mechanics:particle(spawn)",
+      "activeAt": [],
+      "bindingCount": 0
+    },
+    {
+      "图片": "particle-338.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Textures/particle-338.png",
+      "证据分类": "按需特效，本次未触发",
+      "观察页面": "",
+      "运行对象或触发路径": "完成收集的 Clouds；CompletionMotion.cs → Firework → complete",
+      "activeAt": [],
+      "bindingCount": 0
+    },
+    {
+      "图片": "particle-351.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Textures/particle-351.png",
+      "证据分类": "按需特效，本次未触发",
+      "观察页面": "",
+      "运行对象或触发路径": "隐藏方块 Cloud 与关卡入场 trail；CargoReveal.cs / LevelMotion.cs → SourceParticleEffect",
+      "activeAt": [],
+      "bindingCount": 0
+    },
+    {
+      "图片": "particle-362.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Textures/particle-362.png",
+      "证据分类": "按需特效，本次未触发",
+      "观察页面": "",
+      "运行对象或触发路径": "完成收集的主粒子；CompletionMotion.cs → Firework → complete",
+      "activeAt": [],
+      "bindingCount": 0
+    },
+    {
+      "图片": "approved-menu.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/approved-menu.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Home Monitor/Levels；Game UI/Safe area/Home Monitor/Play；Game UI/Safe area/Home Monitor/Ads",
+      "activeAt": [
+        "主界面",
+        "机制图鉴"
+      ],
+      "bindingCount": 41
+    },
+    {
+      "图片": "belt-capacity.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/belt-capacity.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Playing Monitor/Top/Capacity frame/Artwork content/Capacity/Icon",
+      "activeAt": [],
+      "bindingCount": 2
+    },
+    {
+      "图片": "game-board.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/game-board.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Home Monitor/Home background；Main Camera/Warm tiled workshop background",
+      "activeAt": [
+        "主界面",
+        "机制图鉴"
+      ],
+      "bindingCount": 6
+    },
+    {
+      "图片": "home-conveyor.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/home-conveyor.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Home Monitor/Conveyor preview",
+      "activeAt": [
+        "主界面",
+        "机制图鉴"
+      ],
+      "bindingCount": 2
+    },
+    {
+      "图片": "icons.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/icons.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Level 201 [APK 4.6.0]/Truck I/Completed check；Level 201 [APK 4.6.0]/Truck K/Completed check；Level 201 [APK 4.6.0]/Truck L/Completed check",
+      "activeAt": [],
+      "bindingCount": 48
+    },
+    {
+      "图片": "mechanics-book.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mechanics-book.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Home Monitor/Book/Artwork content/Icon",
+      "activeAt": [
+        "主界面",
+        "机制图鉴"
+      ],
+      "bindingCount": 2
+    },
+    {
+      "图片": "menu-details.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/menu-details.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Home Monitor/Ads/Artwork content/Pause banner icon/Advertising；Game UI/Safe area/Tutorial focus/Tutorial caption；Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 27",
+      "activeAt": [
+        "主界面",
+        "机制图鉴"
+      ],
+      "bindingCount": 16
+    },
+    {
+      "图片": "mine-barrier.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-barrier.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 2/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "mine-blanket.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-blanket.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 26/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "mine-cart.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-cart.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Playing Monitor/Controls/Truck +/Truck + Button/Artwork content/Icon",
+      "activeAt": [],
+      "bindingCount": 2
+    },
+    {
+      "图片": "mine-cave.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-cave.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 20/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "mine-chain.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-chain.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 25/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "mine-connector.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-connector.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 28/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "mine-crust.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-crust.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 4/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "mine-gate.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-gate.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 23/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "mine-hidden.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-hidden.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 22/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "mine-hopper.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-hopper.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 27/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "mine-lid.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-lid.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 21/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "mine-ore.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-ore.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Level 201 [APK 4.6.0]/Cube 1799；Level 201 [APK 4.6.0]/Cube 1798；Level 201 [APK 4.6.0]/Cube 1797",
+      "activeAt": [
+        "主界面",
+        "机制图鉴"
+      ],
+      "bindingCount": 3672
+    },
+    {
+      "图片": "mine-tag.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/mine-tag.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Modal overlay/Dialog/Artwork content/Guide 24/Artwork content/Illustration",
+      "activeAt": [
+        "机制图鉴"
+      ],
+      "bindingCount": 1
+    },
+    {
+      "图片": "reference-ui.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/reference-ui.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Home Monitor/Gift/Artwork content/Icon；Game UI/Safe area/Home Monitor/Settings/Artwork content/Gear；Game UI/Safe area/Playing Monitor/Controls/Truck +/Inventory badge",
+      "activeAt": [
+        "主界面",
+        "机制图鉴"
+      ],
+      "bindingCount": 20
+    },
+    {
+      "图片": "tutorial-hand.png",
+      "完整路径": "D:/MiniProject/workspace/games/LoopSort/Assets/LoopSort/Resources/LoopSort/Theme/tutorial-hand.png",
+      "证据分类": "运行时已加载",
+      "观察页面": "主界面、机制图鉴",
+      "运行对象或触发路径": "Game UI/Safe area/Tutorial focus/Tutorial hand",
+      "activeAt": [],
+      "bindingCount": 2
+    }
+  ],
+  "finalRuntimeState": {
+    "luaReady": true,
+    "gameId": 44118,
+    "hudId": -143906,
+    "hasDialog": false,
+    "title": "机制图鉴",
+    "gameCount": 1,
+    "controllers": [
+      {
+        "name": "LoopSort0",
+        "id": 44118,
+        "enabled": true,
+        "active": true
+      }
+    ]
+  },
+  "progressFieldsChangedDuringAudit": []
+}

@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "luaSyntaxCount": 32,
+  "result": "Sign-in migration, schedule, inventory, duplicates, multiplier, rollover and native view reuse passed",
+  "productAds": "Interstitial fallback, duplicate callback, account invalidation and native banner inset passed"
+}

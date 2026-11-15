@@ -1,0 +1,81 @@
+{
+  "guides": [
+    {
+      "id": 20,
+      "title": "传送拱门",
+      "sprite": "tutorialPortal",
+      "description": "方块驶入传送带一端的拱门后，会从另一端出来，继续沿传送带移动。",
+      "scale": 0.8500000238418579
+    },
+    {
+      "id": 22,
+      "title": "谜糖块",
+      "sprite": "tutorialHidden",
+      "description": "问号会盖住方块的颜色。移走挡在前面的方块，谜糖块露到车口时就会显出颜色。",
+      "scale": 0.699999988079071
+    },
+    {
+      "id": 21,
+      "title": "彩糖盖",
+      "sprite": "tutorialCurtain",
+      "description": "完成一辆与盖面徽章同色的车，彩糖盖就会打开，露出车里的方块。",
+      "scale": 0.949999988079071
+    },
+    {
+      "id": 2,
+      "title": "单向挡杆",
+      "sprite": "tutorialBarrier",
+      "description": "装有单向挡杆的车可以收进同色方块，车里的方块留在车内。",
+      "scale": 0.8999999761581421
+    },
+    {
+      "id": 28,
+      "title": "螺旋糖栓",
+      "sprite": "tutorialScrew",
+      "description": "螺旋糖栓把相邻方块连在一起。传送带有足够空位时，这组方块会一起放出。",
+      "scale": 1.0
+    },
+    {
+      "id": 4,
+      "title": "糖釉壳",
+      "sprite": "tutorialIce",
+      "description": "完成与糖釉壳关联的车，外壳就会碎开，被罩住的车可以继续使用。",
+      "scale": 0.8999999761581421
+    },
+    {
+      "id": 23,
+      "title": "巧克力锁闸",
+      "sprite": "tutorialLock",
+      "description": "让带钥匙的方块露到车口，收集钥匙后就能打开同色的巧克力锁闸。",
+      "scale": 0.8999999761581421
+    },
+    {
+      "id": 24,
+      "title": "专色车",
+      "sprite": "tutorialTag",
+      "description": "车身颜色就是收集目标。专色车只接收与车身同色的方块。",
+      "scale": 0.8999999761581421
+    },
+    {
+      "id": 25,
+      "title": "金扣链",
+      "sprite": "tutorialRope",
+      "description": "链内的车可以继续收集方块。装满其中任意一辆，整组车的金扣链就会解开。",
+      "scale": 1.0
+    },
+    {
+      "id": 26,
+      "title": "棋盘卷毯",
+      "sprite": "tutorialCarpet",
+      "description": "每完成一辆车，棋盘卷毯就会卷起一段，露出下一辆车。",
+      "scale": 1.0
+    },
+    {
+      "id": 27,
+      "title": "双门补给仓",
+      "sprite": "tutorialGenerator",
+      "description": "放出仓口的方块后，双门向下打开，下一组方块升到仓口。补给用完后，仓门保持关闭。",
+      "scale": 0.7699999809265137
+    }
+  ]
+}

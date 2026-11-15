@@ -1,0 +1,6 @@
+{
+  "name": "LoopSort.PlatformLocalHost.Editor",
+  "rootNamespace": "LoopSort.PlatformLocalHost.Editor",
+  "references": ["LoopSort.PlatformLocalHost", "MiniGamePlatform.SDK", "MiniGamePlatform.Host", "MiniGamePlatform.Authoring.Editor", "UnityEngine.UI"],
+  "includePlatforms": ["Editor"]
+}

@@ -1,0 +1,42 @@
+{
+  "developmentOnly": true,
+  "registrationConfirmed": false,
+  "gameId": "loopsort0",
+  "productId": "loopsort0-development",
+  "androidPackageName": "com.falcogames.loopsort",
+  "hostMode": "independent",
+  "clientVersion": "0.1.0",
+  "apiBaseUrl": "https://api.loopsort0.invalid",
+  "cdnBaseUrl": "https://cdn.loopsort0.invalid",
+  "maxEnabled": true,
+  "appsFlyerEnabled": true,
+  "adRevenueEnabled": true,
+  "maxSdkKey": "",
+  "appsFlyerDevKey": "",
+  "privacyPolicyUrl": "https://sites.google.com/view/loop-sort/privacy",
+  "termsUrl": "https://sites.google.com/view/loop-sort/terms",
+  "accountDeletionUrl": "https://sites.google.com/view/loop-sort/deletion",
+  "placements": [
+    {
+      "gameId": "loopsort0",
+      "placement": "daily_gift",
+      "format": "rewarded",
+      "adUnitId": "16f508cf61fbfab8"
+    },
+    {
+      "gameId": "loopsort0",
+      "placement": "level_complete",
+      "format": "interstitial",
+      "adUnitId": "71b5e2d4bc681c51"
+    },
+    {
+      "gameId": "loopsort0",
+      "placement": "home_banner",
+      "format": "banner",
+      "adUnitId": "ed551614fbf61ce7"
+    }
+  ],
+  "interstitialCooldownSeconds": 120,
+  "businessGameId": "1006000",
+  "adMobAndroidAppId": "ca-app-pub-5848441198436444~3858247629"
+}

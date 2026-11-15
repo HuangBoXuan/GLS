@@ -1,0 +1,16 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "exec-4ccdc1c4-c206-4110-b034-3ef3a7a9c331.png",
+  "purpose": "Separate reference-matched cream controls with plum rims and warm gradient faces. No text; runtime text remains editable.",
+  "layout": [
+    "normal button",
+    "level tile",
+    "frame",
+    "title and primary button",
+    "selected tab",
+    "settings row"
+  ],
+  "source": "exec-98b46cb5-947f-4e7a-8592-3fd9661d0c9b.png",
+  "note": "Atlas addresses trim alpha gutters only; generated source pixels are unchanged.",
+  "prompt_spec": "Production UI sprite sheet matching the approved reference: cream and peach gradient faces, fine plum/brown edges, warm caramel bottom bevel, subtle highlights. Six isolated controls in three columns and two rows: wide normal button, square level tile, tall empty popup frame, title plaque, selected yellow tab, settings row. No text, no icons, no thick concentric purple rings. Transparent background. Preserve reference colors and rounded cartoon finish."
+}

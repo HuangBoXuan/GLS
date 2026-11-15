@@ -1,0 +1,28 @@
+{
+  "developmentOnly": true,
+  "registrationConfirmed": false,
+  "gameId": "loopsort0",
+  "productId": "loopsort0-development",
+  "androidPackageName": "com.local.loopsort0.development",
+  "hostMode": "independent",
+  "clientVersion": "0.1.0",
+  "apiBaseUrl": "https://api.loopsort0.invalid",
+  "cdnBaseUrl": "https://cdn.loopsort0.invalid",
+  "maxEnabled": false,
+  "appsFlyerEnabled": false,
+  "adRevenueEnabled": false,
+  "maxSdkKey": "",
+  "appsFlyerDevKey": "",
+  "privacyPolicyUrl": "https://legal.loopsort0.invalid/privacy",
+  "termsUrl": "https://legal.loopsort0.invalid/terms",
+  "accountDeletionUrl": "https://legal.loopsort0.invalid/delete",
+  "placements": [
+    {
+      "gameId": "loopsort0",
+      "placement": "daily_gift",
+      "format": "rewarded",
+      "adUnitId": ""
+    }
+  ],
+  "interstitialCooldownSeconds": 120
+}

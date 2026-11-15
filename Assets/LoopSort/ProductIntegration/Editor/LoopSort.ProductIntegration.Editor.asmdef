@@ -1,0 +1,5 @@
+{
+  "name": "LoopSort.ProductIntegration.Editor",
+  "references": ["LoopSort.ProductIntegration", "MaxSdk.Scripts.IntegrationManager.Editor", "MiniGamePlatform.Host", "MiniGamePlatform.SDK"],
+  "includePlatforms": ["Editor"]
+}

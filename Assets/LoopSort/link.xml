@@ -1,0 +1,5 @@
+<linker>
+  <assembly fullname="LoopSort0.Core" preserve="all" />
+  <assembly fullname="LoopSort0.Runtime" preserve="all" />
+  <assembly fullname="UnityEngine.UI" preserve="all" />
+</linker>

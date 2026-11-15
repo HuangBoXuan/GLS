@@ -1,0 +1,114 @@
+{
+  "policy": {
+    "firstInterstitialEntry": 18,
+    "trigger": "Next main-level entry following a completed round",
+    "skipNextAfterMechanic": true,
+    "skipNextAfterRewardedReviveOrBooster": true,
+    "settlementInterstitial": false,
+    "timerInterstitial": false
+  },
+  "policyScenariosPassed": 19,
+  "boosterChecks": {
+    "cancelDoesNotSpend": true,
+    "invalidTruckCancels": true,
+    "validShuffleSpendsOnce": true,
+    "cargoIdsConserved": true,
+    "rotationRestored": true,
+    "undoSound": true,
+    "truckSound": true
+  },
+  "bgm": {
+    "title": "Gem Trail",
+    "bpm": 108,
+    "bars": 32,
+    "seconds": 71.1111111,
+    "loop": true,
+    "recipe": "Tools/compose_bgm.py",
+    "arrangement": "Continuous chord bed, sustained note tails, full melody across all sections",
+    "analysis": "music-continuity.json",
+    "leadPhrase09to17": "Same opening four-bar rhythm and note durations repeat through all 32 bars; no sparse or double-time section",
+    "sourceSha256": "341e29d554b0c48994e19e4b2ecc2e3e14becbfb9136d6df002a595b23d87a52",
+    "volume": 0.25,
+    "gameplayPauseStopsMusic": false
+  },
+  "verificationScope": "Unity runtime UI/booster checks and simulated ad callbacks; actual network ad fill is external to these tests.",
+  "mechanicNames": [
+    {
+      "id": 20,
+      "title": "传送洞"
+    },
+    {
+      "id": 22,
+      "title": "隐藏块"
+    },
+    {
+      "id": 21,
+      "title": "彩色盖"
+    },
+    {
+      "id": 2,
+      "title": "单向闸"
+    },
+    {
+      "id": 28,
+      "title": "连接栓"
+    },
+    {
+      "id": 4,
+      "title": "熔岩壳"
+    },
+    {
+      "id": 23,
+      "title": "钥匙闸"
+    },
+    {
+      "id": 24,
+      "title": "专色车"
+    },
+    {
+      "id": 25,
+      "title": "束缚链"
+    },
+    {
+      "id": 26,
+      "title": "覆盖毯"
+    },
+    {
+      "id": 27,
+      "title": "补给仓"
+    }
+  ],
+  "apk": {
+    "path": "D:\\MiniProject\\workspace\\games\\LoopSort\\Builds\\Android\\GemLoopSort-GM-20261106.apk",
+    "bytes": 84453779,
+    "sha256": "fdf24baf35f4bf4beb98753967bf1f8e7f9e4ec4371d6dc0f9d83f55d6cee241",
+    "luaMatchesSource": {
+      "game/flow.lua": true,
+      "game/ad_cadence.lua": true,
+      "ui/pages.lua": true
+    },
+    "abi": "arm64-v8a",
+    "gm": true,
+    "toolchain": {
+      "jdk": 17,
+      "gradle": "8.11.1",
+      "agp": "8.10.1",
+      "ndk": "23.1.7779620"
+    },
+    "startup": {
+      "device": "emulator-5554",
+      "installed": true,
+      "processAlive": true,
+      "runtimeErrorMatches": 0,
+      "homeAndGmVisuallyVerified": true
+    },
+    "versionCode": 179395100
+  },
+  "cleanup": {
+    "orphanAssetMetaFiles": 0,
+    "temporarySourceOrBackupFilesInAssetsToolsConfiguration": 0,
+    "diagnosticProviderIncludedInApk": false,
+    "temporaryScriptsAndOldMusicStoredOutsideProject": true
+  },
+  "latestRebuild": "rebuild.json"
+}

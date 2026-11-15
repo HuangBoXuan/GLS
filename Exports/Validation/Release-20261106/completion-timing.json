@@ -1,0 +1,9 @@
+{
+  "visibleImmediatelyAfterPacking": true,
+  "popSettledAtPointSixSeconds": true,
+  "waitsForRoofClosure": true,
+  "animationFinished": true,
+  "undoHidesCheck": true,
+  "snapshotRestoreIsImmediate": true,
+  "platformLuaSyntaxValid": true
+}

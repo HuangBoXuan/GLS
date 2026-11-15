@@ -1,0 +1,6 @@
+{
+  "manifestUrl": "",
+  "channel": "production",
+  "timeoutSeconds": 15,
+  "maxDownloadMegabytes": 128
+}

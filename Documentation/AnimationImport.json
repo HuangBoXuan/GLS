@@ -1,0 +1,82 @@
+{
+  "source": "D:\\MiniProject\\analysis\\LoopSort-4.6.0-20261026\\work\\apk\\base\\assets\\bin\\Data\\data.unity3d",
+  "sha256": "80fa374e5de34e9a8a298797779ea2779232b781bb8c6d9c3787ee25b0506348",
+  "meshes": [
+    {
+      "id": 377,
+      "vertices": 185,
+      "channels": 1
+    },
+    {
+      "id": 393,
+      "vertices": 4,
+      "channels": 1
+    },
+    {
+      "id": 395,
+      "vertices": 3434,
+      "channels": 2
+    },
+    {
+      "id": 413,
+      "vertices": 14,
+      "channels": 5
+    },
+    {
+      "id": 427,
+      "vertices": 17,
+      "channels": 7
+    }
+  ],
+  "clips": [
+    {
+      "id": 557,
+      "name": "CurtainIdle",
+      "duration": 0.0
+    },
+    {
+      "id": 558,
+      "name": "CurtainOpening-2",
+      "duration": 1.5833333730697632
+    },
+    {
+      "id": 561,
+      "name": "Sticky Block Group - Complete",
+      "duration": 0.9166666865348816
+    }
+  ],
+  "outputs": [
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Animations/377.json",
+      "sha256": "863c0af69ed8421ec942b749b5c8608acd6a80a56b282692eaabe850b7df6a77"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Animations/393.json",
+      "sha256": "c4a13ea21a4c42619d4f5370dbd4dc312c4076ff24065d4eb123d942bc4801a1"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Animations/395.json",
+      "sha256": "145c10fbfb5431d0a73a5887ac1f5b6c481a216aafd8c5805402938a9094023e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Animations/413.json",
+      "sha256": "24ccafe3daa4a02298311fde77bee0f5e3d61132f5cd847ac7105580e142cf0d"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Animations/427.json",
+      "sha256": "a9da02afe37e44af0cf18b85d3c26918bbe0b7dd42009bb8e7500bd9ffc34add"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Animations/curtain-clips.json",
+      "sha256": "fece48289270b17f20946c67d3d975b827eef03ad2e9ccf1d4830450626cdcd4"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Animations/source-particles.json",
+      "sha256": "36625f30f32d3e98579ea70e2e52b28f96d6627328c896da3ccdb5db0e33c0f3"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Animations/sticky-complete.json",
+      "sha256": "71b0c87eedceacad763601dfdd88e574e766b524c8b75b07627ae9736dd6a9ba"
+    }
+  ]
+}

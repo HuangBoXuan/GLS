@@ -1,0 +1,10 @@
+<linker>
+  <!-- Transitional standalone shell only. These assemblies are not downloadable platform capabilities. -->
+  <assembly fullname="LoopSort0.Core" preserve="all" />
+  <assembly fullname="LoopSort0.Runtime" preserve="all" />
+  <assembly fullname="mscorlib">
+    <type fullname="System.Random" preserve="all" />
+    <type fullname="System.Collections.Generic.List`1" preserve="all" />
+    <type fullname="System.Collections.Generic.Dictionary`2" preserve="all" />
+  </assembly>
+</linker>

@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-05",
+  "scope": "Unity Editor targeted profiling, gameplay regression and verified project cleanup",
+  "changes": [
+    "Restored pre-spacing cart and track layouts; removed layout solver and cache",
+    "Single receiver per colour; existing reservations preserved; full capacity hands off to next cart",
+    "Cached receiver selection per physics step; typed Lua calls avoid params argument/result arrays",
+    "Cached exact settled-cargo colour summaries with mutation/key/undo invalidation",
+    "Bulk native DTO snapshot copying; shared pure-Lua implementation retained",
+    "Two fixed landing points per emission batch; one render traversal instead of two",
+    "Thin toast border; aligned loading mascot; lightweight home belt arrows; corrected shared transparent logo"
+  ],
+  "benchmarks": {
+    "receiverBefore": {
+      "queries": 20000,
+      "milliseconds": 2208.6223,
+      "sum": 0
+    },
+    "receiverAfter": {
+      "queries": 20000,
+      "milliseconds": 30.6264,
+      "sum": 20000
+    },
+    "snapshotComparison": {
+      "pieces": 1152,
+      "copies": 20,
+      "oldMs": 665.2036,
+      "newMs": 5.7016
+    },
+    "frameBefore": {
+      "frames": 180,
+      "peakBelt": 160,
+      "BehaviourUpdate": {
+        "meanMs": 1.38416,
+        "p95Ms": 1.8721,
+        "maxMs": 80.5021
+      },
+      "Physics.Simulate": {
+        "meanMs": 0.292561666666667,
+        "p95Ms": 0.7776,
+        "maxMs": 1.1776
+      }
+    },
+    "frameAfter": {
+      "frames": 180,
+      "peakBelt": 160,
+      "BehaviourUpdate": {
+        "meanMs": 1.47584444444444,
+        "p95Ms": 1.9239,
+        "maxMs": 92.0455
+      },
+      "Physics.Simulate": {
+        "meanMs": 0.286255555555556,
+        "p95Ms": 0.8327,
+        "maxMs": 1.4738
+      }
+    }
+  },
+  "validation": {
+    "luaModulesCompiled": 34,
+    "ruleRegressionAssertions": 503,
+    "nativeAddedCartRepro": {
+      "beforeSplit": true,
+      "afterSplit": false
+    },
+    "firstLevel": {
+      "won": true,
+      "totalPieces": 160,
+      "belt": 0,
+      "pendingTransfers": 0
+    },
+    "undo": {
+      "restored": true,
+      "cargo": [
+        120,
+        40
+      ],
+      "conservationPassed": true
+    },
+    "loading49Percent": {
+      "blueX": 294.14,
+      "fillEndpointX": 294.14
+    },
+    "runtimeErrors": 0,
+    "projectAssetAudit": {
+      "orphanMetaFiles": 0,
+      "tmpBakOrigRejOldFiles": 0
+    },
+    "savedProgressAfterTests": 250,
+    "temporaryProfilingDisabled": true
+  },
+  "limitations": [
+    "Measurements are from this Unity Editor, not a real Android device. No FPS guarantee.",
+    "Receiver timings compare the previous per-fragment eligibility path with the new cached target lookup, not whole-frame speed.",
+    "The 180-frame capture includes Editor and first-use activity. BehaviourFixedUpdate reported zero samples and is excluded; the GC counter unit was not independently verified and is not used as an allocation claim.",
+    "Mono GetAllocatedBytesForCurrentThread returned zero and is not used as evidence of allocation-free execution.",
+    "C# and binding changes require a rebuilt player; an existing APK is unchanged."
+  ],
+  "cleanup": {
+    "files": [
+      {
+        "path": "Documentation\\Cleanup-20261104.json",
+        "bytes": 4109,
+        "reason": "Superseded historical audit",
+        "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261105\\Documentation\\Cleanup-20261104.json",
+        "sha256": "657431D8FA9B481A638065FD705027149FAAB7E41BBF9C5CEF4C5FF11EB93E62"
+      },
+      {
+        "path": "Documentation\\Cleanup-UI-20261104.json",
+        "bytes": 16040,
+        "reason": "Superseded historical audit",
+        "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261105\\Documentation\\Cleanup-UI-20261104.json",
+        "sha256": "E4012DC3AF85F81F5913DC7326E616F1AD0B4D633C8CB1B53FF62EEA82816714"
+      },
+      {
+        "path": "Documentation\\LoadingAnimation-20261104.json",
+        "bytes": 4422,
+        "reason": "Superseded historical audit",
+        "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261105\\Documentation\\LoadingAnimation-20261104.json",
+        "sha256": "FF403EA69A247F209807FF43FB880574FA942B94FCE40A2BCA864B37ADF0B0C3"
+      },
+      {
+        "path": "Logs\\AssetImportWorker0.log",
+        "bytes": 965094,
+        "reason": "Stale generated import/shader log"
+      },
+      {
+        "path": "Logs\\AssetImportWorker1.log",
+        "bytes": 913850,
+        "reason": "Stale generated import/shader log"
+      },
+      {
+        "path": "Logs\\shadercompiler-AssetImportWorker0.log",
+        "bytes": 12004,
+        "reason": "Stale generated import/shader log"
+      }
+    ],
+    "spacingOnlyFilesRemoved": [
+      "Assets/LoopSort/Runtime/CarrierClearance.cs",
+      "Assets/LoopSort/Runtime/CarrierClearance.cs.meta",
+      "Assets/LoopSort/Runtime/CarrierLayoutCache.cs",
+      "Assets/LoopSort/Runtime/CarrierLayoutCache.cs.meta",
+      "Assets/LoopSort/Editor/LocalCartLayoutBaker.cs",
+      "Assets/LoopSort/Editor/LocalCartLayoutBaker.cs.meta",
+      "Assets/LoopSort/Resources/LoopSort/Data/local-cart-layouts.json",
+      "Assets/LoopSort/Resources/LoopSort/Data/local-cart-layouts.json.meta",
+      "Documentation/Conveyor-Layout-Validation-20261104.json"
+    ],
+    "retained": [
+      "Current runtime images and source Theme/效果图",
+      "SDK packages, fonts and licences",
+      "Current UI maps/source inventories",
+      "Latest GM APK",
+      "Unity Library/Temp/UserSettings used by the open editor",
+      "16 shader compiler logs currently held open by Unity"
+    ],
+    "removedFileCount": 15
+  }
+}

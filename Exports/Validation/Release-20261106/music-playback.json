@@ -1,0 +1,12 @@
+{
+  "musicAdvancesWhileGameplayPaused": true,
+  "musicAdvancesWithSettingsOpen": true,
+  "musicAdvancesThroughBoosterAnimation": true,
+  "musicSettingOffPausesAudio": true,
+  "musicSettingOnResumesWithoutRestart": true,
+  "backgroundPausesAudio": true,
+  "foregroundResumesWithoutRestart": true,
+  "fullscreenCommerceGatePausesAudio": true,
+  "commerceCompletionResumesWithoutRestart": true,
+  "sameClipThroughout": true
+}

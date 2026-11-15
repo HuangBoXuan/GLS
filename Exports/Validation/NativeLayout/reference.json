@@ -1,0 +1,55 @@
+{
+  "apk": "D:\\MiniProject\\workspace\\games\\LoopSort\\LoopSort-4.6.0-LevelMenu-v3-arm64.apk",
+  "dataSha256": "80fa374e5de34e9a8a298797779ea2779232b781bb8c6d9c3787ee25b0506348",
+  "extractionSha256": "80fa374e5de34e9a8a298797779ea2779232b781bb8c6d9c3787ee25b0506348",
+  "identical": true,
+  "catalogComparison": {
+    "apkLevels": 1299,
+    "projectLevels": 1299,
+    "differences": []
+  },
+  "framingResolutions": [
+    [
+      900,
+      1600
+    ],
+    [
+      750,
+      1650
+    ]
+  ],
+  "ropeMixedOrientationLevels": [
+    548,
+    775,
+    1061,
+    1275
+  ],
+  "verificationScope": "Source catalog comparison, runtime authored-pose/scale validation including sequential spare carts, viewport checks and six sampled screenshots. Not a full gameplay playthrough or pixel-identical Cinemachine reconstruction.",
+  "customCartLocalBounds": {
+    "level": 639,
+    "art": "Volcano 3D / cart",
+    "min": [
+      -1.11000013,
+      -0.0100004673,
+      -2.33240128
+    ],
+    "max": [
+      1.11000013,
+      3.09789848,
+      2.47800064
+    ]
+  },
+  "nativeCartBounds": {
+    "minimum": [
+      -1.1102984,
+      -0.012706,
+      -2.33273268
+    ],
+    "maximum": [
+      1.1102986,
+      2.43952,
+      2.47829342
+    ],
+    "note": "Original hidden native body/wheel geometry measured in Unity; custom centered rear lantern deliberately extends above the native body."
+  }
+}

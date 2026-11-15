@@ -1,0 +1,26 @@
+{
+  "status": "verified local module",
+  "moduleVersion": "local_20261101_a480955f",
+  "manifestSha256": "4bde56bc1ba7ed1e50a6c780915ab77e8e0c381793d0574e9ee2ca439d95e053",
+  "manifestFiles": 42,
+  "reviewFiles": 2571,
+  "productKeysInModuleReview": false,
+  "isolatedLuaTests": true,
+  "registered": false,
+  "published": false,
+  "releaseApkBuilt": false,
+  "files": {
+    "module-build-receipt.json": {
+      "bytes": 941,
+      "sha256": "010f9cf7fb849660f03ca85b8835e88b1f74dd2bfb0a0490be0b19b0bf194c64"
+    },
+    "module.zip": {
+      "bytes": 66217177,
+      "sha256": "1fe66603de2e99beb4c9768b81e120fad7ebd11c67812f45d22a82d5a507169b"
+    },
+    "review-source.zip": {
+      "bytes": 112500254,
+      "sha256": "252511d6df12e50bf33063aabef622879364d95730156ab175115e9ad45c0338"
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "schema": 1,
+  "bridgeApi": 1,
+  "versionCode": 0,
+  "version": "embedded",
+  "binaryVersion": "0.1.0",
+  "bindingId": "d29dee4b7537b366bb82882ea5867874824fd8b42b716e36a40904ea370b8c51",
+  "channel": "production",
+  "platform": "any",
+  "files": [
+    {
+      "path": "lua/game/activities.lua",
+      "sha256": "7b633bf4a1ad02140a09951ea7e44c97b666c662771411aff0fff9ebda626365",
+      "size": 7520
+    },
+    {
+      "path": "lua/game/activity_config.lua",
+      "sha256": "8bac5afc430af2918ce7499973abcec4eea97bd960814b325d4daf5f2a923276",
+      "size": 3809
+    },
+    {
+      "path": "lua/game/ad_cadence.lua",
+      "sha256": "197f8c49a7b481e56b111f07492a3578e01e4f1f1952477c28ff80c4e46008b3",
+      "size": 1690
+    },
+    {
+      "path": "lua/game/config.lua",
+      "sha256": "1ead9b6063bfbd40d33ca2b05817aa8ac5a13a3b10b0f62b0292fc8e2dd24a91",
+      "size": 724
+    },
+    {
+      "path": "lua/game/conveyor_spline.lua",
+      "sha256": "1d55c745c9a8ba3e817f8bdd2319246f083c33b094936c9b49cbaa65c3a0d283",
+      "size": 6391
+    },
+    {
+      "path": "lua/game/flow.lua",
+      "sha256": "b9dc7696c19a86ff14da48937912f9b874e88b3149a79128c09b6974675627d5",
+      "size": 13314
+    },
+    {
+      "path": "lua/game/guide_levels.lua",
+      "sha256": "3f2bd1eee1632444a3e3662b346c6661fe85f0ab8225e2e716213282192eded9",
+      "size": 209
+    },
+    {
+      "path": "lua/game/json.lua",
+      "sha256": "c7fd0ddeb074df8a7ab94a932025afee6c89215b17f4427bd50341e58c9807bd",
+      "size": 8166
+    },
+    {
+      "path": "lua/game/level_repository.lua",
+      "sha256": "9ee90cb8bacd9b2fc85e01599971dd27ca54f69eca669d701ed5f09b3143a873",
+      "size": 8053
+    },
+    {
+      "path": "lua/game/module_runtime.lua",
+      "sha256": "72b9e841a50c1a66fa91a8145570381ee83b551d35d5664c19ab392bf8270762",
+      "size": 10367
+    },
+    {
+      "path": "lua/game/peripheral.lua",
+      "sha256": "52b455e8d3b1e0ca0bfbf116f9f9083e5c4a173162eca731985ef589a98a7470",
+      "size": 5174
+    },
+    {
+      "path": "lua/game/peripheral_config.lua",
+      "sha256": "f1f9e904867c331f36cc6ff0352565832070c49ce7af410e6f88d764795bc59e",
+      "size": 1702
+    },
+    {
+      "path": "lua/game/rule_engine.lua",
+      "sha256": "0605433c3d5724cf0898f14c38c98147fe93c92009fd3a1ab540850cf185d59b",
+      "size": 35933
+    },
+    {
+      "path": "lua/game/rule_model.lua",
+      "sha256": "238fe5f29af4aeacc9e2d59325dcb810b2a8695ca4a5adcc4d04ba0b364e7e98",
+      "size": 11092
+    },
+    {
+      "path": "lua/game/rule_session.lua",
+      "sha256": "185b4c491d55d8e9bf68edd22f58ac5be37d7c02602342675515ba17d4515257",
+      "size": 6768
+    },
+    {
+      "path": "lua/game/rules.lua",
+      "sha256": "2ba235106006640ac4ec7577522981d05fb3c8f9243126735e47df993c4e9384",
+      "size": 133
+    },
+    {
+      "path": "lua/game/signin.lua",
+      "sha256": "17340a23132454475e7e5a0a4e05fc898d9aa9d183277e3570829eb4065ce0c7",
+      "size": 1585
+    },
+    {
+      "path": "lua/game/unlocks.lua",
+      "sha256": "e91c251647f36ff37cdc8edb6489960df7084a4e6e5e5f597d0f720e96df2c97",
+      "size": 522
+    },
+    {
+      "path": "lua/game/visual_clearance.lua",
+      "sha256": "169eb7ec2bbe2dc276fcb6c9715ad99e57f00fd1d641307d4b334c610a677d2b",
+      "size": 3532
+    },
+    {
+      "path": "lua/platform/assets.lua",
+      "sha256": "d69f7f6a5e6c21fc3e2be98b50fc1d6dea7ae1b716c8b3479b01d43e91663795",
+      "size": 15102
+    },
+    {
+      "path": "lua/platform/boosters.lua",
+      "sha256": "c9064c051fb5021ae96b36e02429f00d16dc57cda0a9ac884a9019d38fa1af98",
+      "size": 12677
+    },
+    {
+      "path": "lua/platform/main.lua",
+      "sha256": "65bb48f496bcd8fe304ef079cc889688e3963d3bf87eb6af1bffd41f31b2e356",
+      "size": 225
+    },
+    {
+      "path": "lua/platform/mechanisms.lua",
+      "sha256": "b37df82dc3b2b292eaac5b4cc85eb8eba13c4a2bf4de3edd572b69ebc2c8e6e2",
+      "size": 37055
+    },
+    {
+      "path": "lua/platform/native.lua",
+      "sha256": "d28e0abaf05ea8a1dfa69a7eee8c196676cd1da11cb277407f525b84fea8f1b3",
+      "size": 3305
+    },
+    {
+      "path": "lua/platform/presenter.lua",
+      "sha256": "cfa79beaa60d405ce0d4d04a6516cf78d8d739751b4eecb92788d240ca00b122",
+      "size": 59494
+    },
+    {
+      "path": "lua/platform/progress.lua",
+      "sha256": "568eb14238e2d087fba47b3f8420518bf890eb2e5ea3eca6e6d31db45dfe6be5",
+      "size": 17682
+    },
+    {
+      "path": "lua/platform/route.lua",
+      "sha256": "fc0047d90edd2309b3b8c1f6ae61133c25cfa37593533dfc8e5f642fec10c923",
+      "size": 6049
+    },
+    {
+      "path": "lua/platform/services.lua",
+      "sha256": "5ee82dcfd75a3d06d1aebb6e41bc10b7df916059927d8af6c8beb44ba8e3654d",
+      "size": 8130
+    },
+    {
+      "path": "lua/platform/ui.lua",
+      "sha256": "f642a5828d0fafe03574c7ce1dc402652c1cbba1825484276bc59d2b60a5724c",
+      "size": 63379
+    },
+    {
+      "path": "lua/ui/assets.lua",
+      "sha256": "e49cbaacf19e39c6a53fba98725e20d5bf914368623ab6cf1d2d66838e9aee7d",
+      "size": 3530
+    },
+    {
+      "path": "lua/ui/menu_theme.lua",
+      "sha256": "59cd078e7e882e42a5c054240a73e2248445cec4a82c31bf9336bfc768793004",
+      "size": 3264
+    },
+    {
+      "path": "lua/ui/pages.lua",
+      "sha256": "6eff9914b9d75b29259e6ccdb8830414d1d19831c27fbc5501fe1ed21ecd3692",
+      "size": 40895
+    },
+    {
+      "path": "lua/ui/signin.lua",
+      "sha256": "bfaf1d8be0a6cd73597759374d23b15dc9e7417324fd711dcdc2960c0b3e4c6b",
+      "size": 2756
+    },
+    {
+      "path": "lua/ui/skin.lua",
+      "sha256": "119390af1d8c4112d4aca186b0a890f279ee83929668aad99fd553c3c818c48c",
+      "size": 3291
+    }
+  ]
+}

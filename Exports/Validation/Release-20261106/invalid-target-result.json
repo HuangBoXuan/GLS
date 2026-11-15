@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "result": {
+    "success": true,
+    "message": "Code executed successfully.",
+    "data": {
+      "result": {
+        "invalidCartCancels": true,
+        "noCharge": true,
+        "bgmSeconds": 71.1111145,
+        "loop": true
+      },
+      "compiler": "codedom"
+    }
+  }
+}

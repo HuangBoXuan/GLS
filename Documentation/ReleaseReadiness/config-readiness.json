@@ -1,0 +1,21 @@
+{
+    "status": "passed",
+    "androidPackageName": "com.falcogames.loopsort",
+    "businessGameId": "1006000",
+    "moduleGameId": "loopsort0",
+    "missingProductionFields": [
+        "developmentOnly must be false",
+        "registrationConfirmed",
+        "productId",
+        "apiBaseUrl",
+        "cdnBaseUrl"
+    ],
+    "clientInputsApplied": true,
+    "allAdFormatsConfigured": true,
+    "administrativeKeysExcluded": true,
+    "consentGatePassed": true,
+    "productionReady": false,
+    "published": false,
+    "apkBuilt": false,
+    "targetApi": 36
+}

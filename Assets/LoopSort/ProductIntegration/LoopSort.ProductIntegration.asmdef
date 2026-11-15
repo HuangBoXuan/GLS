@@ -1,0 +1,6 @@
+{
+  "name": "LoopSort.ProductIntegration",
+  "rootNamespace": "LoopSort.ProductIntegration",
+  "references": ["MiniGamePlatform.SDK", "MiniGamePlatform.Host", "MaxSdk.Scripts", "AppsFlyer"],
+  "autoReferenced": true
+}

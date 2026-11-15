@@ -1,0 +1,3076 @@
+{
+  "locales": [
+    "en",
+    "zh-CN",
+    "hi",
+    "pt-BR"
+  ],
+  "entries": [
+    {
+      "source": "设置",
+      "en": "Settings",
+      "hi": "सेटिंग्स",
+      "pt": "Configurações"
+    },
+    {
+      "source": "暂停",
+      "en": "Paused",
+      "hi": "विराम",
+      "pt": "Pausa"
+    },
+    {
+      "source": "选择语言",
+      "en": "Choose language",
+      "hi": "भाषा चुनें",
+      "pt": "Selecionar idioma"
+    },
+    {
+      "source": "音乐",
+      "en": "Music",
+      "hi": "संगीत",
+      "pt": "Música"
+    },
+    {
+      "source": "音效",
+      "en": "Sound effects",
+      "hi": "ध्वनि प्रभाव",
+      "pt": "Efeitos sonoros"
+    },
+    {
+      "source": "振动",
+      "en": "Vibration",
+      "hi": "कंपन",
+      "pt": "Vibração"
+    },
+    {
+      "source": "语言",
+      "en": "Language",
+      "hi": "भाषा",
+      "pt": "Idioma"
+    },
+    {
+      "source": "简体中文",
+      "en": "简体中文",
+      "hi": "简体中文",
+      "pt": "简体中文"
+    },
+    {
+      "source": "हिन्दी",
+      "en": "हिन्दी",
+      "hi": "हिन्दी",
+      "pt": "हिन्दी"
+    },
+    {
+      "source": "继续游戏",
+      "en": "Resume Game",
+      "hi": "खेल जारी रखें",
+      "pt": "Continuar"
+    },
+    {
+      "source": "重新开始",
+      "en": "Restart",
+      "hi": "फिर से शुरू करें",
+      "pt": "Recomeçar"
+    },
+    {
+      "source": "返回主页",
+      "en": "Back to Home",
+      "hi": "मुख्य पृष्ठ",
+      "pt": "Página inicial"
+    },
+    {
+      "source": "回到主页",
+      "en": "Home",
+      "hi": "मुख्य पृष्ठ",
+      "pt": "Página inicial"
+    },
+    {
+      "source": "主页",
+      "en": "Home",
+      "hi": "मुख्य पृष्ठ",
+      "pt": "Início"
+    },
+    {
+      "source": "玩法帮助",
+      "en": "How to play",
+      "hi": "कैसे खेलें",
+      "pt": "Como jogar"
+    },
+    {
+      "source": "隐私政策",
+      "en": "Privacy policy",
+      "hi": "गोपनीयता नीति",
+      "pt": "Política de privacidade"
+    },
+    {
+      "source": "用户协议",
+      "en": "Terms of service",
+      "hi": "सेवा की शर्तें",
+      "pt": "Termos de uso"
+    },
+    {
+      "source": "广告隐私设置",
+      "en": "Ad privacy settings",
+      "hi": "विज्ञापन गोपनीयता",
+      "pt": "Privacidade de anúncios"
+    },
+    {
+      "source": "广告隐私",
+      "en": "Ad privacy",
+      "hi": "विज्ञापन गोपनीयता",
+      "pt": "Privacidade de anúncios"
+    },
+    {
+      "source": "账号与数据删除",
+      "en": "Account & data deletion",
+      "hi": "खाता और डेटा हटाएँ",
+      "pt": "Excluir conta e dados"
+    },
+    {
+      "source": "版本 {0}",
+      "en": "Version {0}",
+      "hi": "संस्करण {0}",
+      "pt": "Versão {0}"
+    },
+    {
+      "source": "每日礼包",
+      "en": "Daily gifts",
+      "hi": "दैनिक उपहार",
+      "pt": "Presentes diários"
+    },
+    {
+      "source": "图鉴",
+      "en": "Guide",
+      "hi": "गाइड",
+      "pt": "Guia"
+    },
+    {
+      "source": "机制图鉴",
+      "en": "Mechanics guide",
+      "hi": "खेल की युक्तियाँ",
+      "pt": "Guia de mecânicas"
+    },
+    {
+      "source": "暂停横幅",
+      "en": "Pause banners",
+      "hi": "बैनर रोकें",
+      "pt": "Pausar banners"
+    },
+    {
+      "source": "暂停横幅广告",
+      "en": "Pause banner ads",
+      "hi": "बैनर विज्ञापन रोकें",
+      "pt": "Pausar anúncios de banner"
+    },
+    {
+      "source": "广告",
+      "en": "Ads",
+      "hi": "विज्ञापन",
+      "pt": "Anúncios"
+    },
+    {
+      "source": "广告已准备好",
+      "en": "Ad ready",
+      "hi": "विज्ञापन तैयार है",
+      "pt": "Anúncio pronto"
+    },
+    {
+      "source": "广告准备中，请稍后重试",
+      "en": "Preparing an ad. Try again shortly.",
+      "hi": "विज्ञापन तैयार हो रहा है। थोड़ी देर बाद फिर कोशिश करें।",
+      "pt": "Preparando anúncio. Tente novamente em instantes."
+    },
+    {
+      "source": "广告准备中…",
+      "en": "Preparing an ad…",
+      "hi": "विज्ञापन तैयार हो रहा है…",
+      "pt": "Preparando anúncio…"
+    },
+    {
+      "source": "广告加载中，请稍后重试",
+      "en": "Loading an ad. Try again shortly.",
+      "hi": "विज्ञापन लोड हो रहा है। थोड़ी देर बाद फिर कोशिश करें।",
+      "pt": "Carregando anúncio. Tente novamente em instantes."
+    },
+    {
+      "source": "广告暂不可用，请稍后重试",
+      "en": "Ads are unavailable. Try again later.",
+      "hi": "विज्ञापन अभी उपलब्ध नहीं हैं। बाद में फिर कोशिश करें।",
+      "pt": "Anúncios indisponíveis. Tente novamente mais tarde."
+    },
+    {
+      "source": "广告服务暂不可用",
+      "en": "Ads are temporarily unavailable.",
+      "hi": "विज्ञापन अभी उपलब्ध नहीं हैं।",
+      "pt": "Anúncios temporariamente indisponíveis."
+    },
+    {
+      "source": "广告未完成，没有领取奖励",
+      "en": "Ad not completed. No reward granted.",
+      "hi": "विज्ञापन पूरा नहीं हुआ। इनाम नहीं मिला।",
+      "pt": "Anúncio não concluído. Nenhuma recompensa recebida."
+    },
+    {
+      "source": "广告未完成，未发放奖励",
+      "en": "Ad not completed. No reward granted.",
+      "hi": "विज्ञापन पूरा नहीं हुआ। इनाम नहीं मिला।",
+      "pt": "Anúncio não concluído. Nenhuma recompensa recebida."
+    },
+    {
+      "source": "已获得道具 ×1",
+      "en": "Booster received ×1",
+      "hi": "बूस्टर मिला ×1",
+      "pt": "Reforço recebido ×1"
+    },
+    {
+      "source": "横幅广告已暂停 15 分钟",
+      "en": "Banner ads paused for 15 minutes.",
+      "hi": "बैनर विज्ञापन 15 मिनट के लिए रोक दिए गए हैं।",
+      "pt": "Banners pausados por 15 minutos."
+    },
+    {
+      "source": "横幅广告已暂停",
+      "en": "Banner ads paused",
+      "hi": "बैनर विज्ञापन रुके हुए हैं",
+      "pt": "Banners pausados"
+    },
+    {
+      "source": "暂停中",
+      "en": "Paused",
+      "hi": "रुका हुआ",
+      "pt": "Pausado"
+    },
+    {
+      "source": "15 分钟",
+      "en": "15 minutes",
+      "hi": "15 मिनट",
+      "pt": "15 minutos"
+    },
+    {
+      "source": "享受无横幅打扰的游戏时间\n道具仍可通过看广告获取",
+      "en": "Play without banner distractions.\nRewarded ads remain available for boosters.",
+      "hi": "बैनर की रुकावट के बिना खेलें।\nविज्ञापन देखकर बूस्टर पाना जारी रखें।",
+      "pt": "Jogue sem a distração de banners.\nContinue vendo anúncios para obter reforços."
+    },
+    {
+      "source": "看广告领取",
+      "en": "Watch & claim",
+      "hi": "विज्ञापन देखें और पाएँ",
+      "pt": "Assistir e receber"
+    },
+    {
+      "source": "观看广告",
+      "en": "Watch ad",
+      "hi": "विज्ञापन देखें",
+      "pt": "Assistir anúncio"
+    },
+    {
+      "source": "免费 ×1",
+      "en": "Free ×1",
+      "hi": "मुफ़्त ×1",
+      "pt": "Grátis ×1"
+    },
+    {
+      "source": "正在播放…",
+      "en": "Playing ad…",
+      "hi": "विज्ञापन चल रहा है…",
+      "pt": "Exibindo anúncio…"
+    },
+    {
+      "source": "完成广告后领取奖励",
+      "en": "Complete the ad to receive your reward.",
+      "hi": "इनाम पाने के लिए विज्ञापन पूरा देखें।",
+      "pt": "Conclua o anúncio para receber a recompensa."
+    },
+    {
+      "source": "隐私选项",
+      "en": "Privacy choices",
+      "hi": "गोपनीयता विकल्प",
+      "pt": "Opções de privacidade"
+    },
+    {
+      "source": "当前无需显示隐私选项，或服务暂不可用",
+      "en": "Privacy choices are not required or are temporarily unavailable.",
+      "hi": "गोपनीयता विकल्प अभी आवश्यक नहीं हैं या उपलब्ध नहीं हैं।",
+      "pt": "As opções de privacidade não são necessárias ou estão indisponíveis."
+    },
+    {
+      "source": "选择关卡",
+      "en": "Select level",
+      "hi": "स्तर चुनें",
+      "pt": "Selecionar fase"
+    },
+    {
+      "source": "第 {0} 关",
+      "en": "Level {0}",
+      "hi": "स्तर {0}",
+      "pt": "Fase {0}"
+    },
+    {
+      "source": "第 {0} 天",
+      "en": "Day {0}",
+      "hi": "दिन {0}",
+      "pt": "Dia {0}"
+    },
+    {
+      "source": "第{0}天",
+      "en": "Day {0}",
+      "hi": "दिन {0}",
+      "pt": "Dia {0}"
+    },
+    {
+      "source": "七日签到",
+      "en": "7-day check-in",
+      "hi": "सात दिन का चेक-इन",
+      "pt": "Check-in de 7 dias"
+    },
+    {
+      "source": "每日签到",
+      "en": "Daily check-in",
+      "hi": "दैनिक चेक-इन",
+      "pt": "Check-in diário"
+    },
+    {
+      "source": "签到",
+      "en": "Check in",
+      "hi": "चेक-इन",
+      "pt": "Check-in"
+    },
+    {
+      "source": "领取",
+      "en": "Claim",
+      "hi": "पाएँ",
+      "pt": "Receber"
+    },
+    {
+      "source": "已领取",
+      "en": "Claimed",
+      "hi": "मिल गया",
+      "pt": "Recebido"
+    },
+    {
+      "source": "✓ 已领取",
+      "en": "✓ Claimed",
+      "hi": "✓ मिल गया",
+      "pt": "✓ Recebido"
+    },
+    {
+      "source": "待签到",
+      "en": "Pending",
+      "hi": "बाकी है",
+      "pt": "Pendente"
+    },
+    {
+      "source": "待领取",
+      "en": "Ready to claim",
+      "hi": "लेने के लिए तैयार",
+      "pt": "Disponível"
+    },
+    {
+      "source": "今日可领取",
+      "en": "Available today",
+      "hi": "आज उपलब्ध",
+      "pt": "Disponível hoje"
+    },
+    {
+      "source": "领取今日奖励",
+      "en": "Claim today's reward",
+      "hi": "आज का इनाम पाएँ",
+      "pt": "Receber recompensa de hoje"
+    },
+    {
+      "source": "本轮已签到 {0} / 7 天",
+      "en": "Checked in {0} / 7 days",
+      "hi": "चेक-इन {0} / 7 दिन",
+      "pt": "Check-in em {0} / 7 dias"
+    },
+    {
+      "source": "累计签到 7 天，天天领道具！",
+      "en": "Check in for 7 days. Get boosters daily!",
+      "hi": "7 दिन चेक-इन करें और हर दिन बूस्टर पाएँ!",
+      "pt": "Faça check-in por 7 dias e receba reforços diariamente!"
+    },
+    {
+      "source": "连续签到 7 天，天天领道具！",
+      "en": "Check in for 7 days. Get boosters daily!",
+      "hi": "7 दिन चेक-इन करें और हर दिन बूस्टर पाएँ!",
+      "pt": "Faça check-in por 7 dias e receba reforços diariamente!"
+    },
+    {
+      "source": "累计登录",
+      "en": "Total check-ins",
+      "hi": "कुल चेक-इन",
+      "pt": "Total de check-ins"
+    },
+    {
+      "source": "今日礼包已经领取",
+      "en": "Today's gift has already been claimed.",
+      "hi": "आज का उपहार मिल चुका है।",
+      "pt": "O presente de hoje já foi recebido."
+    },
+    {
+      "source": "已领取：{0}",
+      "en": "Claimed: {0}",
+      "hi": "मिला: {0}",
+      "pt": "Recebido: {0}"
+    },
+    {
+      "source": "撤回",
+      "en": "Undo",
+      "hi": "वापस लें",
+      "pt": "Desfazer"
+    },
+    {
+      "source": "打乱",
+      "en": "Shuffle",
+      "hi": "फेरबदल",
+      "pt": "Embaralhar"
+    },
+    {
+      "source": "扩容",
+      "en": "Expand belt",
+      "hi": "जगह बढ़ाएँ",
+      "pt": "Ampliar esteira"
+    },
+    {
+      "source": "加车",
+      "en": "Add cart",
+      "hi": "गाड़ी जोड़ें",
+      "pt": "Adicionar vagonete"
+    },
+    {
+      "source": "撤回一步",
+      "en": "Undo move",
+      "hi": "चाल वापस लें",
+      "pt": "Desfazer jogada"
+    },
+    {
+      "source": "打乱方块",
+      "en": "Shuffle blocks",
+      "hi": "ब्लॉक फेरबदल",
+      "pt": "Embaralhar blocos"
+    },
+    {
+      "source": "颜色重排",
+      "en": "Color shuffle",
+      "hi": "रंग फेरबदल",
+      "pt": "Embaralhar cores"
+    },
+    {
+      "source": "传送带扩容",
+      "en": "Belt expansion",
+      "hi": "कन्वेयर की जगह बढ़ाएँ",
+      "pt": "Ampliar esteira"
+    },
+    {
+      "source": "增加托盘",
+      "en": "Add cart",
+      "hi": "गाड़ी जोड़ें",
+      "pt": "Adicionar vagonete"
+    },
+    {
+      "source": "增加矿车",
+      "en": "Add cart",
+      "hi": "गाड़ी जोड़ें",
+      "pt": "Adicionar vagonete"
+    },
+    {
+      "source": "撤回上一次操作，恢复方块和矿车状态。",
+      "en": "Undo your last move and restore the blocks and carts.",
+      "hi": "पिछली चाल वापस लें और ब्लॉक व गाड़ियाँ पहले जैसे करें।",
+      "pt": "Desfaça a última jogada e restaure os blocos e vagonetes."
+    },
+    {
+      "source": "撤回上一次操作，恢复方块和托盘状态。",
+      "en": "Undo your last move and restore the blocks and carts.",
+      "hi": "पिछली चाल वापस लें और ब्लॉक व गाड़ियाँ पहले जैसे करें।",
+      "pt": "Desfaça a última jogada e restaure os blocos e vagonetes."
+    },
+    {
+      "source": "撤回上一次操作，把方块恢复到操作之前的位置。",
+      "en": "Undo your last move and return blocks to their previous positions.",
+      "hi": "पिछली चाल वापस लें और ब्लॉक उनकी पुरानी जगह पर लौटाएँ।",
+      "pt": "Desfaça a última jogada e devolva os blocos às posições anteriores."
+    },
+    {
+      "source": "撤销最近一次放出方块的操作，恢复到操作前的状态。",
+      "en": "Undo the last block release and restore the previous state.",
+      "hi": "पिछली बार ब्लॉक छोड़ने की चाल वापस लें।",
+      "pt": "Desfaça a última liberação de blocos e restaure o estado anterior."
+    },
+    {
+      "source": "重新排列一辆矿车中的方块，各种颜色的数量保持不变。",
+      "en": "Rearrange the blocks in one cart without changing the color counts.",
+      "hi": "एक गाड़ी के ब्लॉक फेरबदल करें। हर रंग की संख्या वही रहेगी।",
+      "pt": "Reorganize os blocos de um vagonete sem alterar a quantidade de cada cor."
+    },
+    {
+      "source": "重新排列一个托盘中的方块。",
+      "en": "Rearrange the blocks in one cart.",
+      "hi": "एक गाड़ी के ब्लॉक फेरबदल करें।",
+      "pt": "Reorganize os blocos de um vagonete."
+    },
+    {
+      "source": "选择一个包含多种颜色的托盘，重新排列托盘中的方块。",
+      "en": "Choose a multicolored cart and rearrange its blocks.",
+      "hi": "कई रंगों वाली गाड़ी चुनें और उसके ब्लॉक फेरबदल करें।",
+      "pt": "Escolha um vagonete com várias cores e reorganize seus blocos."
+    },
+    {
+      "source": "选择一个混色托盘，重新排列托盘内方块。",
+      "en": "Choose a multicolored cart and rearrange its blocks.",
+      "hi": "कई रंगों वाली गाड़ी चुनें और उसके ब्लॉक फेरबदल करें।",
+      "pt": "Escolha um vagonete com várias cores e reorganize seus blocos."
+    },
+    {
+      "source": "增加传送带容量，让更多方块参与组装。",
+      "en": "Expand the belt so more blocks can be assembled.",
+      "hi": "कन्वेयर की जगह बढ़ाएँ ताकि अधिक ब्लॉक जुड़ सकें।",
+      "pt": "Amplie a esteira para montar mais blocos."
+    },
+    {
+      "source": "让传送带多容纳一个完整方块。",
+      "en": "Make room for one more full block on the belt.",
+      "hi": "कन्वेयर पर एक और पूरा ब्लॉक रखने की जगह बनाएँ।",
+      "pt": "Crie espaço para mais um bloco inteiro na esteira."
+    },
+    {
+      "source": "给传送带增加一整块容量，拥堵失败后也能继续。",
+      "en": "Add one full block of belt capacity, even after a jam.",
+      "hi": "कन्वेयर पर एक पूरे ब्लॉक की जगह बढ़ाएँ। जाम होने पर भी जारी रखें।",
+      "pt": "Adicione espaço para um bloco inteiro, mesmo após um congestionamento."
+    },
+    {
+      "source": "在本关增加一个可用的空托盘。",
+      "en": "Add an empty cart to this level.",
+      "hi": "इस स्तर में एक खाली गाड़ी जोड़ें।",
+      "pt": "Adicione um vagonete vazio a esta fase."
+    },
+    {
+      "source": "增加一辆空矿车，腾出空间继续分解和组装。",
+      "en": "Add an empty cart to make room for dismantling and assembling.",
+      "hi": "एक खाली गाड़ी जोड़ें ताकि ब्लॉक अलग करने और जोड़ने की जगह मिले।",
+      "pt": "Adicione um vagonete vazio para continuar desmontando e montando."
+    },
+    {
+      "source": "在关卡预留位置添加一个空托盘，增加收集空间。",
+      "en": "Place an empty cart in a reserved slot for more collection space.",
+      "hi": "तय जगह पर एक खाली गाड़ी रखकर संग्रह की जगह बढ़ाएँ।",
+      "pt": "Coloque um vagonete vazio em uma vaga reservada para aumentar o espaço."
+    },
+    {
+      "source": "暂时没有可以撤回的操作",
+      "en": "No move to undo yet.",
+      "hi": "अभी कोई चाल वापस नहीं ली जा सकती।",
+      "pt": "Ainda não há jogada para desfazer."
+    },
+    {
+      "source": "没有可以撤销的操作",
+      "en": "No move to undo.",
+      "hi": "कोई चाल वापस नहीं ली जा सकती।",
+      "pt": "Nenhuma jogada para desfazer."
+    },
+    {
+      "source": "道具不足，可在每日礼包中领取",
+      "en": "Not enough boosters. Claim daily gifts.",
+      "hi": "बूस्टर कम हैं। दैनिक उपहार लें।",
+      "pt": "Sem reforços suficientes. Receba presentes diários."
+    },
+    {
+      "source": "此道具尚未解锁",
+      "en": "This booster is not unlocked yet.",
+      "hi": "यह बूस्टर अभी खुला नहीं है।",
+      "pt": "Este reforço ainda não foi desbloqueado."
+    },
+    {
+      "source": "本关没有可以加车的空位",
+      "en": "No spare cart slots in this level.",
+      "hi": "इस स्तर में नई गाड़ी की जगह नहीं है।",
+      "pt": "Não há vaga para outro vagonete nesta fase."
+    },
+    {
+      "source": "已添加一个空托盘",
+      "en": "Empty cart added.",
+      "hi": "खाली गाड़ी जोड़ दी गई।",
+      "pt": "Vagonete vazio adicionado."
+    },
+    {
+      "source": "传送带容量增加一组",
+      "en": "Belt capacity increased by one group.",
+      "hi": "कन्वेयर की जगह एक समूह बढ़ गई।",
+      "pt": "Capacidade da esteira aumentada em um grupo."
+    },
+    {
+      "source": "请选择需要打乱的托盘",
+      "en": "Choose a cart to shuffle.",
+      "hi": "फेरबदल के लिए गाड़ी चुनें।",
+      "pt": "Escolha um vagonete para embaralhar."
+    },
+    {
+      "source": "请选择托盘，再次点击打乱可取消",
+      "en": "Choose a cart. Tap Shuffle again to cancel.",
+      "hi": "गाड़ी चुनें। रद्द करने के लिए फेरबदल फिर दबाएँ।",
+      "pt": "Escolha um vagonete. Toque em Embaralhar novamente para cancelar."
+    },
+    {
+      "source": "已取消选择",
+      "en": "Selection canceled.",
+      "hi": "चुनाव रद्द कर दिया गया।",
+      "pt": "Seleção cancelada."
+    },
+    {
+      "source": "请选择装有多种颜色的托盘",
+      "en": "Choose a cart with multiple colors.",
+      "hi": "कई रंगों वाली गाड़ी चुनें।",
+      "pt": "Escolha um vagonete com várias cores."
+    },
+    {
+      "source": "请等待关卡入场",
+      "en": "Wait for the level entrance.",
+      "hi": "स्तर शुरू होने तक रुकें।",
+      "pt": "Aguarde a entrada da fase."
+    },
+    {
+      "source": "请等待关卡加载完成",
+      "en": "Wait for the level to load.",
+      "hi": "स्तर लोड होने तक रुकें।",
+      "pt": "Aguarde o carregamento da fase."
+    },
+    {
+      "source": "请等待道具动画完成",
+      "en": "Wait for the booster animation.",
+      "hi": "बूस्टर का प्रभाव पूरा होने तक रुकें।",
+      "pt": "Aguarde a animação do reforço."
+    },
+    {
+      "source": "恭喜通过",
+      "en": "Level Cleared!",
+      "hi": "स्तर पूरा!",
+      "pt": "Fase concluída!"
+    },
+    {
+      "source": "恭喜通过！",
+      "en": "Level complete!",
+      "hi": "स्तर पूरा हुआ!",
+      "pt": "Fase concluída!"
+    },
+    {
+      "source": "再试一次",
+      "en": "Try again",
+      "hi": "फिर कोशिश करें",
+      "pt": "Tentar novamente"
+    },
+    {
+      "source": "重新规划方块顺序，再试一次",
+      "en": "Plan a new block order and try again.",
+      "hi": "ब्लॉक का नया क्रम सोचें और फिर कोशिश करें।",
+      "pt": "Planeje uma nova ordem para os blocos e tente novamente."
+    },
+    {
+      "source": "下一关",
+      "en": "Next level",
+      "hi": "अगला स्तर",
+      "pt": "Próxima fase"
+    },
+    {
+      "source": "跳过本关",
+      "en": "Skip level",
+      "hi": "स्तर छोड़ें",
+      "pt": "Pular fase"
+    },
+    {
+      "source": "全部",
+      "en": "All",
+      "hi": "सभी",
+      "pt": "Todas"
+    },
+    {
+      "source": "已通关",
+      "en": "Completed",
+      "hi": "पूरे हुए",
+      "pt": "Concluídas"
+    },
+    {
+      "source": "已跳过",
+      "en": "Skipped",
+      "hi": "छोड़े गए",
+      "pt": "Puladas"
+    },
+    {
+      "source": "新机制解锁",
+      "en": "New mechanic unlocked",
+      "hi": "नई युक्ति खुल गई",
+      "pt": "Nova mecânica desbloqueada"
+    },
+    {
+      "source": "新机制介绍",
+      "en": "New mechanic",
+      "hi": "नई युक्ति",
+      "pt": "Nova mecânica"
+    },
+    {
+      "source": "知道了",
+      "en": "Got it",
+      "hi": "समझ गया",
+      "pt": "Entendi"
+    },
+    {
+      "source": "返回图鉴",
+      "en": "Back to guide",
+      "hi": "गाइड पर लौटें",
+      "pt": "Voltar ao guia"
+    },
+    {
+      "source": "上一页",
+      "en": "Previous",
+      "hi": "पिछला",
+      "pt": "Anterior"
+    },
+    {
+      "source": "下一页",
+      "en": "Next",
+      "hi": "अगला",
+      "pt": "Próximo"
+    },
+    {
+      "source": "点击图案查看玩法说明",
+      "en": "Tap an icon to learn how it works.",
+      "hi": "कैसे खेलें जानने के लिए चिह्न दबाएँ।",
+      "pt": "Toque em um ícone para ver como funciona."
+    },
+    {
+      "source": "机制首次出现关卡",
+      "en": "First appearance",
+      "hi": "पहली बार दिखने वाला स्तर",
+      "pt": "Primeira aparição"
+    },
+    {
+      "source": "机制首次出现关卡：第 {0} 关",
+      "en": "First appears in level {0}",
+      "hi": "पहली बार स्तर {0} में",
+      "pt": "Aparece na fase {0}"
+    },
+    {
+      "source": "点击手指指向的托盘，将红色方块收集到另一个托盘",
+      "en": "Tap the indicated cart to collect red blocks in the other cart.",
+      "hi": "इशारे वाली गाड़ी दबाएँ ताकि लाल ब्लॉक दूसरी गाड़ी में इकट्ठे हों।",
+      "pt": "Toque no vagonete indicado para levar os blocos vermelhos ao outro."
+    },
+    {
+      "source": "先点击混色托盘，收集最外侧的黄色方块",
+      "en": "Tap the mixed-color cart to collect its outer yellow blocks.",
+      "hi": "कई रंगों वाली गाड़ी दबाएँ और बाहर के पीले ब्लॉक इकट्ठे करें।",
+      "pt": "Toque no vagonete de várias cores para coletar os blocos amarelos externos."
+    },
+    {
+      "source": "继续收集红色方块，装满剩余托盘",
+      "en": "Keep collecting red blocks to fill the remaining carts.",
+      "hi": "लाल ब्लॉक इकट्ठे करके बाकी गाड़ियाँ भरें।",
+      "pt": "Continue coletando blocos vermelhos para encher os vagonetes restantes."
+    },
+    {
+      "source": "方块沿传送带移动，靠近同色托盘后自动收集",
+      "en": "Blocks travel on the belt and enter matching carts automatically.",
+      "hi": "ब्लॉक कन्वेयर पर चलते हैं और उसी रंग की गाड़ी में अपने आप जमा होते हैं।",
+      "pt": "Os blocos seguem pela esteira e entram automaticamente nos vagonetes da mesma cor."
+    },
+    {
+      "source": "所有关卡均已完成，可再次挑战本关",
+      "en": "All levels completed. You can replay this level.",
+      "hi": "सभी स्तर पूरे हो गए। यह स्तर फिर खेल सकते हैं।",
+      "pt": "Todas as fases concluídas. Você pode jogar esta fase novamente."
+    },
+    {
+      "source": "已是最后一关",
+      "en": "This is the last level.",
+      "hi": "यह आखिरी स्तर है।",
+      "pt": "Esta é a última fase."
+    },
+    {
+      "source": "游戏内容加载失败，请重新启动游戏",
+      "en": "Game content could not load. Please restart.",
+      "hi": "खेल लोड नहीं हुआ। फिर से शुरू करें।",
+      "pt": "Não foi possível carregar o jogo. Reinicie."
+    },
+    {
+      "source": "正在准备游戏…",
+      "en": "Preparing the game…",
+      "hi": "खेल तैयार हो रहा है…",
+      "pt": "Preparando o jogo…"
+    },
+    {
+      "source": "传送洞",
+      "en": "Portal Tunnel",
+      "hi": "पोर्टल सुरंग",
+      "pt": "Túnel portal"
+    },
+    {
+      "source": "矿石到达跑道尽头后，会从另一端继续传送。",
+      "en": "Ore reaching the end of the track continues from the other end.",
+      "hi": "पटरी के अंत तक पहुँचा अयस्क दूसरे सिरे से आगे बढ़ता है।",
+      "pt": "O minério que chega ao fim da pista continua pela outra ponta."
+    },
+    {
+      "source": "隐藏块",
+      "en": "Hidden Blocks",
+      "hi": "छिपे ब्लॉक",
+      "pt": "Blocos ocultos"
+    },
+    {
+      "source": "带问号的矿石会隐藏颜色。让它露在矿车最外侧，就能看见真实颜色。",
+      "en": "Question marks hide ore colors. Expose the ore at the edge of its cart to reveal its true color.",
+      "hi": "प्रश्नचिह्न अयस्क का रंग छिपाता है। उसे गाड़ी के बाहर वाले किनारे तक लाकर असली रंग देखें।",
+      "pt": "A interrogação esconde a cor do minério. Exponha-o na borda do vagonete para revelar sua cor."
+    },
+    {
+      "source": "彩色盖",
+      "en": "Color Lid",
+      "hi": "रंगीन ढक्कन",
+      "pt": "Tampa colorida"
+    },
+    {
+      "source": "完成一辆与封盖同色的矿车，即可打开封盖，露出里面的矿石。",
+      "en": "Complete a cart matching the cover's color to open it and reveal the ore inside.",
+      "hi": "ढक्कन के रंग वाली गाड़ी पूरी भरें ताकि ढक्कन खुले और अंदर का अयस्क दिखे।",
+      "pt": "Complete um vagonete da cor da tampa para abri-la e revelar o minério."
+    },
+    {
+      "source": "单向闸",
+      "en": "One-way Gate",
+      "hi": "एकतरफ़ा द्वार",
+      "pt": "Portão de mão única"
+    },
+    {
+      "source": "带障碍杆的矿车可以收集同色矿石，但不能向传送带放出矿石。",
+      "en": "A barred cart can collect matching ore but cannot release ore onto the belt.",
+      "hi": "रोक वाली गाड़ी उसी रंग का अयस्क जमा कर सकती है, पर कन्वेयर पर अयस्क छोड़ नहीं सकती।",
+      "pt": "Um vagonete bloqueado recebe minério da mesma cor, mas não pode soltá-lo na esteira."
+    },
+    {
+      "source": "连接栓",
+      "en": "Link Bolt",
+      "hi": "जोड़ने वाला बोल्ट",
+      "pt": "Parafuso de ligação"
+    },
+    {
+      "source": "连接栓把相邻矿石连在一起。它们需要一起放出，请预留足够的传送带空间。",
+      "en": "Connectors link adjacent ore blocks. They must be released together, so leave enough belt space.",
+      "hi": "जोड़ पास के अयस्क ब्लॉक बाँधते हैं। उन्हें साथ छोड़ना होगा, इसलिए कन्वेयर पर पर्याप्त जगह रखें।",
+      "pt": "Os conectores unem minérios vizinhos. Libere-os juntos e deixe espaço suficiente na esteira."
+    },
+    {
+      "source": "熔岩壳",
+      "en": "Lava Shell",
+      "hi": "लावा आवरण",
+      "pt": "Crosta de lava"
+    },
+    {
+      "source": "完成关联的矿车，即可击碎岩壳并解锁这辆矿车。",
+      "en": "Complete the linked cart to break the lava shell and unlock this cart.",
+      "hi": "जुड़ी हुई गाड़ी पूरी भरें ताकि लावा कवच टूटे और यह गाड़ी खुले।",
+      "pt": "Complete o vagonete vinculado para quebrar a crosta e liberar este vagonete."
+    },
+    {
+      "source": "钥匙闸",
+      "en": "Key Gate",
+      "hi": "चाबी वाला द्वार",
+      "pt": "Portão com chave"
+    },
+    {
+      "source": "让钥匙矿石露出，收集钥匙，即可打开同色大锁和钥匙闸。",
+      "en": "Expose and collect the key ore to open matching locks and mine gates.",
+      "hi": "चाबी वाले अयस्क को बाहर लाएँ और चाबी लें ताकि उसी रंग के ताले और खदान फाटक खुलें।",
+      "pt": "Exponha e colete o minério com chave para abrir as trancas e os portões da mesma cor."
+    },
+    {
+      "source": "专色车",
+      "en": "Color Cart",
+      "hi": "रंग विशेष गाड़ी",
+      "pt": "Vagão de cor"
+    },
+    {
+      "source": "整辆车的颜色代表它需要的颜色。这辆矿车只能收集同色矿石。",
+      "en": "The cart's color shows what it needs. It can collect only ore of that color.",
+      "hi": "गाड़ी का रंग बताता है कि उसे क्या चाहिए। वह केवल उसी रंग का अयस्क ले सकती है।",
+      "pt": "A cor do vagonete indica o que ele precisa. Ele só recebe minério dessa cor."
+    },
+    {
+      "source": "束缚链",
+      "en": "Binding Chain",
+      "hi": "बंधन की जंजीर",
+      "pt": "Corrente de ligação"
+    },
+    {
+      "source": "被铁链绑住的矿车可以收集矿石。完成组内任意一辆矿车，即可解开铁链。",
+      "en": "Chained carts can collect ore. Complete any cart in the group to remove the chain.",
+      "hi": "जंजीर वाली गाड़ियाँ अयस्क ले सकती हैं। समूह की कोई एक गाड़ी पूरी भरें ताकि जंजीर खुले।",
+      "pt": "Vagonetes acorrentados recebem minério. Complete um deles para remover a corrente do grupo."
+    },
+    {
+      "source": "覆盖毯",
+      "en": "Cover Blanket",
+      "hi": "ढकने वाला कंबल",
+      "pt": "Manta de cobertura"
+    },
+    {
+      "source": "每完成一辆矿车，隔热毯便会向前卷起，露出下一辆矿车。",
+      "en": "Each completed cart rolls the blanket forward to reveal the next cart.",
+      "hi": "हर गाड़ी पूरी भरने पर चादर आगे लुढ़कती है और अगली गाड़ी दिखती है।",
+      "pt": "Cada vagonete completo faz a manta avançar e revelar o próximo."
+    },
+    {
+      "source": "补给仓",
+      "en": "Supply Hopper",
+      "hi": "आपूर्ति भंडार",
+      "pt": "Depósito de abastecimento"
+    },
+    {
+      "source": "每次放出一组矿石，清空后露出下一组。出料仓里的矿石数量有限。",
+      "en": "The hopper releases one group of ore at a time. Clear it to reveal the next group. Its ore supply is limited.",
+      "hi": "भंडार एक बार में अयस्क का एक समूह छोड़ता है। उसे खाली करके अगला समूह पाएँ। अयस्क सीमित है।",
+      "pt": "O alimentador libera um grupo por vez. Esvazie-o para revelar o próximo. O minério é limitado."
+    },
+    {
+      "source": "出料盒每次放出一组方块，清空后露出下一组，数量有限",
+      "en": "The hopper releases one group at a time. Clear it to reveal the next. Supply is limited.",
+      "hi": "भंडार एक बार में एक समूह छोड़ता है। खाली करने पर अगला दिखता है। संख्या सीमित है।",
+      "pt": "O alimentador libera um grupo por vez. Esvazie-o para revelar o próximo. A quantidade é limitada."
+    },
+    {
+      "source": "每完成一个托盘，覆盖片就会露出下一个托盘",
+      "en": "Complete a cart to uncover the next cart.",
+      "hi": "एक गाड़ी पूरी भरकर अगली गाड़ी से आवरण हटाएँ।",
+      "pt": "Complete um vagonete para revelar o próximo."
+    },
+    {
+      "source": "束扣托盘可以接收，完成组内任意一个即可解开束扣",
+      "en": "Bound carts can collect blocks. Complete any cart in the group to release the binding.",
+      "hi": "बंधी गाड़ियाँ ब्लॉक ले सकती हैं। समूह की एक गाड़ी पूरी भरकर बंधन खोलें।",
+      "pt": "Vagonetes presos recebem blocos. Complete um deles para soltar a ligação."
+    },
+    {
+      "source": "让钥匙方块露出，解开对应颜色的锁",
+      "en": "Expose the key block to open the matching lock.",
+      "hi": "चाबी वाला ब्लॉक बाहर लाएँ और उसी रंग का ताला खोलें।",
+      "pt": "Exponha o bloco com chave para abrir a tranca da mesma cor."
+    },
+    {
+      "source": "完成关联托盘，解除托盘冻结",
+      "en": "Complete the linked cart to unfreeze this cart.",
+      "hi": "जुड़ी गाड़ी पूरी भरकर इस गाड़ी की बर्फ हटाएँ।",
+      "pt": "Complete o vagonete vinculado para descongelar este."
+    },
+    {
+      "source": "连接片连接的方块必须一起放出，请留足传送带空间",
+      "en": "Connected blocks must be released together. Leave enough belt space.",
+      "hi": "जुड़े ब्लॉक साथ छोड़ने होंगे। कन्वेयर पर पर्याप्त जगह रखें।",
+      "pt": "Blocos conectados devem sair juntos. Deixe espaço suficiente na esteira."
+    },
+    {
+      "source": "带颜色标记的托盘只能接收颜色标记颜色的方块",
+      "en": "A marked cart only accepts blocks matching its color mark.",
+      "hi": "रंग के निशान वाली गाड़ी केवल उसी रंग के ब्लॉक लेती है।",
+      "pt": "Um vagonete marcado só recebe blocos da cor indicada."
+    },
+    {
+      "source": "带障碍杆的托盘只能接收，不能放出方块",
+      "en": "A barred cart can receive blocks but cannot release them.",
+      "hi": "रोक वाली गाड़ी ब्लॉक ले सकती है, पर छोड़ नहीं सकती।",
+      "pt": "Um vagonete bloqueado recebe blocos, mas não pode soltá-los."
+    },
+    {
+      "source": "完成与滑盖同色的托盘，即可打开滑盖",
+      "en": "Complete a cart matching the lid to open it.",
+      "hi": "ढक्कन के रंग वाली गाड़ी पूरी भरकर ढक्कन खोलें।",
+      "pt": "Complete um vagonete da cor da tampa para abri-la."
+    },
+    {
+      "source": "先露出带问号的方块，消融遮罩后即可看到真实颜色",
+      "en": "Expose question-mark blocks to reveal their true colors.",
+      "hi": "प्रश्नचिह्न वाले ब्लॉक बाहर लाकर उनके असली रंग देखें।",
+      "pt": "Exponha os blocos com interrogação para revelar suas cores."
+    },
+    {
+      "source": "方块到达跑道尽头后，会从另一端继续传送",
+      "en": "Blocks reaching the track's end continue from the other end.",
+      "hi": "पटरी के अंत तक पहुँचे ब्लॉक दूसरे सिरे से आगे बढ़ते हैं।",
+      "pt": "Os blocos que chegam ao fim da pista continuam pela outra ponta."
+    },
+    {
+      "source": "本关仍有未接入机制，部分规则为简化实现",
+      "en": "Some mechanics in this level use simplified rules.",
+      "hi": "इस स्तर की कुछ युक्तियों में सरल नियम लागू हैं।",
+      "pt": "Algumas mecânicas desta fase usam regras simplificadas."
+    },
+    {
+      "source": "传送带剩余空间不足",
+      "en": "Not enough room on the belt.",
+      "hi": "कन्वेयर पर जगह कम है।",
+      "pt": "Não há espaço suficiente na esteira."
+    },
+    {
+      "source": "时间已用尽，请撤回或重新挑战",
+      "en": "Time is up. Undo a move or try again.",
+      "hi": "समय खत्म हुआ। चाल वापस लें या फिर कोशिश करें।",
+      "pt": "O tempo acabou. Desfaça uma jogada ou tente novamente."
+    },
+    {
+      "source": "本局游戏已结束",
+      "en": "This round has ended.",
+      "hi": "यह दौर खत्म हो गया।",
+      "pt": "Esta rodada terminou."
+    },
+    {
+      "source": "这辆货车已完成收集",
+      "en": "This cart is already full.",
+      "hi": "यह गाड़ी पहले से भरी हुई है।",
+      "pt": "Este vagonete já está completo."
+    },
+    {
+      "source": "货车中没有可以释放的方块",
+      "en": "This cart has no blocks to release.",
+      "hi": "इस गाड़ी में छोड़ने के लिए ब्लॉक नहीं हैं।",
+      "pt": "Este vagonete não tem blocos para liberar."
+    },
+    {
+      "source": "障碍货车只能接收，不能放出方块",
+      "en": "A blocked cart can receive blocks but cannot release them.",
+      "hi": "रुकी हुई गाड़ी ब्लॉक ले सकती है, पर छोड़ नहीं सकती।",
+      "pt": "Um vagonete bloqueado recebe blocos, mas não pode soltá-los."
+    },
+    {
+      "source": "请等待当前方块完全移出货车",
+      "en": "Wait for the current blocks to leave the cart.",
+      "hi": "मौजूदा ब्लॉक गाड़ी से बाहर आने तक रुकें।",
+      "pt": "Aguarde a saída dos blocos do vagonete."
+    },
+    {
+      "source": "无法选择这辆货车",
+      "en": "This cart cannot be selected.",
+      "hi": "यह गाड़ी चुनी नहीं जा सकती।",
+      "pt": "Este vagonete não pode ser selecionado."
+    },
+    {
+      "source": "请选择可以打乱的货车",
+      "en": "Choose a cart that can be shuffled.",
+      "hi": "फेरबदल हो सकने वाली गाड़ी चुनें।",
+      "pt": "Escolha um vagonete que possa ser embaralhado."
+    },
+    {
+      "source": "请选择要打乱的货车",
+      "en": "Choose a cart to shuffle.",
+      "hi": "फेरबदल के लिए गाड़ी चुनें।",
+      "pt": "Escolha um vagonete para embaralhar."
+    },
+    {
+      "source": "本机记录：第 {0} 关 · 通关 {1} 关",
+      "en": "Local record: level {0} · {1} completed",
+      "hi": "स्थानीय रिकॉर्ड: स्तर {0} · {1} पूरे",
+      "pt": "Recorde local: fase {0} · {1} concluídas"
+    },
+    {
+      "source": "版本",
+      "en": "Version",
+      "hi": "संस्करण",
+      "pt": "Versão"
+    },
+    {
+      "source": "日",
+      "en": "Sun",
+      "hi": "रवि",
+      "pt": "Dom"
+    },
+    {
+      "source": "一",
+      "en": "Mon",
+      "hi": "सोम",
+      "pt": "Seg"
+    },
+    {
+      "source": "二",
+      "en": "Tue",
+      "hi": "मंगल",
+      "pt": "Ter"
+    },
+    {
+      "source": "三",
+      "en": "Wed",
+      "hi": "बुध",
+      "pt": "Qua"
+    },
+    {
+      "source": "四",
+      "en": "Thu",
+      "hi": "गुरु",
+      "pt": "Qui"
+    },
+    {
+      "source": "五",
+      "en": "Fri",
+      "hi": "शुक्र",
+      "pt": "Sex"
+    },
+    {
+      "source": "六",
+      "en": "Sat",
+      "hi": "शनि",
+      "pt": "Sáb"
+    },
+    {
+      "source": "每日挑战",
+      "en": "Daily challenge",
+      "hi": "दैनिक चुनौती",
+      "pt": "Desafio diário"
+    },
+    {
+      "source": "每日奖励",
+      "en": "Daily rewards",
+      "hi": "दैनिक इनाम",
+      "pt": "Recompensas diárias"
+    },
+    {
+      "source": "每日任务",
+      "en": "Daily missions",
+      "hi": "दैनिक मिशन",
+      "pt": "Missões diárias"
+    },
+    {
+      "source": "任务挑战",
+      "en": "Missions",
+      "hi": "मिशन",
+      "pt": "Missões"
+    },
+    {
+      "source": "活动与奖励",
+      "en": "Events & rewards",
+      "hi": "आयोजन और इनाम",
+      "pt": "Eventos e recompensas"
+    },
+    {
+      "source": "通行证",
+      "en": "Pass",
+      "hi": "पास",
+      "pt": "Passe"
+    },
+    {
+      "source": "道具",
+      "en": "Boosters",
+      "hi": "बूस्टर",
+      "pt": "Reforços"
+    },
+    {
+      "source": "金币",
+      "en": "Coins",
+      "hi": "सिक्के",
+      "pt": "Moedas"
+    },
+    {
+      "source": "生命",
+      "en": "Lives",
+      "hi": "जीवन",
+      "pt": "Vidas"
+    },
+    {
+      "source": "任务积分",
+      "en": "Mission points",
+      "hi": "मिशन अंक",
+      "pt": "Pontos de missão"
+    },
+    {
+      "source": "通行证钥匙",
+      "en": "Pass keys",
+      "hi": "पास की चाबियाँ",
+      "pt": "Chaves do passe"
+    },
+    {
+      "source": "玩家",
+      "en": "Player",
+      "hi": "खिलाड़ी",
+      "pt": "Jogador"
+    },
+    {
+      "source": "准备完成",
+      "en": "Ready",
+      "hi": "तैयार",
+      "pt": "Pronto"
+    },
+    {
+      "source": "未解锁",
+      "en": "Locked",
+      "hi": "बंद है",
+      "pt": "Bloqueado"
+    },
+    {
+      "source": "未开放",
+      "en": "Not available",
+      "hi": "उपलब्ध नहीं",
+      "pt": "Indisponível"
+    },
+    {
+      "source": "进行中",
+      "en": "In progress",
+      "hi": "जारी है",
+      "pt": "Em andamento"
+    },
+    {
+      "source": "已完成",
+      "en": "Completed",
+      "hi": "पूरा हुआ",
+      "pt": "Concluído"
+    },
+    {
+      "source": "已解锁",
+      "en": "Unlocked",
+      "hi": "खुल गया",
+      "pt": "Desbloqueado"
+    },
+    {
+      "source": "当前地区",
+      "en": "Current area",
+      "hi": "मौजूदा क्षेत्र",
+      "pt": "Área atual"
+    },
+    {
+      "source": "前往",
+      "en": "Go",
+      "hi": "जाएँ",
+      "pt": "Ir"
+    },
+    {
+      "source": "每日挑战使用独立关卡；已错过的本月日期可补玩。",
+      "en": "Daily challenges use separate levels. You can replay earlier dates this month.",
+      "hi": "दैनिक चुनौती में अलग स्तर हैं। इस महीने के बीते दिनों को खेल सकते हैं।",
+      "pt": "Os desafios diários usam fases próprias. Você pode jogar os dias anteriores deste mês."
+    },
+    {
+      "source": "只能挑战本月已经到来的日期",
+      "en": "Choose a date from this month that has already arrived.",
+      "hi": "इस महीने की आज या बीती तारीख चुनें।",
+      "pt": "Escolha uma data deste mês até o dia de hoje."
+    },
+    {
+      "source": "暂无每日挑战关卡",
+      "en": "No daily challenge is available.",
+      "hi": "अभी दैनिक चुनौती उपलब्ध नहीं है।",
+      "pt": "Nenhum desafio diário disponível."
+    },
+    {
+      "source": "挑战今天的关卡",
+      "en": "Play today's challenge",
+      "hi": "आज की चुनौती खेलें",
+      "pt": "Jogar o desafio de hoje"
+    },
+    {
+      "source": "请选择今天的每日挑战",
+      "en": "Choose today's daily challenge.",
+      "hi": "आज की दैनिक चुनौती चुनें।",
+      "pt": "Escolha o desafio diário de hoje."
+    },
+    {
+      "source": "今日",
+      "en": "Today",
+      "hi": "आज",
+      "pt": "Hoje"
+    },
+    {
+      "source": "奖励",
+      "en": "Rewards",
+      "hi": "इनाम",
+      "pt": "Recompensas"
+    },
+    {
+      "source": "高级奖励",
+      "en": "Premium rewards",
+      "hi": "प्रीमियम इनाम",
+      "pt": "Recompensas premium"
+    },
+    {
+      "source": "领取广告加倍奖励",
+      "en": "Watch ad for double rewards",
+      "hi": "दोगुने इनाम के लिए विज्ञापन देखें",
+      "pt": "Ver anúncio para dobrar as recompensas"
+    },
+    {
+      "source": "点击切换",
+      "en": "Tap to switch",
+      "hi": "बदलने के लिए दबाएँ",
+      "pt": "Toque para trocar"
+    },
+    {
+      "source": "闯关记录",
+      "en": "Level records",
+      "hi": "स्तर रिकॉर्ड",
+      "pt": "Registros de fases"
+    },
+    {
+      "source": "商店",
+      "en": "Shop",
+      "hi": "दुकान",
+      "pt": "Loja"
+    },
+    {
+      "source": "排行",
+      "en": "Ranking",
+      "hi": "रैंकिंग",
+      "pt": "Classificação"
+    },
+    {
+      "source": "队伍",
+      "en": "Teams",
+      "hi": "टीम",
+      "pt": "Equipes"
+    },
+    {
+      "source": "选择地区",
+      "en": "Select area",
+      "hi": "क्षेत्र चुनें",
+      "pt": "Selecionar área"
+    },
+    {
+      "source": "世界",
+      "en": "World",
+      "hi": "विश्व",
+      "pt": "Mundo"
+    },
+    {
+      "source": "国家",
+      "en": "Country",
+      "hi": "देश",
+      "pt": "País"
+    },
+    {
+      "source": "周榜",
+      "en": "Weekly",
+      "hi": "साप्ताहिक",
+      "pt": "Semanal"
+    },
+    {
+      "source": "已购买",
+      "en": "Purchased",
+      "hi": "खरीद लिया",
+      "pt": "Comprado"
+    },
+    {
+      "source": "购买成功",
+      "en": "Purchase successful",
+      "hi": "खरीद सफल",
+      "pt": "Compra realizada"
+    },
+    {
+      "source": "高级通行证",
+      "en": "Premium pass",
+      "hi": "प्रीमियम पास",
+      "pt": "Passe premium"
+    },
+    {
+      "source": "高级轨道已解锁",
+      "en": "Premium track unlocked.",
+      "hi": "प्रीमियम मार्ग खुल गया।",
+      "pt": "Trilha premium desbloqueada."
+    },
+    {
+      "source": "特殊关卡",
+      "en": "Special levels",
+      "hi": "विशेष स्तर",
+      "pt": "Fases especiais"
+    },
+    {
+      "source": "云存档",
+      "en": "Cloud save",
+      "hi": "क्लाउड सेव",
+      "pt": "Save na nuvem"
+    },
+    {
+      "source": "个人资料",
+      "en": "Profile",
+      "hi": "प्रोफ़ाइल",
+      "pt": "Perfil"
+    },
+    {
+      "source": "昵称",
+      "en": "Nickname",
+      "hi": "उपनाम",
+      "pt": "Apelido"
+    },
+    {
+      "source": "保存",
+      "en": "Save",
+      "hi": "सेव करें",
+      "pt": "Salvar"
+    },
+    {
+      "source": "保存资料",
+      "en": "Save profile",
+      "hi": "प्रोफ़ाइल सेव करें",
+      "pt": "Salvar perfil"
+    },
+    {
+      "source": "请输入昵称",
+      "en": "Enter a nickname.",
+      "hi": "उपनाम दर्ज करें।",
+      "pt": "Digite um apelido."
+    },
+    {
+      "source": "昵称不能为空",
+      "en": "Nickname cannot be empty.",
+      "hi": "उपनाम खाली नहीं हो सकता।",
+      "pt": "O apelido não pode ficar vazio."
+    },
+    {
+      "source": "本轮已签到",
+      "en": "Check-ins this cycle",
+      "hi": "इस चक्र के चेक-इन",
+      "pt": "Check-ins deste ciclo"
+    },
+    {
+      "source": "返回任务",
+      "en": "Back to missions",
+      "hi": "मिशन पर लौटें",
+      "pt": "Voltar às missões"
+    },
+    {
+      "source": "返回商店",
+      "en": "Back to shop",
+      "hi": "दुकान पर लौटें",
+      "pt": "Voltar à loja"
+    },
+    {
+      "source": "上传本机存档",
+      "en": "Upload local save",
+      "hi": "स्थानीय सेव अपलोड करें",
+      "pt": "Enviar save local"
+    },
+    {
+      "source": "上传本机进度，或下载同一账户的云存档。",
+      "en": "Upload local progress or download this account's cloud save.",
+      "hi": "स्थानीय प्रगति अपलोड करें या इसी खाते का क्लाउड सेव डाउनलोड करें।",
+      "pt": "Envie o progresso local ou baixe o save desta conta na nuvem."
+    },
+    {
+      "source": "下载云存档",
+      "en": "Download cloud save",
+      "hi": "क्लाउड सेव डाउनलोड करें",
+      "pt": "Baixar save da nuvem"
+    },
+    {
+      "source": "云存档已保存",
+      "en": "Cloud save stored.",
+      "hi": "क्लाउड सेव सुरक्षित है।",
+      "pt": "Save na nuvem salvo."
+    },
+    {
+      "source": "云存档已变化，请先下载再决定恢复或上传",
+      "en": "The cloud save changed. Download it before restoring or uploading.",
+      "hi": "क्लाउड सेव बदल गया है। बहाल या अपलोड करने से पहले डाउनलोड करें।",
+      "pt": "O save na nuvem mudou. Baixe-o antes de restaurar ou enviar."
+    },
+    {
+      "source": "云存档服务已配置\n登录服务尚未接入，没有模拟登录账户",
+      "en": "Cloud storage is configured.\nSign-in is not connected; no account is simulated.",
+      "hi": "क्लाउड सेव तैयार है।\nलॉगिन सेवा जुड़ी नहीं है और कोई नकली खाता नहीं बनाया गया।",
+      "pt": "A nuvem está configurada.\nO login não está conectado e nenhuma conta foi simulada."
+    },
+    {
+      "source": "云存档版本或账户不匹配",
+      "en": "Cloud save version or account does not match.",
+      "hi": "क्लाउड सेव का संस्करण या खाता मेल नहीं खाता।",
+      "pt": "A versão ou a conta do save na nuvem não corresponde."
+    },
+    {
+      "source": "云端已确认保存",
+      "en": "Save confirmed by the cloud.",
+      "hi": "क्लाउड ने सेव की पुष्टि की।",
+      "pt": "Salvamento confirmado na nuvem."
+    },
+    {
+      "source": "同步到云端",
+      "en": "Sync to cloud",
+      "hi": "क्लाउड से सिंक करें",
+      "pt": "Sincronizar com a nuvem"
+    },
+    {
+      "source": "在线服务暂不可用",
+      "en": "Online services are unavailable.",
+      "hi": "ऑनलाइन सेवाएँ अभी उपलब्ध नहीं हैं।",
+      "pt": "Serviços online indisponíveis."
+    },
+    {
+      "source": "在线请求失败",
+      "en": "Online request failed.",
+      "hi": "ऑनलाइन अनुरोध विफल हुआ।",
+      "pt": "Falha na solicitação online."
+    },
+    {
+      "source": "地区不存在",
+      "en": "Area not found.",
+      "hi": "क्षेत्र नहीं मिला।",
+      "pt": "Área não encontrada."
+    },
+    {
+      "source": "奖励不存在",
+      "en": "Reward not found.",
+      "hi": "इनाम नहीं मिला।",
+      "pt": "Recompensa não encontrada."
+    },
+    {
+      "source": "任务不存在",
+      "en": "Mission not found.",
+      "hi": "मिशन नहीं मिला।",
+      "pt": "Missão não encontrada."
+    },
+    {
+      "source": "任务积分不足",
+      "en": "Not enough mission points.",
+      "hi": "मिशन अंक कम हैं।",
+      "pt": "Pontos de missão insuficientes."
+    },
+    {
+      "source": "任务阶段奖励",
+      "en": "Mission milestone rewards",
+      "hi": "मिशन पड़ाव के इनाम",
+      "pt": "Recompensas por marcos"
+    },
+    {
+      "source": "尚未完成任务",
+      "en": "Mission not completed yet.",
+      "hi": "मिशन अभी पूरा नहीं हुआ।",
+      "pt": "Missão ainda não concluída."
+    },
+    {
+      "source": "完成天数不足",
+      "en": "Not enough days completed.",
+      "hi": "पूरे हुए दिनों की संख्या कम है।",
+      "pt": "Dias concluídos insuficientes."
+    },
+    {
+      "source": "免费轨道可领取 · 高级轨道尚未接入支付服务",
+      "en": "Free rewards available · Premium payments are not configured.",
+      "hi": "मुफ़्त इनाम उपलब्ध हैं · प्रीमियम भुगतान सेवा जुड़ी नहीं है।",
+      "pt": "Recompensas grátis disponíveis · Pagamento premium não configurado."
+    },
+    {
+      "source": "奖励广告服务尚未配置",
+      "en": "Rewarded ads are not configured.",
+      "hi": "इनाम वाले विज्ञापन तैयार नहीं हैं।",
+      "pt": "Anúncios com recompensa não configurados."
+    },
+    {
+      "source": "存档已关闭",
+      "en": "Saving is disabled.",
+      "hi": "सेव बंद है।",
+      "pt": "Salvamento desativado."
+    },
+    {
+      "source": "存档格式无法读取，已保留原存档。",
+      "en": "Save format could not be read. The original was kept.",
+      "hi": "सेव का प्रारूप पढ़ा नहीं गया। पुराना सेव सुरक्षित है।",
+      "pt": "Não foi possível ler o formato. O save original foi preservado."
+    },
+    {
+      "source": "存档读取失败，本次更改不会覆盖原存档。",
+      "en": "Save could not be read. These changes will not overwrite it.",
+      "hi": "सेव पढ़ा नहीं गया। ये बदलाव पुराने सेव को नहीं मिटाएँगे।",
+      "pt": "Falha ao ler o save. Estas alterações não vão sobrescrevê-lo."
+    },
+    {
+      "source": "尚未连接自己的云存档服务\n本机进度会继续正常保存",
+      "en": "Cloud storage is not connected.\nLocal progress will still be saved.",
+      "hi": "क्लाउड सेव जुड़ा नहीं है।\nस्थानीय प्रगति सेव होती रहेगी।",
+      "pt": "A nuvem não está conectada.\nO progresso local continuará sendo salvo."
+    },
+    {
+      "source": "尚未连接账户",
+      "en": "No account connected.",
+      "hi": "कोई खाता जुड़ा नहीं है।",
+      "pt": "Nenhuma conta conectada."
+    },
+    {
+      "source": "尚未连接账户，请先接入正式登录服务",
+      "en": "Connect the sign-in service before using an account.",
+      "hi": "खाता इस्तेमाल करने से पहले लॉगिन सेवा जोड़ें।",
+      "pt": "Conecte o serviço de login antes de usar uma conta."
+    },
+    {
+      "source": "尚未配置排行榜和云存档服务器",
+      "en": "Ranking and cloud servers are not configured.",
+      "hi": "रैंकिंग और क्लाउड सर्वर तैयार नहीं हैं।",
+      "pt": "Servidores de classificação e nuvem não configurados."
+    },
+    {
+      "source": "尚未配置排行榜服务器\n连接自己的服务后，可查看世界、国家和周榜",
+      "en": "Ranking server is not configured.\nConnect a service to view global, country and weekly rankings.",
+      "hi": "रैंकिंग सर्वर तैयार नहीं है।\nविश्व, देश और साप्ताहिक रैंकिंग के लिए सेवा जोड़ें।",
+      "pt": "Servidor de classificação não configurado.\nConecte um serviço para ver os rankings global, nacional e semanal."
+    },
+    {
+      "source": "尚未配置此服务的接口地址",
+      "en": "Service endpoint is not configured.",
+      "hi": "सेवा का पता तैयार नहीं है।",
+      "pt": "O endereço deste serviço não foi configurado."
+    },
+    {
+      "source": "已恢复云存档，本地旧记录已备份",
+      "en": "Cloud save restored. The previous local save was backed up.",
+      "hi": "क्लाउड सेव बहाल हुआ। पुराने स्थानीय सेव का बैकअप रखा गया।",
+      "pt": "Save da nuvem restaurado. O save local anterior foi copiado."
+    },
+    {
+      "source": "已找到云存档，确认后恢复；本地存档会先备份",
+      "en": "Cloud save found. Confirm to restore it; your local save will be backed up.",
+      "hi": "क्लाउड सेव मिला। पुष्टि के बाद बहाल होगा और स्थानीय सेव का बैकअप बनेगा।",
+      "pt": "Save na nuvem encontrado. Confirme para restaurar; o save local será copiado antes."
+    },
+    {
+      "source": "已连接账户",
+      "en": "Account connected.",
+      "hi": "खाता जुड़ गया।",
+      "pt": "Conta conectada."
+    },
+    {
+      "source": "广告已完成，奖励由服务验证发放",
+      "en": "Ad completed. The service verifies the reward.",
+      "hi": "विज्ञापन पूरा हुआ। सेवा इनाम की पुष्टि करेगी।",
+      "pt": "Anúncio concluído. O serviço verifica a recompensa."
+    },
+    {
+      "source": "广告服务入口。需要接入广告平台和服务端，奖励由服务验证发放。",
+      "en": "Ads require a connected platform and server-verified rewards.",
+      "hi": "विज्ञापन के लिए सेवा जोड़ना और सर्वर से इनाम की पुष्टि करना आवश्यक है।",
+      "pt": "Anúncios exigem plataforma conectada e recompensas verificadas pelo servidor."
+    },
+    {
+      "source": "广告服务调用失败",
+      "en": "Ad request failed.",
+      "hi": "विज्ञापन अनुरोध विफल हुआ।",
+      "pt": "Falha ao solicitar anúncio."
+    },
+    {
+      "source": "广告未配置",
+      "en": "Ads not configured",
+      "hi": "विज्ञापन तैयार नहीं हैं",
+      "pt": "Anúncios não configurados"
+    },
+    {
+      "source": "广告正在处理中",
+      "en": "Ad request in progress.",
+      "hi": "विज्ञापन अनुरोध जारी है।",
+      "pt": "Solicitação de anúncio em andamento."
+    },
+    {
+      "source": "广告缺少可验证的请求编号",
+      "en": "Ad request has no verifiable ID.",
+      "hi": "विज्ञापन अनुरोध में मान्य पहचान नहीं है।",
+      "pt": "O anúncio não tem um identificador verificável."
+    },
+    {
+      "source": "广告返回信息无法读取",
+      "en": "Ad response could not be read.",
+      "hi": "विज्ञापन का जवाब पढ़ा नहीं गया।",
+      "pt": "Não foi possível ler a resposta do anúncio."
+    },
+    {
+      "source": "开始使用",
+      "en": "Use booster",
+      "hi": "बूस्टर इस्तेमाल करें",
+      "pt": "Usar reforço"
+    },
+    {
+      "source": "当前为本地活动周期，奖励和任务来自原包配置。",
+      "en": "This is a local event cycle using bundled rewards and missions.",
+      "hi": "यह स्थानीय आयोजन चक्र है। इनाम और मिशन खेल में शामिल हैं।",
+      "pt": "Este é um ciclo de evento local com recompensas e missões incluídas."
+    },
+    {
+      "source": "当前为测试广告，不发放正式奖励",
+      "en": "This test ad does not grant a live reward.",
+      "hi": "यह परीक्षण विज्ञापन असली इनाम नहीं देता।",
+      "pt": "Este anúncio de teste não concede recompensa real."
+    },
+    {
+      "source": "当前存储不可用，未清除任何数据",
+      "en": "Storage is unavailable. No data was deleted.",
+      "hi": "स्टोरेज उपलब्ध नहीं है। कोई डेटा नहीं हटाया गया।",
+      "pt": "Armazenamento indisponível. Nenhum dado foi excluído."
+    },
+    {
+      "source": "当前已是最新版本",
+      "en": "You have the latest version.",
+      "hi": "नया संस्करण पहले से है।",
+      "pt": "Você já está na versão mais recente."
+    },
+    {
+      "source": "当前游戏已暂停。请退出本游戏后重新进入，以加载新账号的进度。原账号存档不会被覆盖。",
+      "en": "The game is paused. Reopen it to load the new account. The old save will be kept.",
+      "hi": "खेल रुका है। नए खाते की प्रगति लोड करने के लिए खेल दोबारा खोलें। पुराना सेव सुरक्षित रहेगा।",
+      "pt": "O jogo está pausado. Reabra-o para carregar a nova conta. O save anterior será preservado."
+    },
+    {
+      "source": "当前版本支持简体中文",
+      "en": "This version supports Simplified Chinese.",
+      "hi": "इस संस्करण में सरल चीनी उपलब्ध है।",
+      "pt": "Esta versão oferece chinês simplificado."
+    },
+    {
+      "source": "当前账号不可用，请重新进入游戏",
+      "en": "Account unavailable. Please reopen the game.",
+      "hi": "खाता उपलब्ध नहीं है। खेल दोबारा खोलें।",
+      "pt": "Conta indisponível. Reabra o jogo."
+    },
+    {
+      "source": "当前账号存储不可用，本次进度仅在本次会话保留。",
+      "en": "Account storage is unavailable. Progress lasts only for this session.",
+      "hi": "खाते का स्टोरेज उपलब्ध नहीं है। प्रगति केवल इस सत्र तक रहेगी।",
+      "pt": "O armazenamento da conta está indisponível. O progresso dura apenas nesta sessão."
+    },
+    {
+      "source": "成绩已提交，排名由服务器计算",
+      "en": "Score submitted. The server calculates your rank.",
+      "hi": "स्कोर भेज दिया गया। सर्वर रैंक तय करेगा।",
+      "pt": "Pontuação enviada. O servidor calcula sua posição."
+    },
+    {
+      "source": "排行榜响应缺少 entries",
+      "en": "The ranking response is incomplete.",
+      "hi": "रैंकिंग का जवाब अधूरा है।",
+      "pt": "A resposta da classificação está incompleta."
+    },
+    {
+      "source": "排行榜已更新",
+      "en": "Rankings updated.",
+      "hi": "रैंकिंग अपडेट हुई।",
+      "pt": "Classificação atualizada."
+    },
+    {
+      "source": "提交成绩",
+      "en": "Submit score",
+      "hi": "स्कोर भेजें",
+      "pt": "Enviar pontuação"
+    },
+    {
+      "source": "提交成绩需登录",
+      "en": "Sign in to submit a score",
+      "hi": "स्कोर भेजने के लिए लॉगिन करें",
+      "pt": "Entre para enviar pontuação"
+    },
+    {
+      "source": "操作未完成，请稍后重试",
+      "en": "Action not completed. Please try again later.",
+      "hi": "काम पूरा नहीं हुआ। बाद में फिर कोशिश करें।",
+      "pt": "Ação não concluída. Tente novamente mais tarde."
+    },
+    {
+      "source": "支付服务尚未配置，免费轨道可正常领取",
+      "en": "Payments are not configured. Free rewards remain available.",
+      "hi": "भुगतान तैयार नहीं है। मुफ़्त इनाम मिलते रहेंगे।",
+      "pt": "Pagamentos não configurados. As recompensas grátis continuam disponíveis."
+    },
+    {
+      "source": "支付服务尚未配置，未扣除金币或发起付款。",
+      "en": "Payments are not configured. No coins were spent or payment started.",
+      "hi": "भुगतान तैयार नहीं है। कोई सिक्का खर्च या भुगतान शुरू नहीं हुआ।",
+      "pt": "Pagamentos não configurados. Nenhuma moeda foi gasta e nenhum pagamento foi iniciado."
+    },
+    {
+      "source": "支付服务暂不可用",
+      "en": "Payments are temporarily unavailable.",
+      "hi": "भुगतान अभी उपलब्ध नहीं है।",
+      "pt": "Pagamentos temporariamente indisponíveis."
+    },
+    {
+      "source": "无需体力，可直接开始关卡",
+      "en": "No energy required. Play now.",
+      "hi": "ऊर्जा की जरूरत नहीं। अभी खेलें।",
+      "pt": "Não precisa de energia. Jogue agora."
+    },
+    {
+      "source": "暂无可加入的队伍",
+      "en": "No teams are available to join.",
+      "hi": "जुड़ने के लिए कोई टीम उपलब्ध नहीं है।",
+      "pt": "Nenhuma equipe disponível para entrar."
+    },
+    {
+      "source": "暂无排行记录",
+      "en": "No ranking records yet.",
+      "hi": "अभी रैंकिंग रिकॉर्ड नहीं है।",
+      "pt": "Ainda não há registros de classificação."
+    },
+    {
+      "source": "暂无记录",
+      "en": "No records yet.",
+      "hi": "अभी रिकॉर्ड नहीं है।",
+      "pt": "Ainda não há registros."
+    },
+    {
+      "source": "暂时无法获取更新，继续使用当前内容",
+      "en": "Update unavailable. Continuing with current content.",
+      "hi": "अपडेट उपलब्ध नहीं है। मौजूदा सामग्री से खेल जारी है।",
+      "pt": "Atualização indisponível. Usando o conteúdo atual."
+    },
+    {
+      "source": "暂未开放在线更新",
+      "en": "Online updates are not available yet.",
+      "hi": "ऑनलाइन अपडेट अभी उपलब्ध नहीं हैं।",
+      "pt": "Atualizações online ainda não disponíveis."
+    },
+    {
+      "source": "更新完成",
+      "en": "Update complete",
+      "hi": "अपडेट पूरा हुआ",
+      "pt": "Atualização concluída"
+    },
+    {
+      "source": "更新已下载，重新启动游戏后生效",
+      "en": "Update downloaded. Restart the game to apply it.",
+      "hi": "अपडेट डाउनलोड हुआ। लागू करने के लिए खेल दोबारा शुरू करें।",
+      "pt": "Atualização baixada. Reinicie o jogo para aplicá-la."
+    },
+    {
+      "source": "服务器暂无排行记录",
+      "en": "The server has no ranking records yet.",
+      "hi": "सर्वर पर अभी रैंकिंग रिकॉर्ड नहीं है।",
+      "pt": "O servidor ainda não tem registros de classificação."
+    },
+    {
+      "source": "服务器未返回有效的数据",
+      "en": "The server returned no valid data.",
+      "hi": "सर्वर ने मान्य डेटा नहीं भेजा।",
+      "pt": "O servidor não retornou dados válidos."
+    },
+    {
+      "source": "服务器返回的数据格式不正确",
+      "en": "The server response has an invalid format.",
+      "hi": "सर्वर के जवाब का प्रारूप गलत है।",
+      "pt": "A resposta do servidor tem formato inválido."
+    },
+    {
+      "source": "服务器返回的数据格式不正确，未应用任何存档",
+      "en": "Invalid server response. No save was applied.",
+      "hi": "सर्वर का जवाब गलत है। कोई सेव लागू नहीं किया गया।",
+      "pt": "Resposta inválida do servidor. Nenhum save foi aplicado."
+    },
+    {
+      "source": "本地进度已按平台账号独立保存。云同步需要游戏服务器提供接口。",
+      "en": "Local progress is saved separately for each account. Cloud sync requires a game server.",
+      "hi": "हर खाते की प्रगति अलग सेव है। क्लाउड सिंक के लिए गेम सर्वर चाहिए।",
+      "pt": "O progresso local é salvo por conta. A sincronização exige um servidor do jogo."
+    },
+    {
+      "source": "正在同步…",
+      "en": "Syncing…",
+      "hi": "सिंक हो रहा है…",
+      "pt": "Sincronizando…"
+    },
+    {
+      "source": "正在检查更新…",
+      "en": "Checking for updates…",
+      "hi": "अपडेट जाँचे जा रहे हैं…",
+      "pt": "Verificando atualizações…"
+    },
+    {
+      "source": "正在检查更新，请稍候",
+      "en": "Checking for updates. Please wait.",
+      "hi": "अपडेट जाँचे जा रहे हैं। कृपया रुकें।",
+      "pt": "Verificando atualizações. Aguarde."
+    },
+    {
+      "source": "正在读取…",
+      "en": "Loading…",
+      "hi": "लोड हो रहा है…",
+      "pt": "Carregando…"
+    },
+    {
+      "source": "正在连接服务器…",
+      "en": "Connecting to server…",
+      "hi": "सर्वर से जुड़ रहा है…",
+      "pt": "Conectando ao servidor…"
+    },
+    {
+      "source": "此操作暂不可用",
+      "en": "This action is unavailable.",
+      "hi": "यह काम अभी उपलब्ध नहीं है।",
+      "pt": "Esta ação está indisponível."
+    },
+    {
+      "source": "此服务页面尚未配置",
+      "en": "This service page is not configured.",
+      "hi": "इस सेवा का पृष्ठ तैयार नहीं है।",
+      "pt": "Esta página de serviço não foi configurada."
+    },
+    {
+      "source": "每日挑战关卡资源未加载",
+      "en": "Daily challenge content has not loaded.",
+      "hi": "दैनिक चुनौती की सामग्री लोड नहीं हुई।",
+      "pt": "O conteúdo do desafio diário não foi carregado."
+    },
+    {
+      "source": "活动周期已变化，购买凭据已保存，等待支付服务处理",
+      "en": "The event cycle changed. The purchase receipt was saved for payment processing.",
+      "hi": "आयोजन चक्र बदल गया। खरीद की रसीद भुगतान सेवा के लिए सुरक्षित है।",
+      "pt": "O ciclo do evento mudou. O recibo foi salvo para processamento."
+    },
+    {
+      "source": "清除本机进度会删除关卡和道具记录，无法撤销。云端账号的数据删除请通过服务页面办理。",
+      "en": "Deleting local progress removes level and booster records permanently. Use the service page to delete cloud account data.",
+      "hi": "स्थानीय प्रगति हटाने से स्तर और बूस्टर रिकॉर्ड हमेशा के लिए मिटेंगे। क्लाउड खाता हटाने के लिए सेवा पृष्ठ खोलें।",
+      "pt": "Excluir o progresso local remove fases e reforços permanentemente. Use a página de serviço para excluir dados da conta na nuvem."
+    },
+    {
+      "source": "确认恢复（先备份本机）",
+      "en": "Restore (back up local save first)",
+      "hi": "बहाल करें (पहले स्थानीय बैकअप)",
+      "pt": "Restaurar (copiar save local antes)"
+    },
+    {
+      "source": "确认清除本机进度",
+      "en": "Delete local progress",
+      "hi": "स्थानीय प्रगति हटाएँ",
+      "pt": "Excluir progresso local"
+    },
+    {
+      "source": "账号数据删除页面",
+      "en": "Account data deletion page",
+      "hi": "खाता डेटा हटाने का पृष्ठ",
+      "pt": "Página de exclusão de dados"
+    },
+    {
+      "source": "账号已切换",
+      "en": "Account changed",
+      "hi": "खाता बदल गया",
+      "pt": "Conta alterada"
+    },
+    {
+      "source": "账号已切换，请重新进入游戏",
+      "en": "Account changed. Please reopen the game.",
+      "hi": "खाता बदल गया। खेल दोबारा खोलें।",
+      "pt": "Conta alterada. Reabra o jogo."
+    },
+    {
+      "source": "账号已切换，请重新进入游戏后继续保存。",
+      "en": "Account changed. Reopen the game before saving.",
+      "hi": "खाता बदल गया। सेव करने से पहले खेल दोबारा खोलें।",
+      "pt": "Conta alterada. Reabra o jogo antes de salvar."
+    },
+    {
+      "source": "账号已失效，请重新进入游戏",
+      "en": "Account expired. Please reopen the game.",
+      "hi": "खाता अमान्य हो गया। खेल दोबारा खोलें।",
+      "pt": "Conta expirada. Reabra o jogo."
+    },
+    {
+      "source": "账号存储已失效，请重新进入游戏。",
+      "en": "Account storage expired. Reopen the game.",
+      "hi": "खाते का स्टोरेज अमान्य हो गया। खेल दोबारा खोलें।",
+      "pt": "Armazenamento da conta expirado. Reabra o jogo."
+    },
+    {
+      "source": "购买未完成，没有解锁高级轨道",
+      "en": "Purchase not completed. Premium track remains locked.",
+      "hi": "खरीद पूरी नहीं हुई। प्रीमियम मार्ग बंद है।",
+      "pt": "Compra não concluída. A trilha premium permanece bloqueada."
+    },
+    {
+      "source": "进度保存失败，请稍后重试。",
+      "en": "Progress could not be saved. Please try again later.",
+      "hi": "प्रगति सेव नहीं हुई। बाद में फिर कोशिश करें।",
+      "pt": "Não foi possível salvar o progresso. Tente novamente mais tarde."
+    },
+    {
+      "source": "无法清除进度，请稍后重试",
+      "en": "Progress could not be deleted. Please try again later.",
+      "hi": "प्रगति हटाई नहीं गई। बाद में फिर कोशिश करें।",
+      "pt": "Não foi possível excluir o progresso. Tente novamente mais tarde."
+    },
+    {
+      "source": "选择榜单，从服务器加载真实排名",
+      "en": "Choose a ranking to load server results.",
+      "hi": "सर्वर के नतीजे लोड करने के लिए रैंकिंग चुनें।",
+      "pt": "Escolha uma classificação para carregar os resultados do servidor."
+    },
+    {
+      "source": "队伍功能尚未开放",
+      "en": "Teams are not available yet.",
+      "hi": "टीम अभी उपलब्ध नहीं हैं।",
+      "pt": "Equipes ainda não disponíveis."
+    },
+    {
+      "source": "地区",
+      "en": "Area",
+      "hi": "क्षेत्र",
+      "pt": "Área"
+    },
+    {
+      "source": "小时",
+      "en": "hours",
+      "hi": "घंटे",
+      "pt": "horas"
+    },
+    {
+      "source": "分钟无限生命",
+      "en": "minutes of unlimited lives",
+      "hi": "मिनट असीमित जीवन",
+      "pt": "minutos de vidas ilimitadas"
+    },
+    {
+      "source": "生命已满",
+      "en": "Lives full",
+      "hi": "जीवन पूरे हैं",
+      "pt": "Vidas cheias"
+    },
+    {
+      "source": "生命补充",
+      "en": "Refill lives",
+      "hi": "जीवन भरें",
+      "pt": "Repor vidas"
+    },
+    {
+      "source": "使用道具",
+      "en": "Use boosters",
+      "hi": "बूस्टर इस्तेमाल करें",
+      "pt": "Usar reforços"
+    },
+    {
+      "source": "使用撤回道具",
+      "en": "Use Undo",
+      "hi": "वापस लेने वाला बूस्टर इस्तेमाल करें",
+      "pt": "Usar Desfazer"
+    },
+    {
+      "source": "使用打乱道具",
+      "en": "Use Shuffle",
+      "hi": "फेरबदल इस्तेमाल करें",
+      "pt": "Usar Embaralhar"
+    },
+    {
+      "source": "使用扩容道具",
+      "en": "Use belt expansion",
+      "hi": "जगह बढ़ाने वाला बूस्टर इस्तेमाल करें",
+      "pt": "Usar ampliação de esteira"
+    },
+    {
+      "source": "使用加车道具",
+      "en": "Use Add cart",
+      "hi": "गाड़ी जोड़ने वाला बूस्टर इस्तेमाल करें",
+      "pt": "Usar Adicionar vagonete"
+    },
+    {
+      "source": "使用增加托盘道具",
+      "en": "Use Add cart",
+      "hi": "गाड़ी जोड़ने वाला बूस्टर इस्तेमाल करें",
+      "pt": "Usar Adicionar vagonete"
+    },
+    {
+      "source": "使用金币补充道具",
+      "en": "Buy boosters with coins",
+      "hi": "सिक्कों से बूस्टर खरीदें",
+      "pt": "Comprar reforços com moedas"
+    },
+    {
+      "source": "花费金币",
+      "en": "Spend coins",
+      "hi": "सिक्के खर्च करें",
+      "pt": "Gastar moedas"
+    },
+    {
+      "source": "消耗金币",
+      "en": "Spend coins",
+      "hi": "सिक्के खर्च करें",
+      "pt": "Gastar moedas"
+    },
+    {
+      "source": "获得金币",
+      "en": "Earn coins",
+      "hi": "सिक्के पाएँ",
+      "pt": "Obter moedas"
+    },
+    {
+      "source": "完成关卡",
+      "en": "Complete levels",
+      "hi": "स्तर पूरे करें",
+      "pt": "Concluir fases"
+    },
+    {
+      "source": "完成困难关卡",
+      "en": "Complete hard levels",
+      "hi": "कठिन स्तर पूरे करें",
+      "pt": "Concluir fases difíceis"
+    },
+    {
+      "source": "完成超难关卡",
+      "en": "Complete very hard levels",
+      "hi": "बहुत कठिन स्तर पूरे करें",
+      "pt": "Concluir fases muito difíceis"
+    },
+    {
+      "source": "失败后继续",
+      "en": "Continue after a loss",
+      "hi": "हार के बाद जारी रखें",
+      "pt": "Continuar após perder"
+    },
+    {
+      "source": "揭示隐藏方块",
+      "en": "Reveal hidden blocks",
+      "hi": "छिपे ब्लॉक दिखाएँ",
+      "pt": "Revelar blocos ocultos"
+    },
+    {
+      "source": "连续通关",
+      "en": "Win streak",
+      "hi": "लगातार जीत",
+      "pt": "Vitórias consecutivas"
+    },
+    {
+      "source": "最高连胜",
+      "en": "Best win streak",
+      "hi": "सबसे अधिक लगातार जीत",
+      "pt": "Melhor sequência de vitórias"
+    },
+    {
+      "source": "道具商店",
+      "en": "Booster shop",
+      "hi": "बूस्टर की दुकान",
+      "pt": "Loja de reforços"
+    },
+    {
+      "source": "金币不足",
+      "en": "Not enough coins.",
+      "hi": "सिक्के कम हैं।",
+      "pt": "Moedas insuficientes."
+    },
+    {
+      "source": "通行证钥匙不足",
+      "en": "Not enough pass keys.",
+      "hi": "पास की चाबियाँ कम हैं।",
+      "pt": "Chaves do passe insuficientes."
+    },
+    {
+      "source": "金币礼包 / 高级通行证",
+      "en": "Coin packs / Premium pass",
+      "hi": "सिक्कों के पैक / प्रीमियम पास",
+      "pt": "Pacotes de moedas / Passe premium"
+    },
+    {
+      "source": "东京",
+      "en": "Tokyo",
+      "hi": "टोक्यो",
+      "pt": "Tóquio"
+    },
+    {
+      "source": "伊斯坦布尔",
+      "en": "Istanbul",
+      "hi": "इस्तांबुल",
+      "pt": "Istambul"
+    },
+    {
+      "source": "伦敦",
+      "en": "London",
+      "hi": "लंदन",
+      "pt": "Londres"
+    },
+    {
+      "source": "巴塞罗那",
+      "en": "Barcelona",
+      "hi": "बार्सिलोना",
+      "pt": "Barcelona"
+    },
+    {
+      "source": "巴黎",
+      "en": "Paris",
+      "hi": "पेरिस",
+      "pt": "Paris"
+    },
+    {
+      "source": "布拉格",
+      "en": "Prague",
+      "hi": "प्राग",
+      "pt": "Praga"
+    },
+    {
+      "source": "悉尼",
+      "en": "Sydney",
+      "hi": "सिडनी",
+      "pt": "Sydney"
+    },
+    {
+      "source": "新加坡",
+      "en": "Singapore",
+      "hi": "सिंगापुर",
+      "pt": "Singapura"
+    },
+    {
+      "source": "旧金山",
+      "en": "San Francisco",
+      "hi": "सैन फ़्रांसिस्को",
+      "pt": "São Francisco"
+    },
+    {
+      "source": "曼谷",
+      "en": "Bangkok",
+      "hi": "बैंकॉक",
+      "pt": "Bangcoc"
+    },
+    {
+      "source": "米兰",
+      "en": "Milan",
+      "hi": "मिलान",
+      "pt": "Milão"
+    },
+    {
+      "source": "纽约",
+      "en": "New York",
+      "hi": "न्यूयॉर्क",
+      "pt": "Nova York"
+    },
+    {
+      "source": "罗马",
+      "en": "Rome",
+      "hi": "रोम",
+      "pt": "Roma"
+    },
+    {
+      "source": "迪拜",
+      "en": "Dubai",
+      "hi": "दुबई",
+      "pt": "Dubai"
+    },
+    {
+      "source": "阿姆斯特丹",
+      "en": "Amsterdam",
+      "hi": "एम्स्टर्डम",
+      "pt": "Amsterdã"
+    },
+    {
+      "source": "雅典",
+      "en": "Athens",
+      "hi": "एथेंस",
+      "pt": "Atenas"
+    },
+    {
+      "source": "首尔",
+      "en": "Seoul",
+      "hi": "सोल",
+      "pt": "Seul"
+    },
+    {
+      "source": "香港",
+      "en": "Hong Kong",
+      "hi": "हांगकांग",
+      "pt": "Hong Kong"
+    },
+    {
+      "source": "马德里",
+      "en": "Madrid",
+      "hi": "मैड्रिड",
+      "pt": "Madri"
+    },
+    {
+      "source": "缤纷方块",
+      "en": "Colorful blocks",
+      "hi": "रंगीन ब्लॉक",
+      "pt": "Blocos coloridos"
+    },
+    {
+      "source": "当前钥匙",
+      "en": "Current keys",
+      "hi": "मौजूदा चाबियाँ",
+      "pt": "Chaves atuais"
+    },
+    {
+      "source": "钥匙",
+      "en": "Keys",
+      "hi": "चाबियाँ",
+      "pt": "Chaves"
+    },
+    {
+      "source": "天",
+      "en": "days",
+      "hi": "दिन",
+      "pt": "dias"
+    },
+    {
+      "source": "关",
+      "en": "levels",
+      "hi": "स्तर",
+      "pt": "fases"
+    },
+    {
+      "source": "个",
+      "en": "items",
+      "hi": "वस्तुएँ",
+      "pt": "itens"
+    },
+    {
+      "source": "档",
+      "en": "tier",
+      "hi": "स्तर",
+      "pt": "faixa"
+    },
+    {
+      "source": "阶",
+      "en": "stage",
+      "hi": "चरण",
+      "pt": "etapa"
+    },
+    {
+      "source": "积分",
+      "en": "points",
+      "hi": "अंक",
+      "pt": "pontos"
+    },
+    {
+      "source": "高级",
+      "en": "Premium",
+      "hi": "प्रीमियम",
+      "pt": "Premium"
+    },
+    {
+      "source": "通关",
+      "en": "Completed",
+      "hi": "पूरे हुए",
+      "pt": "Concluídas"
+    },
+    {
+      "source": "补满",
+      "en": "Refill",
+      "hi": "पूरा भरें",
+      "pt": "Repor"
+    },
+    {
+      "source": "阶段奖励",
+      "en": "Milestone reward",
+      "hi": "पड़ाव का इनाम",
+      "pt": "Recompensa de marco"
+    },
+    {
+      "source": "当前生命",
+      "en": "Current lives",
+      "hi": "मौजूदा जीवन",
+      "pt": "Vidas atuais"
+    },
+    {
+      "source": "无限生命剩余",
+      "en": "Unlimited lives left",
+      "hi": "असीमित जीवन बाकी",
+      "pt": "Vidas ilimitadas restantes"
+    },
+    {
+      "source": "下一颗生命",
+      "en": "Next life in",
+      "hi": "अगला जीवन",
+      "pt": "Próxima vida em"
+    },
+    {
+      "source": "本地活动剩余",
+      "en": "Local event time left",
+      "hi": "स्थानीय आयोजन का समय बाकी",
+      "pt": "Tempo restante do evento local"
+    },
+    {
+      "source": "正在下载更新",
+      "en": "Downloading update",
+      "hi": "अपडेट डाउनलोड हो रहा है",
+      "pt": "Baixando atualização"
+    },
+    {
+      "source": "到达第 {0} 关后解锁",
+      "en": "Unlocks at level {0}",
+      "hi": "स्तर {0} पर खुलता है",
+      "pt": "Desbloqueia na fase {0}"
+    },
+    {
+      "source": "第 {0} 关解锁",
+      "en": "Unlocks at level {0}",
+      "hi": "स्तर {0} पर खुलता है",
+      "pt": "Desbloqueia na fase {0}"
+    },
+    {
+      "source": "拥有 {0}",
+      "en": "Owned: {0}",
+      "hi": "पास में: {0}",
+      "pt": "Possui: {0}"
+    },
+    {
+      "source": "任务挑战 · {0}",
+      "en": "Missions · {0}",
+      "hi": "मिशन · {0}",
+      "pt": "Missões · {0}"
+    },
+    {
+      "source": "通行证 · {0}",
+      "en": "Pass · {0}",
+      "hi": "पास · {0}",
+      "pt": "Passe · {0}"
+    },
+    {
+      "source": "每日挑战 {0}",
+      "en": "Daily challenge {0}",
+      "hi": "दैनिक चुनौती {0}",
+      "pt": "Desafio diário {0}"
+    },
+    {
+      "source": "任务积分：{0}",
+      "en": "Mission points: {0}",
+      "hi": "मिशन अंक: {0}",
+      "pt": "Pontos de missão: {0}"
+    },
+    {
+      "source": "通行证钥匙：{0}",
+      "en": "Pass keys: {0}",
+      "hi": "पास की चाबियाँ: {0}",
+      "pt": "Chaves do passe: {0}"
+    },
+    {
+      "source": "解锁高级轨道 {0}",
+      "en": "Unlock premium track {0}",
+      "hi": "प्रीमियम मार्ग खोलें {0}",
+      "pt": "Desbloquear trilha premium {0}"
+    },
+    {
+      "source": "使用时扣除道具库存，可在每日礼包中领取。",
+      "en": "Using this consumes one booster. Get more from daily gifts.",
+      "hi": "इस्तेमाल करने पर एक बूस्टर घटेगा। दैनिक उपहार से और पाएँ।",
+      "pt": "O uso consome um reforço. Obtenha mais nos presentes diários."
+    },
+    {
+      "source": "GM 仅限开发版本",
+      "en": "GM tools are for development builds only.",
+      "hi": "GM उपकरण केवल विकास संस्करण में हैं।",
+      "pt": "Ferramentas GM apenas para versões de desenvolvimento."
+    },
+    {
+      "source": "GM 工具",
+      "en": "GM tools",
+      "hi": "GM उपकरण",
+      "pt": "Ferramentas GM"
+    },
+    {
+      "source": "全部道具设为 99",
+      "en": "Set all boosters to 99",
+      "hi": "सभी बूस्टर 99 करें",
+      "pt": "Definir todos os reforços como 99"
+    },
+    {
+      "source": "撤回、打乱、扩容、加车已设为 99",
+      "en": "All four boosters set to 99.",
+      "hi": "चारों बूस्टर 99 कर दिए गए।",
+      "pt": "Os quatro reforços foram definidos como 99."
+    },
+    {
+      "source": "输入主关卡号",
+      "en": "Enter main level number",
+      "hi": "मुख्य स्तर की संख्या दर्ज करें",
+      "pt": "Digite o número da fase principal"
+    },
+    {
+      "source": "请输入有效的整数关卡号",
+      "en": "Enter a valid whole-number level.",
+      "hi": "स्तर की मान्य पूर्ण संख्या दर्ज करें।",
+      "pt": "Digite um número inteiro de fase válido."
+    },
+    {
+      "source": "没有第 {0} 关，请输入已存在的主关卡号",
+      "en": "Level {0} does not exist. Enter an existing main level.",
+      "hi": "स्तर {0} नहीं है। मौजूद मुख्य स्तर दर्ज करें।",
+      "pt": "A fase {0} não existe. Digite uma fase principal existente."
+    },
+    {
+      "source": "跳转",
+      "en": "Jump",
+      "hi": "जाएँ",
+      "pt": "Ir"
+    },
+    {
+      "source": "当前仍加载旧版 Lua 运行库，请完全退出并重新打开 Unity；Android 请安装重新构建的 SDK 版 APK。",
+      "en": "An old Lua runtime is loaded. Restart Unity, or install the rebuilt Android SDK APK.",
+      "hi": "पुराना Lua संस्करण लोड है। Unity दोबारा खोलें या नया Android SDK APK इंस्टॉल करें।",
+      "pt": "Uma versão antiga do Lua está carregada. Reinicie o Unity ou instale o APK Android recompilado."
+    },
+    {
+      "source": "每 30 分钟恢复一颗生命；无限生命期间失败不扣除生命。",
+      "en": "Regain one life every 30 minutes. Losses consume no lives during unlimited-life time.",
+      "hi": "हर 30 मिनट में एक जीवन लौटता है। असीमित जीवन के दौरान हारने पर जीवन नहीं घटता।",
+      "pt": "Recupere uma vida a cada 30 minutos. Durante vidas ilimitadas, derrotas não gastam vidas."
+    },
+    {
+      "source": "900 金币补满",
+      "en": "Refill for 900 coins",
+      "hi": "900 सिक्कों में पूरा भरें",
+      "pt": "Repor por 900 moedas"
+    },
+    {
+      "source": "yyyy 年 M 月 d 日",
+      "en": "dd/MM/yyyy",
+      "hi": "dd/MM/yyyy",
+      "pt": "dd/MM/yyyy"
+    },
+    {
+      "source": "第 ",
+      "en": "Level ",
+      "hi": "स्तर ",
+      "pt": "Fase "
+    },
+    {
+      "source": "天奖励",
+      "en": "day reward",
+      "hi": "दिन का इनाम",
+      "pt": "recompensa diária"
+    },
+    {
+      "source": "关后解锁",
+      "en": "levels to unlock",
+      "hi": "स्तर के बाद खुलेगा",
+      "pt": "fases para desbloquear"
+    },
+    {
+      "source": "关解锁",
+      "en": "levels to unlock",
+      "hi": "स्तर पर खुलेगा",
+      "pt": "fases para desbloquear"
+    },
+    {
+      "source": "关，请输入已存在的主关卡号",
+      "en": "does not exist. Enter an existing level.",
+      "hi": "नहीं है। मौजूद स्तर दर्ज करें।",
+      "pt": "não existe. Digite uma fase existente."
+    },
+    {
+      "source": "关 · 通关",
+      "en": "level · Completed",
+      "hi": "स्तर · पूरे",
+      "pt": "fase · Concluídas"
+    },
+    {
+      "source": "购买 1 个",
+      "en": "Buy one",
+      "hi": "एक खरीदें",
+      "pt": "Comprar um"
+    },
+    {
+      "source": "关卡",
+      "en": "Level",
+      "hi": "स्तर",
+      "pt": "Fase"
+    },
+    {
+      "source": "到达第 ",
+      "en": "Reach level ",
+      "hi": "स्तर तक पहुँचें ",
+      "pt": "Alcance a fase "
+    },
+    {
+      "source": "本机记录：第 ",
+      "en": "Local record: level ",
+      "hi": "स्थानीय रिकॉर्ड: स्तर ",
+      "pt": "Recorde local: fase "
+    },
+    {
+      "source": "没有第 ",
+      "en": "No level ",
+      "hi": "स्तर नहीं है ",
+      "pt": "Não existe a fase "
+    },
+    {
+      "source": "已领取：",
+      "en": "Claimed: ",
+      "hi": "मिला: ",
+      "pt": "Recebido: "
+    },
+    {
+      "source": "高级：",
+      "en": "Premium: ",
+      "hi": "प्रीमियम: ",
+      "pt": "Premium: "
+    },
+    {
+      "source": "拥有 ",
+      "en": "Owned: ",
+      "hi": "पास में: ",
+      "pt": "Possui: "
+    },
+    {
+      "source": "当前钥匙 ",
+      "en": "Current keys ",
+      "hi": "मौजूदा चाबियाँ ",
+      "pt": "Chaves atuais "
+    },
+    {
+      "source": "连接失败，请检查服务地址和网络（",
+      "en": "Connection failed. Check the service address and network (",
+      "hi": "कनेक्शन विफल। सेवा का पता और नेटवर्क जाँचें (",
+      "pt": "Falha na conexão. Verifique o endereço e a rede ("
+    },
+    {
+      "source": "累计",
+      "en": "Total",
+      "hi": "कुल",
+      "pt": "Total"
+    },
+    {
+      "source": "签到完成",
+      "en": "Check-in complete",
+      "hi": "चेक-इन पूरा हुआ",
+      "pt": "Check-in concluído"
+    },
+    {
+      "source": "今日可领",
+      "en": "Ready to claim",
+      "hi": "आज लें",
+      "pt": "Pronto para resgatar"
+    },
+    {
+      "source": "返回",
+      "en": "Back",
+      "hi": "वापस",
+      "pt": "Voltar"
+    },
+    {
+      "source": "在本关预留的位置增加一个空托盘。",
+      "en": "Add an empty cart to this level.",
+      "hi": "इस स्तर में एक खाली गाड़ी जोड़ें।",
+      "pt": "Adicione um vagonete vazio a esta fase."
+    },
+    {
+      "source": "增加传送带的容量，传送带已满时也可以使用。",
+      "en": "Add one full block of belt capacity, even after a jam.",
+      "hi": "कन्वेयर पर एक पूरे ब्लॉक की जगह बढ़ाएँ। जाम होने पर भी जारी रखें।",
+      "pt": "Adicione espaço para um bloco inteiro, mesmo após um congestionamento."
+    },
+    {
+      "source": "完成一辆货车，即可向前展开地毯",
+      "en": "Each completed cart rolls the blanket forward to reveal the next cart.",
+      "hi": "हर गाड़ी पूरी भरने पर चादर आगे लुढ़कती है और अगली गाड़ी दिखती है।",
+      "pt": "Cada vagonete completo faz a manta avançar e revelar o próximo."
+    },
+    {
+      "source": "完成同色货车后即可打开幕布",
+      "en": "Complete a cart matching the cover's color to open it and reveal the ore inside.",
+      "hi": "ढक्कन के रंग वाली गाड़ी पूरी भरें ताकि ढक्कन खुले और अंदर का अयस्क दिखे।",
+      "pt": "Complete um vagonete da cor da tampa para abri-la e revelar o minério."
+    },
+    {
+      "source": "完成指定的关联货车后即可破壳",
+      "en": "Complete the linked cart to break the lava shell and unlock this cart.",
+      "hi": "जुड़ी हुई गाड़ी पूरी भरें ताकि लावा कवच टूटे और यह गाड़ी खुले।",
+      "pt": "Complete o vagonete vinculado para quebrar a crosta e liberar este vagonete."
+    },
+    {
+      "source": "完成绳索组内任意一辆货车后即可解开绳索",
+      "en": "Chained carts can collect ore. Complete any cart in the group to remove the chain.",
+      "hi": "जंजीर वाली गाड़ियाँ अयस्क ले सकती हैं। समूह की कोई एक गाड़ी पूरी भरें ताकि जंजीर खुले।",
+      "pt": "Vagonetes acorrentados recebem minério. Complete um deles para remover a corrente do grupo."
+    },
+    {
+      "source": "让同色钥匙露出，即可解锁这组货车",
+      "en": "Expose the key block to open the matching lock.",
+      "hi": "चाबी वाला ब्लॉक बाहर लाएँ और उसी रंग का ताला खोलें।",
+      "pt": "Exponha o bloco com chave para abrir a tranca da mesma cor."
+    },
+    {
+      "source": "账号不可用，请重新进入游戏",
+      "en": "Account unavailable. Please reopen the game.",
+      "hi": "खाता उपलब्ध नहीं है। खेल दोबारा खोलें।",
+      "pt": "Conta indisponível. Reabra o jogo."
+    },
+    {
+      "source": "请在每日礼包中领取道具",
+      "en": "Not enough boosters. Claim daily gifts.",
+      "hi": "बूस्टर कम हैं। दैनिक उपहार लें।",
+      "pt": "Sem reforços suficientes. Receba presentes diários."
+    },
+    {
+      "source": "打乱道具不足，可在每日礼包中领取",
+      "en": "Not enough boosters. Claim daily gifts.",
+      "hi": "बूस्टर कम हैं। दैनिक उपहार लें।",
+      "pt": "Sem reforços suficientes. Receba presentes diários."
+    },
+    {
+      "source": "简体中文 ▾",
+      "en": "简体中文",
+      "hi": "简体中文",
+      "pt": "简体中文"
+    },
+    {
+      "source": "请返回主页后检查更新",
+      "en": "Return home to check for updates.",
+      "hi": "अपडेट जाँचने के लिए मुख्य पृष्ठ पर लौटें।",
+      "pt": "Volte ao início para verificar atualizações."
+    },
+    {
+      "source": "\n使用时扣除道具库存，可在每日礼包中领取。",
+      "en": "\nUsing this consumes one booster. Get more from daily gifts.",
+      "hi": "\nइस्तेमाल करने पर एक बूस्टर घटेगा। दैनिक उपहार से और पाएँ।",
+      "pt": "\nO uso consome um reforço. Obtenha mais nos presentes diários."
+    },
+    {
+      "source": "  已完成 ",
+      "en": "  Completed ",
+      "hi": "  पूरा हुआ ",
+      "pt": "  Concluído "
+    },
+    {
+      "source": " 个",
+      "en": " items",
+      "hi": " वस्तुएँ",
+      "pt": " itens"
+    },
+    {
+      "source": " 关",
+      "en": " levels",
+      "hi": " स्तर",
+      "pt": " fases"
+    },
+    {
+      "source": " 关 · 通关 ",
+      "en": " level · Completed ",
+      "hi": " स्तर · पूरे ",
+      "pt": " fase · Concluídas "
+    },
+    {
+      "source": " 关后解锁",
+      "en": " levels to unlock",
+      "hi": " स्तर के बाद खुलेगा",
+      "pt": " fases para desbloquear"
+    },
+    {
+      "source": " 关解锁",
+      "en": " levels to unlock",
+      "hi": " स्तर पर खुलेगा",
+      "pt": " fases para desbloquear"
+    },
+    {
+      "source": " 关，请输入已存在的主关卡号",
+      "en": " does not exist. Enter an existing level.",
+      "hi": " नहीं है। मौजूद स्तर दर्ज करें।",
+      "pt": " não existe. Digite uma fase existente."
+    },
+    {
+      "source": " 天",
+      "en": " days",
+      "hi": " दिन",
+      "pt": " dias"
+    },
+    {
+      "source": " 天奖励",
+      "en": " day reward",
+      "hi": " दिन का इनाम",
+      "pt": " recompensa diária"
+    },
+    {
+      "source": " 积分",
+      "en": " points",
+      "hi": " अंक",
+      "pt": " pontos"
+    },
+    {
+      "source": " 积分\n",
+      "en": " points\n",
+      "hi": " अंक\n",
+      "pt": " pontos\n"
+    },
+    {
+      "source": " 金币",
+      "en": " Coins",
+      "hi": " सिक्के",
+      "pt": " Moedas"
+    },
+    {
+      "source": " 钥匙",
+      "en": " Keys",
+      "hi": " चाबियाँ",
+      "pt": " Chaves"
+    },
+    {
+      "source": "下一颗生命 ",
+      "en": "Next life in ",
+      "hi": "अगला जीवन ",
+      "pt": "Próxima vida em "
+    },
+    {
+      "source": "任务积分 ",
+      "en": "Mission points ",
+      "hi": "मिशन अंक ",
+      "pt": "Pontos de missão "
+    },
+    {
+      "source": "天 ",
+      "en": "days ",
+      "hi": "दिन ",
+      "pt": "dias "
+    },
+    {
+      "source": "已完成 ",
+      "en": "Completed ",
+      "hi": "पूरा हुआ ",
+      "pt": "Concluído "
+    },
+    {
+      "source": "已解锁 ",
+      "en": "Unlocked ",
+      "hi": "खुल गया ",
+      "pt": "Desbloqueado "
+    },
+    {
+      "source": "当前生命 ",
+      "en": "Current lives ",
+      "hi": "मौजूदा जीवन ",
+      "pt": "Vidas atuais "
+    },
+    {
+      "source": "无限生命剩余 ",
+      "en": "Unlimited lives left ",
+      "hi": "असीमित जीवन बाकी ",
+      "pt": "Vidas ilimitadas restantes "
+    },
+    {
+      "source": "本地活动剩余 ",
+      "en": "Local event time left ",
+      "hi": "स्थानीय आयोजन का समय बाकी ",
+      "pt": "Tempo restante do evento local "
+    },
+    {
+      "source": "本轮已签到 ",
+      "en": "Check-ins this cycle ",
+      "hi": "इस चक्र के चेक-इन ",
+      "pt": "Check-ins deste ciclo "
+    },
+    {
+      "source": "正在下载更新 ",
+      "en": "Downloading update ",
+      "hi": "अपडेट डाउनलोड हो रहा है ",
+      "pt": "Baixando atualização "
+    },
+    {
+      "source": "每日挑战 ",
+      "en": "Daily challenge ",
+      "hi": "दैनिक चुनौती ",
+      "pt": "Desafio diário "
+    },
+    {
+      "source": "金币  ",
+      "en": "Coins  ",
+      "hi": "सिक्के  ",
+      "pt": "Moedas  "
+    },
+    {
+      "source": "解锁高级轨道",
+      "en": "Unlock premium track",
+      "hi": "प्रीमियम मार्ग खोलें",
+      "pt": "Desbloquear trilha premium"
+    },
+    {
+      "source": "看广告跳关",
+      "en": "Watch ad to skip",
+      "hi": "विज्ञापन देखकर स्तर छोड़ें",
+      "pt": "Ver anúncio para pular"
+    },
+    {
+      "source": "再试一次吧！",
+      "en": "Try Again",
+      "hi": "फिर कोशिश करें!",
+      "pt": "Tente outra vez!"
+    },
+    {
+      "source": "矿车有危险！",
+      "en": "Cart in danger!",
+      "hi": "गाड़ी खतरे में!",
+      "pt": "Vagonete em perigo!"
+    },
+    {
+      "source": "本局增加一个传送带位置，继续当前关卡",
+      "en": "Add one belt slot and continue this level.",
+      "hi": "कन्वेयर पर एक जगह बढ़ाएँ और यह स्तर जारी रखें।",
+      "pt": "Adicione uma vaga na esteira e continue esta fase."
+    },
+    {
+      "source": "复活",
+      "en": "Revive",
+      "hi": "फिर से खेलें",
+      "pt": "Reviver"
+    },
+    {
+      "source": "已复活，传送带位置 +1",
+      "en": "Revived! Belt slots +1",
+      "hi": "फिर से खेलें! कन्वेयर की जगह +1",
+      "pt": "De volta ao jogo! Vaga na esteira +1"
+    },
+    {
+      "source": "玩法图鉴",
+      "en": "How to play",
+      "hi": "कैसे खेलें",
+      "pt": "Como jogar"
+    },
+    {
+      "source": "已发现 {0} 种玩法",
+      "en": "Discovered {0} mechanics",
+      "hi": "खोजे गए नियम: {0}",
+      "pt": "Mecânicas descobertas: {0}"
+    },
+    {
+      "source": "解锁所有关卡",
+      "en": "Unlock all levels",
+      "hi": "सभी स्तर खोलें",
+      "pt": "Desbloquear todas as fases"
+    },
+    {
+      "source": "已解锁所有关卡",
+      "en": "All levels unlocked",
+      "hi": "सभी स्तर खुल गए",
+      "pt": "Todas as fases desbloqueadas"
+    },
+    {
+      "source": "开始第 {0} 关",
+      "en": "LEVEL {0}",
+      "hi": "स्तर {0}",
+      "pt": "FASE {0}"
+    },
+    {
+      "source": "当前第 {0} 关",
+      "en": "Stage {0}",
+      "hi": "स्तर {0}",
+      "pt": "Fase {0}"
+    },
+    {
+      "source": "关卡回顾",
+      "en": "Past Levels",
+      "hi": "पिछले स्तर",
+      "pt": "Fases anteriores"
+    },
+    {
+      "source": "前往下一关",
+      "en": "NEXT",
+      "hi": "अगला स्तर",
+      "pt": "AVANÇAR"
+    },
+    {
+      "source": "重新挑战",
+      "en": "RETRY",
+      "hi": "फिर कोशिश करें",
+      "pt": "TENTAR DE NOVO"
+    },
+    {
+      "source": "传送拱门",
+      "en": "Transfer Arch",
+      "hi": "पोर्टल मेहराब",
+      "pt": "Arco de transporte"
+    },
+    {
+      "source": "方块驶入传送带一端的拱门后，会从另一端出来，继续沿传送带移动。",
+      "en": "Blocks enter the arch at one end of the belt and emerge at the other end.",
+      "hi": "ब्लॉक कन्वेयर के एक सिरे की मेहराब में जाते हैं और दूसरे सिरे से निकलते हैं।",
+      "pt": "Os blocos entram no arco de uma ponta da esteira e saem pela outra."
+    },
+    {
+      "source": "谜糖块",
+      "en": "Mystery Candy",
+      "hi": "रहस्यमय कैंडी",
+      "pt": "Doce misterioso"
+    },
+    {
+      "source": "问号会盖住方块的颜色。移走挡在前面的方块，谜糖块露到车口时就会显出颜色。",
+      "en": "The question mark hides the block’s color. Remove the blocks in front to reveal its color when it reaches the cart opening.",
+      "hi": "प्रश्नचिह्न ब्लॉक का रंग छिपाता है। आगे के ब्लॉक हटाएँ ताकि गाड़ी के मुहाने पर उसका रंग दिखे।",
+      "pt": "A interrogação esconde a cor do bloco. Remova os blocos da frente para revelar sua cor na abertura do carrinho."
+    },
+    {
+      "source": "彩糖盖",
+      "en": "Candy Color Lid",
+      "hi": "रंगीन कैंडी ढक्कन",
+      "pt": "Tampa de doce colorida"
+    },
+    {
+      "source": "完成一辆与盖面徽章同色的车，彩糖盖就会打开，露出车里的方块。",
+      "en": "Complete a cart matching the badge on the lid to open it and reveal the blocks inside.",
+      "hi": "ढक्कन के निशान के रंग वाली गाड़ी पूरी भरें। ढक्कन खुलेगा और अंदर के ब्लॉक दिखेंगे।",
+      "pt": "Complete um carrinho da cor do emblema da tampa para abri-la e revelar os blocos."
+    },
+    {
+      "source": "单向挡杆",
+      "en": "One-Way Bar",
+      "hi": "एकतरफ़ा रोक",
+      "pt": "Barra de mão única"
+    },
+    {
+      "source": "装有单向挡杆的车可以收进同色方块，车里的方块留在车内。",
+      "en": "A cart with a one-way bar accepts matching blocks and keeps its cargo inside.",
+      "hi": "एकतरफ़ा रोक वाली गाड़ी उसी रंग के ब्लॉक ले सकती है। अंदर के ब्लॉक गाड़ी में ही रहते हैं।",
+      "pt": "O carrinho com a barra recebe blocos da mesma cor e mantém sua carga dentro."
+    },
+    {
+      "source": "螺旋糖栓",
+      "en": "Candy Twist Link",
+      "hi": "कैंडी का घुमावदार जोड़",
+      "pt": "Conector espiral"
+    },
+    {
+      "source": "螺旋糖栓把相邻方块连在一起。传送带有足够空位时，这组方块会一起放出。",
+      "en": "The twist link joins neighboring blocks. They release together when the belt has enough room.",
+      "hi": "घुमावदार जोड़ पास के ब्लॉक बाँधता है। कन्वेयर पर जगह होने पर वे एक साथ निकलते हैं।",
+      "pt": "O conector une blocos vizinhos. Eles saem juntos quando há espaço na esteira."
+    },
+    {
+      "source": "糖釉壳",
+      "en": "Sugar Glaze Shell",
+      "hi": "चीनी का चमकीला खोल",
+      "pt": "Crosta de açúcar"
+    },
+    {
+      "source": "完成与糖釉壳关联的车，外壳就会碎开，被罩住的车可以继续使用。",
+      "en": "Complete the linked cart to crack the glaze and free the cart underneath.",
+      "hi": "जुड़ी हुई गाड़ी पूरी भरें। चीनी का खोल टूटेगा और ढकी गाड़ी खुल जाएगी।",
+      "pt": "Complete o carrinho vinculado para quebrar a crosta e liberar o carrinho coberto."
+    },
+    {
+      "source": "巧克力锁闸",
+      "en": "Chocolate Lock Gate",
+      "hi": "चॉकलेट का बंद फाटक",
+      "pt": "Portão de chocolate"
+    },
+    {
+      "source": "让带钥匙的方块露到车口，收集钥匙后就能打开同色的巧克力锁闸。",
+      "en": "Expose the block carrying a key at the cart opening. Collect the key to open the matching chocolate gate.",
+      "hi": "चाबी वाला ब्लॉक गाड़ी के मुहाने तक लाएँ। चाबी लेने पर उसी रंग का चॉकलेट फाटक खुलेगा।",
+      "pt": "Exponha o bloco com chave na abertura do carrinho. Colete a chave para abrir o portão da mesma cor."
+    },
+    {
+      "source": "车身颜色就是收集目标。专色车只接收与车身同色的方块。",
+      "en": "The cart body shows its target color. It accepts only blocks of that color.",
+      "hi": "गाड़ी की बॉडी का रंग लक्ष्य दिखाता है। इसमें केवल उसी रंग के ब्लॉक जाते हैं।",
+      "pt": "A carroceria indica a cor alvo. O carrinho recebe apenas blocos dessa cor."
+    },
+    {
+      "source": "金扣链",
+      "en": "Gold-Clasp Chain",
+      "hi": "सुनहरी कुंडी वाली जंजीर",
+      "pt": "Corrente de fecho dourado"
+    },
+    {
+      "source": "链内的车可以继续收集方块。装满其中任意一辆，整组车的金扣链就会解开。",
+      "en": "Chained carts can still collect blocks. Complete any cart in the group to release the chain.",
+      "hi": "जंजीर वाली गाड़ियाँ ब्लॉक ले सकती हैं। समूह की कोई एक गाड़ी पूरी भरें ताकि जंजीर खुले।",
+      "pt": "Os carrinhos acorrentados podem receber blocos. Complete qualquer um do grupo para soltar a corrente."
+    },
+    {
+      "source": "棋盘卷毯",
+      "en": "Checker Roll",
+      "hi": "चौखाने वाली चादर",
+      "pt": "Manta quadriculada"
+    },
+    {
+      "source": "每完成一辆车，棋盘卷毯就会卷起一段，露出下一辆车。",
+      "en": "Each completed cart rolls up one section of the cover and reveals the next cart.",
+      "hi": "हर गाड़ी पूरी भरने पर चादर का एक हिस्सा लुढ़कता है और अगली गाड़ी दिखती है।",
+      "pt": "Cada carrinho completo enrola uma parte da manta e revela o próximo."
+    },
+    {
+      "source": "双门补给仓",
+      "en": "Twin-Door Hopper",
+      "hi": "दो दरवाज़ों वाला भंडार",
+      "pt": "Depósito de duas portas"
+    },
+    {
+      "source": "放出仓口的方块后，双门向下打开，下一组方块升到仓口。补给用完后，仓门保持关闭。",
+      "en": "Release the blocks at the opening. The doors drop and lift the next group into place. When supplies run out, the doors stay closed.",
+      "hi": "मुहाने के ब्लॉक छोड़ें। दरवाज़े नीचे खुलते हैं और अगला समूह ऊपर आता है। भंडार खाली होने पर दरवाज़े बंद रहते हैं।",
+      "pt": "Solte os blocos da abertura. As portas descem e o próximo grupo sobe. Quando a reserva acaba, as portas ficam fechadas."
+    }
+  ]
+}

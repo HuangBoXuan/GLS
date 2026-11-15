@@ -1,0 +1,377 @@
+{
+  "advert": [
+    "menu-details",
+    "10",
+    "false"
+  ],
+  "areasNav": [
+    "icons",
+    "16",
+    "false"
+  ],
+  "avatar": [
+    "icons",
+    "8",
+    "false"
+  ],
+  "beltCapacity": [
+    "belt-capacity",
+    "0",
+    "false"
+  ],
+  "belt": [
+    "reference-ui",
+    "4",
+    "false"
+  ],
+  "blocks": [
+    "icons",
+    "35",
+    "false"
+  ],
+  "blueButton": [
+    "approved-menu",
+    "0",
+    "true"
+  ],
+  "book": [
+    "mechanics-book",
+    "0",
+    "false"
+  ],
+  "boosterBg": [
+    "approved-menu",
+    "1",
+    "true"
+  ],
+  "boosterCount": [
+    "reference-ui",
+    "8",
+    "false"
+  ],
+  "boosterGrey": [
+    "approved-menu",
+    "1",
+    "true"
+  ],
+  "brokenHeart": [
+    "icons",
+    "23",
+    "false"
+  ],
+  "buttonGreen": [
+    "approved-menu",
+    "3",
+    "true"
+  ],
+  "button": [
+    "approved-menu",
+    "0",
+    "true"
+  ],
+  "calendar": [
+    "icons",
+    "20",
+    "false"
+  ],
+  "capacityPanel": [
+    "approved-menu",
+    "0",
+    "true"
+  ],
+  "check": [
+    "icons",
+    "21",
+    "false"
+  ],
+  "close": [
+    "menu-details",
+    "11",
+    "false"
+  ],
+  "coinBar": [
+    "approved-menu",
+    "0",
+    "true"
+  ],
+  "coin": [
+    "icons",
+    "6",
+    "false"
+  ],
+  "completeBadge": [
+    "menu-details",
+    "2",
+    "false"
+  ],
+  "disabled": [
+    "reference-ui",
+    "9",
+    "false"
+  ],
+  "failArt": [
+    "menu-details",
+    "8",
+    "true"
+  ],
+  "frame": [
+    "approved-menu",
+    "6",
+    "true"
+  ],
+  "gameBackground": [
+    "game-board",
+    "0",
+    "false"
+  ],
+  "gift": [
+    "reference-ui",
+    "7",
+    "false"
+  ],
+  "goldPile": [
+    "icons",
+    "6",
+    "false"
+  ],
+  "greenButton": [
+    "approved-menu",
+    "3",
+    "true"
+  ],
+  "haptic": [
+    "menu-details",
+    "6",
+    "false"
+  ],
+  "heart": [
+    "icons",
+    "7",
+    "false"
+  ],
+  "homeBackground": [
+    "game-board",
+    "0",
+    "false"
+  ],
+  "homeNav": [
+    "icons",
+    "17",
+    "false"
+  ],
+  "homePreview": [
+    "home-conveyor",
+    "0",
+    "false"
+  ],
+  "info": [
+    "icons",
+    "10",
+    "false"
+  ],
+  "languageButton": [
+    "menu-details",
+    "9",
+    "true"
+  ],
+  "language": [
+    "menu-details",
+    "7",
+    "false"
+  ],
+  "levelPanel": [
+    "approved-menu",
+    "0",
+    "true"
+  ],
+  "levelTile": [
+    "approved-menu",
+    "1",
+    "true"
+  ],
+  "menuRow": [
+    "menu-details",
+    "8",
+    "true"
+  ],
+  "music": [
+    "menu-details",
+    "4",
+    "false"
+  ],
+  "navBackground": [
+    "menu-details",
+    "8",
+    "true"
+  ],
+  "navSelected": [
+    "approved-menu",
+    "4",
+    "true"
+  ],
+  "navSeparator": [
+    "reference-ui",
+    "11",
+    "true"
+  ],
+  "paper": [
+    "menu-details",
+    "8",
+    "true"
+  ],
+  "plus": [
+    "icons",
+    "9",
+    "false"
+  ],
+  "priceBadge": [
+    "approved-menu",
+    "0",
+    "true"
+  ],
+  "rankingNav": [
+    "icons",
+    "18",
+    "false"
+  ],
+  "redButton": [
+    "approved-menu",
+    "0",
+    "true"
+  ],
+  "ribbon": [
+    "approved-menu",
+    "3",
+    "true"
+  ],
+  "settingsInner": [
+    "menu-details",
+    "8",
+    "true"
+  ],
+  "settings": [
+    "reference-ui",
+    "6",
+    "false"
+  ],
+  "shopBanner": [
+    "approved-menu",
+    "3",
+    "true"
+  ],
+  "shopNav": [
+    "icons",
+    "15",
+    "false"
+  ],
+  "shuffle": [
+    "reference-ui",
+    "3",
+    "false"
+  ],
+  "skipBadge": [
+    "menu-details",
+    "3",
+    "false"
+  ],
+  "sound": [
+    "menu-details",
+    "5",
+    "false"
+  ],
+  "stand": [
+    "menu-details",
+    "8",
+    "true"
+  ],
+  "teamsNav": [
+    "icons",
+    "19",
+    "false"
+  ],
+  "toggleOff": [
+    "menu-details",
+    "1",
+    "false"
+  ],
+  "toggleOn": [
+    "menu-details",
+    "0",
+    "false"
+  ],
+  "truck": [
+    "mine-cart",
+    "0",
+    "false"
+  ],
+  "tutorialBarrier": [
+    "mine-barrier",
+    "0",
+    "false"
+  ],
+  "tutorialCarpet": [
+    "mine-blanket",
+    "0",
+    "false"
+  ],
+  "tutorialCurtain": [
+    "mine-lid",
+    "0",
+    "false"
+  ],
+  "tutorialGenerator": [
+    "mine-hopper",
+    "0",
+    "false"
+  ],
+  "tutorialHand": [
+    "tutorial-hand",
+    "0",
+    "false"
+  ],
+  "tutorialHidden": [
+    "mine-hidden",
+    "0",
+    "false"
+  ],
+  "tutorialIce": [
+    "mine-crust",
+    "0",
+    "false"
+  ],
+  "tutorialLock": [
+    "mine-gate",
+    "0",
+    "false"
+  ],
+  "tutorialPortal": [
+    "mine-cave",
+    "0",
+    "false"
+  ],
+  "tutorialRope": [
+    "mine-chain",
+    "0",
+    "false"
+  ],
+  "tutorialScrew": [
+    "mine-connector",
+    "0",
+    "false"
+  ],
+  "tutorialTag": [
+    "mine-tag",
+    "0",
+    "false"
+  ],
+  "undo": [
+    "reference-ui",
+    "2",
+    "false"
+  ],
+  "yellowButton": [
+    "approved-menu",
+    "4",
+    "true"
+  ]
+}

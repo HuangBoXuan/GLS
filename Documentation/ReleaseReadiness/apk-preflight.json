@@ -1,0 +1,19 @@
+{
+  "status": "blocked by real production prerequisites",
+  "attempted": true,
+  "apkCreated": false,
+  "signedAabCreated": false,
+  "published": false,
+  "standaloneBridgeRefreshed": true,
+  "bindingId": "bb1b0a46b22bdb1b4a8f2d2fde5759c4f6b3304a0d724ab936486e645112a4e9",
+  "missing": [
+    "developmentOnly must be false",
+    "registrationConfirmed",
+    "productId",
+    "apiBaseUrl",
+    "cdnBaseUrl",
+    "release signing keystore and alias",
+    "production authenticated host scene (Gameplay is the standalone validation entry)"
+  ],
+  "log": "D:\\MiniProject\\BuildTemp\\LoopSort-3D-20261101\\release-apk-preflight-final.log"
+}

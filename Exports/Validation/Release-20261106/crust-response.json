@@ -1,0 +1,14 @@
+{
+  "level": 101,
+  "triggerCart": "A",
+  "frozenCart": "I",
+  "unrelatedCompletionKeepsShell": true,
+  "shellHiddenInSameRefresh": true,
+  "releaseAcceptedImmediately": true,
+  "breakEffectStartsImmediatelyAndOnce": true,
+  "undoRestoresShell": true,
+  "artworkUnchanged": true,
+  "previousEmptyWaitSeconds": 1,
+  "emptyWaitSeconds": 0,
+  "localChangeOnly": true
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-02",
+  "apk": "Builds\\AdIntegrationTest\\LoopSort-AdTest-20261102-110233.apk",
+  "sha256": "e84cc83aa9c2c9629cd0f14f0ad089fed3ce30395268188d736e75eb64328a2a",
+  "bytes": 100172367,
+  "apkBuilt": true,
+  "debugSignatureVerified": true,
+  "development": true,
+  "package": "com.falcogames.loopsort",
+  "targetApi": 36,
+  "minApi": 24,
+  "maxAndGoogleAdapterAndUmpAndAdvertisingIdClassesPresent": true,
+  "testBootstrapPresent": true,
+  "administrativeCredentialMatches": 0,
+  "nativeLibraries": [
+    {
+      "file": "lib/arm64-v8a/libapplovin-native-crash-reporter.so",
+      "loadAlignments": [
+        16384,
+        16384,
+        16384
+      ],
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libil2cpp.so",
+      "loadAlignments": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libmain.so",
+      "loadAlignments": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libunity.so",
+      "loadAlignments": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libxlua.so",
+      "loadAlignments": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "elf16kAligned": true
+    }
+  ],
+  "luaSyntaxChecks": 32,
+  "signInAndAdFlowChecks": "passed",
+  "adInputChecks": "passed",
+  "device": {
+    "serial": "emulator-5554",
+    "installed": true,
+    "launchAttempted": true,
+    "gameProcessConfirmed": true,
+    "hostWindowRequired": true,
+    "googlePlayServicesInstalled": false,
+    "gameStartupVerified": true,
+    "testModeEnabledThroughDebugger": true,
+    "singleHostLaunchVerified": true,
+    "unityActivityRoots": 1
+  },
+  "nativeSdkInitialized": true,
+  "testModeVerified": true,
+  "rewardedPlaybackVerified": false,
+  "rewardInventoryVerified": false,
+  "backendVerified": false,
+  "productionReady": false,
+  "published": false,
+  "nextAction": "Compare rewarded completion on a USB-connected Android phone; inspect native close/reward callbacks and grant-once behavior before declaring integration complete.",
+  "modernGradlePackagingPassed": true,
+  "unityGradleExportCheckPassed": true,
+  "privacyCanRequestAds": true,
+  "rewardedCompletionVerified": false,
+  "threeAdFormatsLoaded": true,
+  "mediationDebugger": {
+    "applovin": "completed integration; initialized",
+    "googleAdMob": "completed integration"
+  },
+  "emulatorIssue": "Single host-launched Unity activity also remains on the native MAX test-ad end card without close/reward events. No Houdini fault entries in this clean run; root cause is not established.",
+  "rewardedAdDisplayVerified": true,
+  "evidence": [
+    "evidence/ad-test-ready.png",
+    "evidence/ad-test-rewarded-display.png"
+  ],
+  "rewardedCloseVerified": false,
+  "nativeRewardCallbackObserved": false,
+  "nativeHiddenCallbackObserved": false,
+  "rewardedEndCardVisible": true,
+  "cleanRun": {
+    "sdkReady": "2026-11-02 12:06:02.698 +08:00",
+    "testMode": true,
+    "privacyCanRequestAds": true,
+    "rewardedShowRequested": "2026-11-02 12:06:44.147 +08:00",
+    "adNetwork": "AppLovin",
+    "creativeId": "1540789",
+    "rewardedEndCardVisible": true,
+    "closeView": "native close view GONE with zero bounds in activity dump",
+    "nativeRewardCallbackObserved": false,
+    "nativeHiddenCallbackObserved": false,
+    "nativeTranslationFaultEntries": 0,
+    "inventoryAfterCompletion": "not verified; no completed reward flow",
+    "realPhoneConnected": false
+  }
+}

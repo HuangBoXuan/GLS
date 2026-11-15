@@ -1,0 +1,16 @@
+{
+  "luaSyntaxModules": 33,
+  "unchangedRemainingSpriteBindings": 75,
+  "matchingUiAndPlatformMaps": true,
+  "atlasImporter": "passed on external copy",
+  "archiveHashesVerified": 2741,
+  "embeddedManifest": "passed",
+  "unityPlayMode": "not run",
+  "apk": "not rebuilt",
+  "remainingGameplayImages": 29,
+  "remainingSdkImages": 5,
+  "imagesArchivedThisTurn": 742,
+  "removedGuidReferences": 0,
+  "profileCompatibility": "shared atlas icon; original server IDs preserved",
+  "csharpCompilation": "not run"
+}

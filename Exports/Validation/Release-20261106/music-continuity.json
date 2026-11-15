@@ -1,0 +1,30 @@
+{
+  "before": {
+    "seconds": 71.11111111111111,
+    "rmsDb": -17.998884638417532,
+    "quietest100msDb": -35.196342804856414,
+    "loudest100msDb": -11.700677039598464,
+    "range100msDb": 23.49566576525795,
+    "silent100msWindows": 0,
+    "clippedSamples": 0,
+    "loopEndpointDifference": 0.0,
+    "maxAdjacentSampleDifference": 0.283905029296875
+  },
+  "after": {
+    "seconds": 71.11111111111111,
+    "rmsDb": -18.00111327864186,
+    "quietest100msDb": -20.648293847422067,
+    "loudest100msDb": -14.359702614229263,
+    "range100msDb": 6.288591233192804,
+    "silent100msWindows": 0,
+    "clippedSamples": 0,
+    "loopEndpointDifference": 0.0
+  },
+  "phrase09to17": {
+    "policy": "Opening four-bar rhythm repeats across the full song; pitches vary with harmony",
+    "openingSevenSecondsRhythmPreserved": true,
+    "allRhythmicPatternsMatchOpening": true,
+    "noDoubleTimeSection": true,
+    "tempo": 108
+  }
+}

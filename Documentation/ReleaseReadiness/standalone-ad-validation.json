@@ -1,0 +1,77 @@
+{
+  "status": "client_checks_and_apk_passed_native_device_validation_pending",
+  "format": "750x1650",
+  "rewardCases": 8,
+  "cancellation": true,
+  "duplicateCallback": true,
+  "profileSwitch": true,
+  "providerSwitch": true,
+  "pausePersistence": true,
+  "pauseExpiration": true,
+  "insufficientBoosterEntry": true,
+  "adBadge": true,
+  "bannerInset": true,
+  "nativeSdkExecuted": false,
+  "nativeRewardCompletionVerified": false,
+  "date": "2026-11-02",
+  "automaticInitializationImplemented": true,
+  "dedicatedTestPanelRemoved": true,
+  "normalPlayerProgressEnabled": true,
+  "woolRushMaxNativeSdkVersion": "13.6.4",
+  "loopSortMaxNativeSdkVersion": "13.6.4",
+  "apkBuilt": true,
+  "productionReady": false,
+  "previousEmulatorClosingIssue": "Not yet revalidated on a real device; no claim of a fix.",
+  "evidence": [
+    "evidence/automatic-ads-pause-banner.png",
+    "evidence/automatic-ads-booster-offer.png",
+    "evidence/automatic-ads-gameplay-banner-inset.png"
+  ],
+  "bannerViewportExclusionVerified": true,
+  "pauseIconRenderedGeometryVerified": true,
+  "luaRegression": {
+    "status": "passed",
+    "luaSyntaxCount": 32,
+    "result": "Sign-in migration, schedule, inventory, duplicates, multiplier, rollover and native view reuse passed",
+    "productAds": "Interstitial fallback, duplicate callback, account invalidation and native banner inset passed"
+  },
+  "apk": "Builds\\AndroidPlayer\\LoopSort-20261102-130657.apk",
+  "sha256": "5f2777f9bc7510c3c779fda6f1c00c5cdc350b4c84ba5b053642e3af68d956c1",
+  "bytes": 100155457,
+  "signatureVerified": true,
+  "package": "com.falcogames.loopsort",
+  "targetApi": 36,
+  "minimumApi": 24,
+  "nativeAdAndUmpClassesDefined": true,
+  "automaticAdRuntimePresent": true,
+  "dedicatedDiagnosticCodeAbsent": true,
+  "administrativeCredentialMatches": 0,
+  "nativeLibraries": [
+    {
+      "file": "lib/arm64-v8a/libapplovin-native-crash-reporter.so",
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libil2cpp.so",
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libmain.so",
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libunity.so",
+      "elf16kAligned": true
+    },
+    {
+      "file": "lib/arm64-v8a/libxlua.so",
+      "elf16kAligned": true
+    }
+  ],
+  "luaSyntaxAndAdRegression": "passed",
+  "debugSigned": true,
+  "developmentBuild": true,
+  "nativeDeviceValidation": "pending",
+  "dedicatedTestAssetsAbsent": true,
+  "artifactArchivedAt": "D:/MiniProject/BuildTemp/LoopSort-cleanup-20261102-ads-review/Builds/AndroidPlayer/LoopSort-20261102-130657.apk"
+}

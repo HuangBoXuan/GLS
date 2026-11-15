@@ -1,0 +1,6 @@
+{
+  "name": "LoopSort.PlatformLocalHost",
+  "rootNamespace": "LoopSort.PlatformLocalHost",
+  "references": ["MiniGamePlatform.SDK", "MiniGamePlatform.Host", "UnityEngine.UI"],
+  "autoReferenced": true
+}

@@ -1,0 +1,42 @@
+{
+  "sourceUrl": "https://youzu.feishu.cn/wiki/KA8ewKltSi6MbCkQfv9c1Sj8ncg?sheet=QvT1Xg",
+  "sourceRevision": 890,
+  "sourceSha256": "9b36251a2c6ace046a3afe7f116fc1793d99d019227d946a2cef60c0711b1d08",
+  "product": "LoopSort",
+  "moduleGameId": "loopsort0",
+  "businessGameId": "1006000",
+  "androidPackageName": "com.falcogames.loopsort",
+  "parameterDestinations": {
+    "C3": "businessGameId (publisher ID; not a Lua namespace)",
+    "C4": "Android package",
+    "C8": "MAX client SDK / product build input",
+    "C9": "backoffice only / private Report Key",
+    "C10": "backoffice only / private Event Key",
+    "C11": "private build input / MAX Ad Review",
+    "C12": "privacy UI / product config",
+    "C13": "terms UI / product config",
+    "C14": "deletion UI / product config",
+    "C17": "AppsFlyer client SDK input",
+    "C18": "Android manifest AdMob application ID",
+    "E23": "MAX rewarded daily_gift",
+    "E24": "MAX interstitial level_complete",
+    "E25": "product-owned MAX banner home_banner",
+    "G23": "MAX dashboard Google rewarded mapping",
+    "G24": "MAX dashboard Google interstitial mapping",
+    "G25": "MAX dashboard Google banner mapping"
+  },
+  "missingInSheet": [
+    "C5",
+    "C15",
+    "C16",
+    "C19"
+  ],
+  "administrativeCredentialsEmbedded": false,
+  "registrationConfirmed": false,
+  "developmentOnly": true,
+  "note": "Ads sheet does not establish platform registration, API/CDN, signing or real consent. Backoffice mapping requires dashboard access.",
+  "backofficeMappingVerified": false,
+  "backofficeReportEventIntegration": "private input prepared; backend/service access still required",
+  "adReviewBuildInjectionVerified": true,
+  "publisherIdMappingVerified": true
+}

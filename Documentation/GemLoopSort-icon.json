@@ -1,0 +1,16 @@
+{
+  "tool": "Built-in image_gen.imagegen",
+  "asset": "Assets/LoopSort/Branding/gemloopsort-icon.png",
+  "transparent_background": false,
+  "prompt": "Create a polished square mobile game app icon for GemLoopSort, a friendly volcanic mining colour-sorting puzzle. Full-bleed opaque square image, no text, no letters, no outer border, no rounded-corner clipping. Premium soft 3D cartoon toy rendering matching chunky red and blue minecarts, glowing orange volcanic canyon rocks, turquoise conveyor belts, glossy red yellow blue green gem cubes. Main subject: a vivid red mining cart with rounded edges and dark plum wheels, carrying three large faceted cube-shaped gems (emerald green, sapphire blue, golden yellow). Three-quarter front view, appealing substantial volume and smooth bevels, clear simple silhouette. A short turquoise conveyor curves around beside and in front of the cart, carrying one red cube; cart wheels sit on dark volcanic stone beside the conveyor. Background: simplified deep plum volcanic rocks, warm orange lava crevice near the bottom, subtle amber rim lighting; softly blurred unobtrusive background. Composition optimised for app launcher masks: ALL important cart parts and gems entirely inside the central 65 percent of the square, some breathing room around them, do not crop cart or gem tips; large readable centre, strong warm-red vs cool-turquoise colour contrast. Not cluttered. Soft lighting, friendly gender-neutral casual puzzle game style, no harsh black outlines, no UI buttons, no watermark, no glowing dotted lamps, no typography. 1024 by 1024 square.",
+  "appliedTo": [
+    "Default",
+    "Android Adaptive, Round, Legacy",
+    "iOS Application, Spotlight, Settings, Notifications, Marketing"
+  ],
+  "androidAdaptiveLayers": [
+    "gemloopsort-icon.png",
+    "adaptive-transparent-layer.asset"
+  ],
+  "apkRebuilt": false
+}

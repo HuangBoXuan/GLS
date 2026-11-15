@@ -1,0 +1,69 @@
+{
+  "localDate": "2026-11-02",
+  "timezone": "Asia/Shanghai",
+  "productionReady": false,
+  "published": false,
+  "uiExport": "Exports/Restored-UI-Models",
+  "uiImagesAndScreens": 134,
+  "preservedModels": 326,
+  "clientParameterInputValidated": true,
+  "administrativeKeysInPublishableSource": false,
+  "luaModulesSyntaxChecked": 32,
+  "signInAndAdRegressionChecks": "passed",
+  "nativeDependencyResolution": true,
+  "moduleVersion": "local_20261101_a480955f",
+  "moduleManifestSha256": "4bde56bc1ba7ed1e50a6c780915ab77e8e0c381793d0574e9ee2ca439d95e053",
+  "signedProductionPackageBuilt": false,
+  "productionBuild": "blocked by actual missing production inputs and host/signing gates",
+  "bridgeCatalogRefreshed": true,
+  "cleanup": "27 obsolete output files archived outside project, 208108985 bytes removed from project",
+  "openRequirement": "Formal platform/product/API/CDN, real auth and CMP host, signing credentials, ad dashboard/reward backend, device and store review",
+  "productionGmEntrypointsDisabled": true,
+  "supersededLocalBuildArchived": true,
+  "adIntegrationTest": {
+    "apk": "Builds\\AdIntegrationTest\\LoopSort-AdTest-20261102-110233.apk",
+    "sha256": "e84cc83aa9c2c9629cd0f14f0ad089fed3ce30395268188d736e75eb64328a2a",
+    "installedOnAppBaoEmulator": true,
+    "sdkAndThreeFormatLoadsVerified": true,
+    "rewardedAdDisplayed": true,
+    "rewardedCloseAndGrantVerified": false,
+    "report": "ad-test-validation.json"
+  },
+  "standaloneAdvertising": {
+    "apk": "Builds\\AndroidPlayer\\LoopSort-20261102-130657.apk",
+    "sha256": "5f2777f9bc7510c3c779fda6f1c00c5cdc350b4c84ba5b053642e3af68d956c1",
+    "apkBuilt": true,
+    "signatureVerified": true,
+    "automaticInitializationImplemented": true,
+    "dedicatedTestPanelRemoved": true,
+    "nativeRewardCompletionVerified": false,
+    "report": "standalone-ad-validation.json",
+    "archivedAt": "D:/MiniProject/BuildTemp/LoopSort-cleanup-20261102-ads-review/Builds/AndroidPlayer/LoopSort-20261102-130657.apk"
+  },
+  "settingsAndRevive": {
+    "apk": "Builds\\AndroidPlayer\\LoopSort-20261102-155246.apk",
+    "sha256": "c508d84b805155601fc1f3c939b821611c21aa5a7a70c711e9b4a97317752f3a",
+    "signatureVerified": true,
+    "nativeRewardCompletionVerified": false,
+    "sharedFrameAndTitleVerified": true,
+    "report": "settings-revive-validation.json",
+    "archivedAt": "D:\\MiniProject\\BuildTemp\\LoopSort-ad-cadence-qa-20261102\\superseded-packages\\LoopSort-20261102-155246.apk"
+  },
+  "advertisingCadence": {
+    "apk": "Builds\\AndroidPlayer\\LoopSort-20261102-165318.apk",
+    "sha256": "98b0505c525717e2b1fe952d8b483b8105f101655b90d98ed3a9e941e289fb8a",
+    "signatureVerified": true,
+    "nativeRewardCompletionVerified": false,
+    "comparedWoolRushLuaCases": 12000,
+    "integrationChecks": 22,
+    "report": "ad-cadence-validation.json"
+  },
+  "latestAndroidPlayer": "Builds\\AndroidPlayer\\LoopSort-20261102-165318.apk",
+  "popupExport": {
+    "screens": 18,
+    "resolution": "1080x1920",
+    "compositeIcons": 1,
+    "totalPngFiles": 460,
+    "report": "Exports/Restored-UI-Models/popup-update.json"
+  }
+}

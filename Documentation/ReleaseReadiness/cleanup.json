@@ -1,0 +1,165 @@
+{
+  "status": "cleaned",
+  "method": "recoverable archive outside project",
+  "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review",
+  "archivedFiles": 27,
+  "archivedBytes": 208108985.0,
+  "permanentlyDeleted": false,
+  "activeUnityCachesTouched": false,
+  "latestApkPreserved": "Builds/AndroidPlayer/LoopSort-20261102-155246.apk",
+  "adTestPackagePreserved": "Builds/AdIntegrationTest/LoopSort-AdTest-20261102-110233.apk",
+  "currentUiExportPreserved": "Exports/Restored-UI-Models",
+  "sourceAssetsChanged": false,
+  "entries": [
+    {
+      "file": "Builds/AndroidPlayer/LoopSort-20261102-130657.apk",
+      "bytes": 100155457,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Builds\\AndroidPlayer\\LoopSort-20261102-130657.apk"
+    },
+    {
+      "file": "Builds/AndroidPlayer/LoopSort-20261102-130657.apk.json",
+      "bytes": 701,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Builds\\AndroidPlayer\\LoopSort-20261102-130657.apk.json"
+    },
+    {
+      "file": "Exports/Restored-UI-Models.zip",
+      "bytes": 100801187,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Exports\\Restored-UI-Models.zip"
+    },
+    {
+      "file": "Design/MechanismUI/track-final.log",
+      "bytes": 678886,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\track-final.log"
+    },
+    {
+      "file": "Design/MechanismUI/track-install.log",
+      "bytes": 742148,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\track-install.log"
+    },
+    {
+      "file": "Design/MechanismUI/track-preview.log",
+      "bytes": 133850,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\track-preview.log"
+    },
+    {
+      "file": "Design/MechanismUI/tray-install.log",
+      "bytes": 202190,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\tray-install.log"
+    },
+    {
+      "file": "Design/MechanismUI/unity-final-details.log",
+      "bytes": 178914,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\unity-final-details.log"
+    },
+    {
+      "file": "Design/MechanismUI/unity-final-validation.log",
+      "bytes": 177873,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\unity-final-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/unity-settled-validation.log",
+      "bytes": 182719,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\unity-settled-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/unity-validation.log",
+      "bytes": 2469232,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\unity-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/Background750x1650/unity-validation.log",
+      "bytes": 125674,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\Background750x1650\\unity-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/CartRearRivets/unity-validation.log",
+      "bytes": 185947,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\CartRearRivets\\unity-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/CartWallsAndArch/unity-validation.log",
+      "bytes": 180950,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\CartWallsAndArch\\unity-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/Corrections3D/unity-validation.log",
+      "bytes": 178763,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\Corrections3D\\unity-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/DedicatedColorCart/unity-validation.log",
+      "bytes": 187925,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\DedicatedColorCart\\unity-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/GuideMatchedModels/unity-validation.log",
+      "bytes": 186743,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\GuideMatchedModels\\unity-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/HomeMinecarts/home-art-1080.log",
+      "bytes": 124312,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\HomeMinecarts\\home-art-1080.log"
+    },
+    {
+      "file": "Design/MechanismUI/HomeMinecarts/home-art-750.log",
+      "bytes": 125627,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\HomeMinecarts\\home-art-750.log"
+    },
+    {
+      "file": "Design/MechanismUI/HomeMinecarts/home-minecarts-export.log",
+      "bytes": 93142,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\HomeMinecarts\\home-minecarts-export.log"
+    },
+    {
+      "file": "Design/MechanismUI/IllustratedHome/illustrated-home-1080.log",
+      "bytes": 123076,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\IllustratedHome\\illustrated-home-1080.log"
+    },
+    {
+      "file": "Design/MechanismUI/IllustratedHome/illustrated-home-750.log",
+      "bytes": 125581,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\IllustratedHome\\illustrated-home-750.log"
+    },
+    {
+      "file": "Design/MechanismUI/Models3D/unity-validation.log",
+      "bytes": 172704,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\Models3D\\unity-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/ReferenceBackgroundAligned/unity-validation.log",
+      "bytes": 123967,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\ReferenceBackgroundAligned\\unity-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/TailLantern3D/unity-validation.log",
+      "bytes": 179334,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\TailLantern3D\\unity-validation.log"
+    },
+    {
+      "file": "Design/MechanismUI/TailLantern3D/centered/unity-preview.log",
+      "bytes": 146005,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\TailLantern3D\\centered\\unity-preview.log"
+    },
+    {
+      "file": "Design/MechanismUI/VolcanicBackground/unity-validation.log",
+      "bytes": 126078,
+      "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-cleanup-20261102-ads-review\\Design\\MechanismUI\\VolcanicBackground\\unity-validation.log"
+    }
+  ],
+  "previousCleanup": {
+    "status": "cleaned",
+    "method": "recoverable archive outside project",
+    "archive": "D:\\MiniProject\\BuildTemp\\LoopSort-ui-export-archive-20261102",
+    "archivedFiles": 123,
+    "archivedBytes": 76166847,
+    "obsoleteUiImagesMoved": 118,
+    "obsoleteUndoReceiptMoved": true,
+    "permanentlyDeleted": false,
+    "activeUnityCachesTouched": false,
+    "orphanMetadataInOwnedAssets": 0,
+    "temporarySourceCandidates": 0,
+    "modelsPreserved": 326,
+    "supersededLocalDeliveryArchive": "D:\\MiniProject\\BuildTemp\\LoopSort-superseded-delivery-20261102"
+  }
+}

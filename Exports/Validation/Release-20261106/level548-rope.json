@@ -1,0 +1,19 @@
+{
+  "level": 548,
+  "outsideCart": "J",
+  "outsideCartCanRelease": true,
+  "bottomMembersStayLocked": true,
+  "bottomMembers": [
+    "F",
+    "H",
+    "I",
+    "K"
+  ],
+  "completionUnlocksBottomGroup": true,
+  "unlockedCartCanRelease": true,
+  "pieceConservation": true,
+  "playerProgressUnchanged": true,
+  "onlyLevel548Changed": true,
+  "positionsAndCargoUnchanged": true,
+  "importCorrectionAdded": true
+}

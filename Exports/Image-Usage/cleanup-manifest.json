@@ -1,0 +1,824 @@
+{
+  "project": "D:/MiniProject/workspace/games/LoopSort",
+  "backup": "D:/MiniProject/BuildTemp/LoopSort-unused-images-20261103-145045",
+  "imageCount": 74,
+  "imageBytes": 10384255,
+  "files": [
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/areasNav.png",
+      "bytes": 31497,
+      "sha256": "336242173189d22bdc27bffc077063dee6ef2fc52240dcc21f7eb60b1f682917"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/areasNav.png.meta",
+      "bytes": 3476,
+      "sha256": "eca17547f09c33068b8b4cd3f9519876fa0db8774f3189376d474d9f57517e98"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/avatar.png",
+      "bytes": 57700,
+      "sha256": "362cf1fd6b9d61990ac9bb41fa74a92299f96a6652998fd55d500328c330306d"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/avatar.png.meta",
+      "bytes": 3476,
+      "sha256": "d72e1ee55ef787fd46f78555276dc1eb35c91b5f24240ecf432cda0b71ec6d8b"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/belt.png",
+      "bytes": 12907,
+      "sha256": "0360f26961e19597888fd2e4568663f164eeff65a4d0e11d7f71a9c55e327d5f"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/belt.png.meta",
+      "bytes": 3476,
+      "sha256": "1e047bbc83dcc98d624470202a12476ef55f3a7d01f089a5a214a0ce08e3edc2"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/blueButton.png",
+      "bytes": 9724,
+      "sha256": "bbe44280f81ba369709e93944a7e41d63acba4ff7515d041edb93eb1e75ee11d"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/blueButton.png.meta",
+      "bytes": 3476,
+      "sha256": "4fb9c9b0cb0c2c54a904e8375289ebb934be62ae34b8d78624d3d19d289b7748"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/boosterBg.png",
+      "bytes": 13436,
+      "sha256": "815f3dd1ca981ced193d267eaea4f0d3bbaa4931e9b31b7d19118ada0a68a093"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/boosterBg.png.meta",
+      "bytes": 3476,
+      "sha256": "ff5ca698282b54ab4f48843178a8112ec07147abd8053535f5d23ce11521861e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/boosterCount.png",
+      "bytes": 3295,
+      "sha256": "6e56d49701bb05f7c5ee1ce585ee41c6dc6f6b91329e59148303f6226fd49581"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/boosterCount.png.meta",
+      "bytes": 3476,
+      "sha256": "d93e171104f5b19d52ee549166da2c4ef422e636f36b7cdbdd4478b8ab8d7c90"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/boosterGrey.png",
+      "bytes": 11101,
+      "sha256": "be8571e454b7697e8f56f1499ed4fd51284686e11897710249c8dc64f78859dd"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/boosterGrey.png.meta",
+      "bytes": 3476,
+      "sha256": "afba01dfb02db6ebbab48af391a0f1abe97df4e9ec056eb283095807368c7261"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/brokenHeart.png",
+      "bytes": 97174,
+      "sha256": "c90907e0459b3198167596d7aa9f16382bab83b8225c38da1488fea9cfb79f2e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/brokenHeart.png.meta",
+      "bytes": 3476,
+      "sha256": "c76d87aff638e85c9f88cbd2fd6e7c2596547ab637a32a3afcdd49c4bb704424"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/button.png",
+      "bytes": 17565,
+      "sha256": "8f3cb6267d80113e10dfa6f835bd34b54c0beefc1dc0067b27a99176590c7451"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/button.png.meta",
+      "bytes": 3476,
+      "sha256": "475775c0ee7d555ab868a448ff8383f7a81c3f2c3d8c75106db70abbbb4d162b"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/buttonGreen.png",
+      "bytes": 17421,
+      "sha256": "21813a2b7a760f954d97e9a2d493cf69f3b9aff80d205d60da9987e43e2847dc"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/buttonGreen.png.meta",
+      "bytes": 3476,
+      "sha256": "acec47d049a96ca6182859aaa54e539e6fc0900af81cc136296c548f4662fa60"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/calendar.png",
+      "bytes": 158370,
+      "sha256": "3a52a0ac1eb3044f9e351c39e6fa5bd10e24d2a3ec70efc77a4a69aab2225681"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/calendar.png.meta",
+      "bytes": 3476,
+      "sha256": "149ed0c679c5aff95d6814a2d5ee400b210b842b2a0b8ab267e47a30e68ecd06"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/capacityPanel.png",
+      "bytes": 2927,
+      "sha256": "3bb7aa4b12de8f1404814a37280ffa648f09f62eedba28cf93496fe4c2f2755f"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/capacityPanel.png.meta",
+      "bytes": 3476,
+      "sha256": "1b3d4fec3967537d12fb5fff92020e8c96e054c942a9fb5799c07fc2fe3d342c"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/check.png",
+      "bytes": 30274,
+      "sha256": "3b8b2130554564336ccacabd9de25907e0193bb01e232ebaf73d013059687f66"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/check.png.meta",
+      "bytes": 3476,
+      "sha256": "915810bf361f86480f7c71affbffff3742f563ee20473541da030c26cfbd59a8"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/close.png",
+      "bytes": 61121,
+      "sha256": "ef04b47be9b277124bf15a7a98db9159c0553f447c92d5a075f12a527eb72bd6"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/close.png.meta",
+      "bytes": 3476,
+      "sha256": "af3334df99c1ac6f85a2803523edac3e51e9910c9eb331a044f5c7bce7c32de3"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/coin.png",
+      "bytes": 179302,
+      "sha256": "71b938912a1b21db9da15fdf567dffc3600643a6fd45034712130576a02a3555"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/coin.png.meta",
+      "bytes": 3476,
+      "sha256": "76349042101e48f5fca7ee51cb5b92f7e19ae4a21ef58f8204e699a33dd18724"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/coinBar.png",
+      "bytes": 2719,
+      "sha256": "f60049f38ac2fb5976b4601e20ceca22d63b77737c99aa4b379b662ae3758828"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/coinBar.png.meta",
+      "bytes": 3476,
+      "sha256": "4e4d177294c6fc86a07e55ed6957964d1e7897ebe5ba9cbefaf1378f64a25e4a"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/disabled.png",
+      "bytes": 5420,
+      "sha256": "7b02531ff6d85b94d00281cbcd73b5cc8c25131462aff60fb28a1956798becc2"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/disabled.png.meta",
+      "bytes": 3476,
+      "sha256": "46568b334eca9fc9b009bab6722357f813ab042423de39e96ded5d5ba06a7326"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/failArt.png",
+      "bytes": 3387,
+      "sha256": "897d9b6883f5c3864dec3f9d1e636c6a277467ee06b45276b9f56793c62aeda5"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/failArt.png.meta",
+      "bytes": 3476,
+      "sha256": "53f892aaee88739b62dbc53ac0ae0e401e9e2b3f84519e85523a9cc2d617471e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/frame.png",
+      "bytes": 44824,
+      "sha256": "684220cf97abe641f78cd6c9c9777245b4c9e61c35ae8c2216196edd650f908c"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/frame.png.meta",
+      "bytes": 3476,
+      "sha256": "9acedd3d4af58754d060113881348acec4ef8ccded5692d177cc85dd73c4bd3d"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/gift.png",
+      "bytes": 126747,
+      "sha256": "a8e890bd9405c9665e83af48d38dc0d070025cd356ed1585648b4e20b779fa1a"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/gift.png.meta",
+      "bytes": 3476,
+      "sha256": "3edc635999cb40f876450f2dc555976591081efeaa6b7e27b27f87f65c510ea0"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/goldPile.png",
+      "bytes": 186180,
+      "sha256": "0acab1be576f6ec094b6317280508ce5bba2a28ce3245dba158eb35fc641e545"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/goldPile.png.meta",
+      "bytes": 3476,
+      "sha256": "8e7a459c19d9e8ebf07e5288f45cad2ff96659efbb69d8e28125ade312f343e7"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/greenButton.png",
+      "bytes": 14318,
+      "sha256": "18e25ba2d27a3f4cf2dc984664d4cc6abf8417ad101419e74452abd186368f42"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/greenButton.png.meta",
+      "bytes": 3476,
+      "sha256": "2dd9f8e30159b315a263add66f4fda4082dd6840a6fb2be5bdc0c992c12690d7"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/haptic.png",
+      "bytes": 6182,
+      "sha256": "6b3c8a0e8123820f8a6360a387879eda11db290ed0e406625841cbb8c7972f19"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/haptic.png.meta",
+      "bytes": 3476,
+      "sha256": "7d051d8ad458efd7498bd330b5bde40043533407b3a96a6e49bb9a43bf54ed0c"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/heart.png",
+      "bytes": 32639,
+      "sha256": "bbb6c83325c4781c154ba9160f474b7cc438d768b8bdba56b3bf192ede9b03f4"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/heart.png.meta",
+      "bytes": 3476,
+      "sha256": "f5f4e2cc8759c32e729ee9775ecc0cc83c97aacfbf3855eeefad91f29b9ff2c1"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/homeBackground.png",
+      "bytes": 2497592,
+      "sha256": "cbec674953d3834776470b1b374323ddf9215be3e8a608e1a532712fab7d1ad8"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/homeBackground.png.meta",
+      "bytes": 3476,
+      "sha256": "48c9e4ada2b5beccb46be7b432cdb2cdf498da99c17f6091c218b1def7be98a3"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/homeNav.png",
+      "bytes": 54593,
+      "sha256": "c2c8f1b491b3fe4cebd29b52b912f945a5407c67238f05d893595f53668ebc32"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/homeNav.png.meta",
+      "bytes": 3476,
+      "sha256": "ad5d7ed8777b972e709c87e7a10c236d21ccdd0d1312d22e2ad895bb361c0e46"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/info.png",
+      "bytes": 15257,
+      "sha256": "6f6b3bed1ba805a693d97045ab90601bc108fd0fda99a693697df6116e0b896e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/info.png.meta",
+      "bytes": 3476,
+      "sha256": "dd728aabeeabc17830bcbe8348e6367e28a734fc5449a7665a84d0c66ba11b79"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/levelPanel.png",
+      "bytes": 522,
+      "sha256": "f4722f6bd44ed7636ef826f978f89dd00978a2f19442410edd66109fc3b70342"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/levelPanel.png.meta",
+      "bytes": 3476,
+      "sha256": "105a751ce75f657ae8f2aefba2525fd10dc61c5eeca307e4de7ebba949d20626"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/londonBackground.png",
+      "bytes": 2103006,
+      "sha256": "0f48396824158178d010b73a78c44490df25a7ed7574d45f340e8d8cd75a8cef"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/londonBackground.png.meta",
+      "bytes": 3476,
+      "sha256": "443e1145110a1fad264823c2b579a780fe25343560107fa986a8e515370ac5e2"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/music.png",
+      "bytes": 3728,
+      "sha256": "b915fbf55ac3aaee31d95774c0aa7a446976c4754bd6c2d6422bd26cc8aec865"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/music.png.meta",
+      "bytes": 3476,
+      "sha256": "d13652f15113350758ab89d4982fc0488094f7c4b9802fcb6639d458b7cfd2db"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/navBackground.png",
+      "bytes": 1332,
+      "sha256": "aa6f4e06c62ac1016a9a025c8c3f868221506320022a2c4df869cab3bab56d09"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/navBackground.png.meta",
+      "bytes": 3476,
+      "sha256": "99fa98361254f3acdd0f2433a75a50c975830f717eac69026dff752bbdb67251"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/navSelected.png",
+      "bytes": 22012,
+      "sha256": "ef936d2f514d652e8e9ff792aa28afee4777cfcee1e931fcb2b8724c8edfb4f7"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/navSelected.png.meta",
+      "bytes": 3476,
+      "sha256": "0cf5b44fbc83497e54300ceecca3017b5f78bdfb1a71a2e2e993bc21f8ac893e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/navSeparator.png",
+      "bytes": 148,
+      "sha256": "96496cb781cefc8bda03e96ff393d624a399c2a8100f0360858a89372e43c54a"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/navSeparator.png.meta",
+      "bytes": 3476,
+      "sha256": "ba852c1a7cd7cae6f370f703b9d19809c23978f436d9d53b713008f2f9d91a47"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/paper.png",
+      "bytes": 12902,
+      "sha256": "1dd7a982724f8f1c13cc1d009fa16bde04373397ce958faf39028cffca56d80a"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/paper.png.meta",
+      "bytes": 3476,
+      "sha256": "f2efa73617e8f3a847af52f9b79439b5e709ba1e3a7e8b489551e84769d2a693"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/parisBackground.png",
+      "bytes": 2459954,
+      "sha256": "60c4018faf07290d36ad69991e8a4b31468b51a6de01da48350979435ec620a5"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/parisBackground.png.meta",
+      "bytes": 3476,
+      "sha256": "dc01bdf64ce0f373d84044b7fcd2c85b8182f085b3c78f59b0ea6ecd7a3bbe7a"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/plus.png",
+      "bytes": 6212,
+      "sha256": "09cfa093b116620168eee281bbbc6333d5e587b2e24cb34900f16d28be9ff289"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/plus.png.meta",
+      "bytes": 3476,
+      "sha256": "50f22444ac87788bc262bb996aa9a545613d5cc60914ab25f4772c1c16eafffb"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/priceBadge.png",
+      "bytes": 2200,
+      "sha256": "0babe4bc8cb03d0983000a7e0e16b07dcff8f8b9cb5657008ed7b613d0ba0579"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/priceBadge.png.meta",
+      "bytes": 3476,
+      "sha256": "80b1047124faee85629393519684dcf299ed57831c844c0cc97466f162dfc00f"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/rankingNav.png",
+      "bytes": 40845,
+      "sha256": "a54992d96a372c4e73a0fcbdfe692b33c016694afac9b4dcb1bafc77dd086e2a"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/rankingNav.png.meta",
+      "bytes": 3476,
+      "sha256": "31b2bd7c03e3da076a1c99647eba7057a6e72c0b075009bd54b14106943b18d3"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/rays.png",
+      "bytes": 16091,
+      "sha256": "9b7735ed38e283d41bc036ba0bf465887fc4b1b0bb3e94f07310ac712ef76ff3"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/rays.png.meta",
+      "bytes": 3476,
+      "sha256": "484e35531ae7a4e33c9e6e711b18a6af918f326ae71b31636e28c98af2547c7a"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/redButton.png",
+      "bytes": 12735,
+      "sha256": "5ffb16fa291f6cf4b874984bdcaae72533090a0a520327bb750ed46db06e7af2"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/redButton.png.meta",
+      "bytes": 3476,
+      "sha256": "8eb660a664ecba1b72c1f2bc3186d9e4476a805ccfdba34ce7e4b7e98dc0c1a6"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/ribbon.png",
+      "bytes": 27477,
+      "sha256": "fac0083e3ed7798b2fcc308f6d94f0884aef9ccc168bfaa8e8c6c3527e9d3b50"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/ribbon.png.meta",
+      "bytes": 3476,
+      "sha256": "998d6ddf3519273ea802df93faeac4261b13a785da8a3607b3c9c156156c0b94"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/settings.png",
+      "bytes": 3718,
+      "sha256": "f6d72f22dabb216aa7585e1d3dc77d22ab4fafe01820419ab9d0ad75fa6f5498"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/settings.png.meta",
+      "bytes": 3476,
+      "sha256": "5f9092de715966271fd1e990d6f235ab20212645b008c72fa149cee6511f844a"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/settingsInner.png",
+      "bytes": 4718,
+      "sha256": "5bdc856341a02aefc80e83c16f729dfa06b538d1c6119e7547d53a4a84734d22"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/settingsInner.png.meta",
+      "bytes": 3476,
+      "sha256": "f3eb752f5e71412925e97185c16fa3cf5a9b926bf0fcb963d6d285e7af1a776a"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/shopBanner.png",
+      "bytes": 8363,
+      "sha256": "1ebb9796dfc690040be5f1e4e403623c78daa5d866294ae393d80be263b0f1c8"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/shopBanner.png.meta",
+      "bytes": 3476,
+      "sha256": "414251da94933a16f8f888d12401818b4448680b4c3013f88925c95f2565c516"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/shopNav.png",
+      "bytes": 36022,
+      "sha256": "353c06881ee10caa6f69eb959495b4aca9b02f646b54866cd9a35ce20aaf5121"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/shopNav.png.meta",
+      "bytes": 3476,
+      "sha256": "9ca0ef711f0ae106d8f124f9271a4740a0bd0fb1fc565f5b472f56bb137157c4"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/shuffle.png",
+      "bytes": 12894,
+      "sha256": "8037ffc7403e5b65765bb85fa1129a2acc15235d7f4fb2f55ce7440165e59ec3"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/shuffle.png.meta",
+      "bytes": 3476,
+      "sha256": "9127e9baf0ed53b92e19b9adec7d95d89c45f50b4f0ea611937605320b3d2ef0"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/sound.png",
+      "bytes": 5160,
+      "sha256": "9bd84671d7b241963c32656082bdba3730d422327236da00b9d4244cd0831203"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/sound.png.meta",
+      "bytes": 3476,
+      "sha256": "4f830e10ede8d9571fbc9ec5ba2945992460832ae315adbea1c87378220ef8f6"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/stand.png",
+      "bytes": 11275,
+      "sha256": "ba3b590ec56062a515cd386017e25b48ccf3239f66ed184b5e3ea9650a22b9b1"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/stand.png.meta",
+      "bytes": 3476,
+      "sha256": "78a886b0cc2ae521a3730ed39aaef931bc3f223a853de310af0ebf2fd53fae20"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/teamsNav.png",
+      "bytes": 46999,
+      "sha256": "ab7519a501fb75725b72a2eb4b8db956e3b9b0a8bd0e0779bb0b8eb39267d0a6"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/teamsNav.png.meta",
+      "bytes": 3476,
+      "sha256": "dd8429db27b085e8dcf15236a7b1253ae40cdd0b6972555cd41d53fd1ca19d0b"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/truck.png",
+      "bytes": 10276,
+      "sha256": "673fb0f16cd53bc0e95c476ff58087af51c9481bdaf0afa81b3218693de6892f"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/truck.png.meta",
+      "bytes": 3476,
+      "sha256": "488b0775d7d1bdce5cbefd590fea63dab2a4e709edbae1f5f3e895b1944ca2e7"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialBarrier.png",
+      "bytes": 105600,
+      "sha256": "5eb66d13d8822c54bf77121b576fe98f3b3d1089837215c167244c6132aeb298"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialBarrier.png.meta",
+      "bytes": 3476,
+      "sha256": "95c60b378f1efe2cf564c6bfa1a28c84df7d3861792718f8aa98795e7526910c"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialCarpet.png",
+      "bytes": 146678,
+      "sha256": "fbfee3d4d5d6a5e6db2e79ef4807ba7622266577d095fd713c343a7b63439ef1"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialCarpet.png.meta",
+      "bytes": 3476,
+      "sha256": "c3e740dfd4313ca6daf3696f3addbe060c401dfbf96b68b87fe0bcaf7e483a8f"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialCurtain.png",
+      "bytes": 44092,
+      "sha256": "d55f571ed9d562238a7f1c8f943e15b2352f2f7dc8e00597928172ab65245664"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialCurtain.png.meta",
+      "bytes": 3476,
+      "sha256": "45551da46a3275cd10f6dcdf72c7152ef2474b386ae16a9ec103f6a907097db5"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialGenerator.png",
+      "bytes": 30137,
+      "sha256": "d915767bbad3d4defe044d1dcc1724fbe004e34ffd0c47b2d05d60143f6442d6"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialGenerator.png.meta",
+      "bytes": 3476,
+      "sha256": "34e7dba7fca2ac259a58016481b9028b2bde1071d82e8980db1b96f9595c87a9"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialHidden.png",
+      "bytes": 32945,
+      "sha256": "e1b58f74a2b2ed21d54eb66fa93eb44e2f29e5e6b34f2b459671bfdf778294a2"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialHidden.png.meta",
+      "bytes": 3476,
+      "sha256": "e3d2e05d7d55dddf9ddfdbc3550c41a1ca82f490262ac2af446af4c159ca4d8e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialIce.png",
+      "bytes": 133185,
+      "sha256": "6b45f4a54b4cc65d336ec358bc5a927b3ccad4f98270cc13505477686bc953bd"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialIce.png.meta",
+      "bytes": 3476,
+      "sha256": "45eed9b63c90bee30ac6dc00fa42154d1429a329d600ed004726471993f77477"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialLock.png",
+      "bytes": 219192,
+      "sha256": "b507db170a038a2cda2e8ce35dab77bc6a63665bec69605789f90004ec7c06cd"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialLock.png.meta",
+      "bytes": 3476,
+      "sha256": "3a1a2d37e4dd6f7f36ea43a07952cf59cf29a5a7e35212d04e4d8a194972c238"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialPortal.png",
+      "bytes": 25660,
+      "sha256": "7378f12bcc79107d40be111d1cadb47cae1510707c3da137b01f18fe664b49d0"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialPortal.png.meta",
+      "bytes": 3476,
+      "sha256": "25d02a8e0099b8b40bc137181ed70e78f2e80176c2ec6ab74097cb220d4ef893"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialRope.png",
+      "bytes": 152210,
+      "sha256": "512c977012f4d38b79fe01085fb429dbc50bb26c4ab3d50a9e7a2d36cd3a1604"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialRope.png.meta",
+      "bytes": 3476,
+      "sha256": "d59b0b32155c0ca90707e68d926421e0786ddc5161e49b9520f26fa9be80ffab"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialScrew.png",
+      "bytes": 174255,
+      "sha256": "33cb8087dbc6ceb86155733f05ea890a96377b433f12e405c32f5461c299af4e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialScrew.png.meta",
+      "bytes": 3476,
+      "sha256": "5b1e08fa5c95c52c20079517ebdda03ec499e4f5fcfa29b67b7ad3a84e91abca"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialTag.png",
+      "bytes": 136184,
+      "sha256": "e19c2fccbb5e0538b59a59306f7b787bc5645d1bbb61f91150a0bb66f3e05f17"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/tutorialTag.png.meta",
+      "bytes": 3476,
+      "sha256": "c3ca2f9a1a04c4b4f1290d2158a9efb150b6de3aeedff1281c0e098f2591b0f6"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/undo.png",
+      "bytes": 11883,
+      "sha256": "5b74f1a0f76401dc43ab54fad12db3759e43513b02eedff630ad6d4930146d11"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/undo.png.meta",
+      "bytes": 3476,
+      "sha256": "fc83ae2623c98f81e3ecb6bdc9aa46d7cab2525f148703a421aec4b753e7cc2e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/yellowButton.png",
+      "bytes": 13128,
+      "sha256": "d8e4229fc4553c93dadd473d52f7cb58424fd2f1a104bbed0db997e2888509ed"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/UI/yellowButton.png.meta",
+      "bytes": 3476,
+      "sha256": "53b1f540bae2fe4bb584a3b0f57f8e032b16b5381901d06f2ee9bdd1117d7d3d"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_272.png",
+      "bytes": 85767,
+      "sha256": "0104dc850a8f3173712f039b90624b79f04272ad15000355b261407cf91de86a"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_272.png.meta",
+      "bytes": 3444,
+      "sha256": "130768acb7f3e6d87a7197870336acbd265c5b576d05f1d4842f63ddad74c071"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_275.png",
+      "bytes": 7135,
+      "sha256": "7a505184cd0a37397e388472f1a02fe6d757131f84f4b10adc1bfb6c560c41d9"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_275.png.meta",
+      "bytes": 3444,
+      "sha256": "3f2aeb100a81f77216fc7878cbc4fd74671b09969992d4eae5ba885a8e6f3492"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_285.png",
+      "bytes": 246118,
+      "sha256": "4e427418e128b1404b7dfab7c2c1130aa3ea8222e6f59d6bab9e9c8df92edad7"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_285.png.meta",
+      "bytes": 3444,
+      "sha256": "23185ce724fd6f1d490500d17a558877631137cfa6bc41868cc95bdb98864f53"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_288.png",
+      "bytes": 11363,
+      "sha256": "caa3204fe2051da47d72582fb63b2a4d0229cd881bd876a24a830b23094f4c65"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_288.png.meta",
+      "bytes": 3444,
+      "sha256": "085cf30fbef42244a61fc396fbc31e50b08dd5876e828d54cbcc9293447e77f5"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_293.png",
+      "bytes": 171,
+      "sha256": "f7d903ce8537823a64e29b6b4e20e4f76d298ed9f6af17afb3b13abab78d5690"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_293.png.meta",
+      "bytes": 3444,
+      "sha256": "213b33a80cc3f14409023925742f3bf57f71a709979cf4722af536d4eb90b6b7"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_343.png",
+      "bytes": 15224,
+      "sha256": "88bdbdce0a8107fcbbd1d2ff744559bb199670ebde1f5f4e500f015a058a62ab"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_343.png.meta",
+      "bytes": 3444,
+      "sha256": "518b7c87da5695ead0624086a713045b0b9f343ee5ae101f0efeffdcc9bb1241"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_347.png",
+      "bytes": 170922,
+      "sha256": "727da1e071e2b07189e6ef7894a9da8a188fb5e0a6da97d788c3a97f8eb9f64c"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_347.png.meta",
+      "bytes": 3444,
+      "sha256": "4d500f8a137d6987369e19ada6b57cb2be8be458f3a6f679574acd00dff3c056"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_348.png",
+      "bytes": 9748,
+      "sha256": "b9ac5e2c89b4caf953893824c6b01b35e812fb2ba10e77fa6c708c96434d4e0e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_348.png.meta",
+      "bytes": 3444,
+      "sha256": "fec4bd51d92832d13fd9191f903bf34ff06354778486eccc1be1ce03111180dc"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_354.png",
+      "bytes": 3461,
+      "sha256": "7d6099916ab8508c05cd9dc40d030ae1351380ef674203a24a4e2991fbcf7e53"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_354.png.meta",
+      "bytes": 3444,
+      "sha256": "3eb459096bb4eca873ea22fb2af822c7c31f9c7e84dcb06a097d374661ab1b4e"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_355.png",
+      "bytes": 57231,
+      "sha256": "1195b9feedcef97debd7d5dd0e0c856b67436902659f612edbac6bc06732eb48"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/feature_355.png.meta",
+      "bytes": 3444,
+      "sha256": "eee80af29b9f2db046e1b1e77f795b425bcce153fe39195b31d75e174b5a99e2"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/HiddenMark.png",
+      "bytes": 9705,
+      "sha256": "1eb8b40b74f8a10f9e9fa6ed304014edaa82ad8c72d743fcc5a986495e7cd37f"
+    },
+    {
+      "path": "Assets/LoopSort/Resources/LoopSort/Textures/HiddenMark.png.meta",
+      "bytes": 3444,
+      "sha256": "464202e777c944169a31f62706e50aa3f630893b5d6bbc59049380f1bde1416f"
+    }
+  ],
+  "deletedGuids": [
+    "280a16f03023da44492b93c296a2af4a",
+    "97fd27b93c47b0841b7241f563e03387",
+    "72b0913e7bf063c43835bc5e55e0cb8b",
+    "800ef88aae759ed48824de88abcd57eb",
+    "eb173f194f7116142956e4982a936432",
+    "d714ae452a543b34ea2a99e186907d35",
+    "b5ccd49947060704b8aab207030c7ce4",
+    "15b5d5d1d3e6e6649ad77c01d643ce71",
+    "3ebf3e09a16554b4ab054672867d899a",
+    "918ae750a4453494da6470ed98d03841",
+    "436ebac023bfed74dbbbe9e766bdf008",
+    "7e16e01d464f19b49924eaf1758b8cfc",
+    "61b1795f0857764499a0eacc05cd31ae",
+    "d6fd8416fabb2fb4f866087b3b835198",
+    "f123fbc903ab77d4ea2eca73ab35703f",
+    "532823077ee90f948a6e6d706b62c031",
+    "b102dfa4f4bd05446b1ae5154edcfcaf",
+    "955b08b338d715f46b1ea9f3dbe33728",
+    "b7d2c2d9288f64a479c6a64e17becbbe",
+    "12b2c632d65fc844e8984480097650c0",
+    "23f776729286ea847a759cfe5d9c71e2",
+    "3d8e0568a0b485545bba99c701cef0d8",
+    "bf0a8d768f4836e4ebdfb31df2816588",
+    "bb0f9d6f4110758458bf2882244e597d",
+    "11753c3330628304fa0a3ebff35bb23a",
+    "808294e45c7f22342829ba3cb9542749",
+    "e8fc64f74437fb140bfce62ddfdc8d2e",
+    "58d543280e1cec84a9947da7bccdebff",
+    "1458d28e5c28dff4c872ef6c8e79d550",
+    "03fd53af9f213264db1d60b1c2a8f682",
+    "f3078dd78a21ba34199d3b0c4089837c",
+    "c2b8852fbfa3809469f4367912541d9a",
+    "656be5cb4e1bdb6438ad575ca58e8bef",
+    "6ed138d11ed86bd4a971fcd861cd18f5",
+    "6f96ec463e4fbd04caf637aa5b107654",
+    "b342a7864862fd84dbc7fc0657c38c21",
+    "e5cd330587354a7409eaba1ee1f69ac1",
+    "b1882edd8b53419498ebae1e1a52bf48",
+    "3ef482165cb90674cbd0c4cddd4ec854",
+    "f9fc3af3d00261a40b931996383a9e2b",
+    "c66cf16607bb0ce4a9d490e367c6770c",
+    "529b56248ae8fdc40aea3950ef3e9ccb",
+    "01ea33b2c5f0d43438c13ab4ec4291d1",
+    "e4c4ab1787ec49d4e9991b7e5e98503f",
+    "e38546633fd93e147a08782ec038eaf0",
+    "8edc5c7dfc642e6469f5cbdda4c2aa25",
+    "3aa3a97ad06efd64c92dbb8d2715187f",
+    "33f7abbdcd04b63409dd89d49621dc47",
+    "a71f92f7a0f8ac4449cb4bf0a219fb2d",
+    "8008d5064d6f40845acf2c27955d649f",
+    "1150bb99476b2204ca38c5a346aaf0c2",
+    "ded437230ffbd1242ae118556f7023cc",
+    "fb7ebc6c62187ca4a918e8bcd8d5baf0",
+    "801c0877a36d7164ab6569aa0612ca63",
+    "7a206e814adc4b7488d2ec9b7392f390",
+    "6e99006ff7f00f347a01248dc47d5ed7",
+    "3087cb0b0f8ba1b4b97a382047fd005c",
+    "5891c6158297ab4448917044cca58757",
+    "19a8a675767fa384f8673e180c95899b",
+    "9d7a19205b8e0414db7ef0ed39e9171a",
+    "82e5c273d90d352468bca0589397b56b",
+    "a21ea29fe15e54249bba2617c9e97896",
+    "686b1db82877b3143957934312acb8f3",
+    "1c43720545c9b494488609c5400e3cf2",
+    "f4e87e8a642b1d040b4d55acd2eb0cab",
+    "c7bd381e310315540b6c8a5fb7699650",
+    "fa5241da6b82ce04ab81739efc485de4",
+    "0adfcafb35533f543a6a9e8064447651",
+    "aebd140e5bada66429db130bc90e40dc",
+    "9f903820aafe70840ad55e4adddc36b9",
+    "bfb45ce550a784349b938c01800416af",
+    "15dec99d9edb47e47ad329033a2d76bf",
+    "0136d357364e3f34bb03c9a0d8232cc7",
+    "369f6856cd8946a4baa10cb7f3876596"
+  ]
+}

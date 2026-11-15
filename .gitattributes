@@ -1,0 +1,3 @@
+# Lua manifests hash exact bytes; keep checkout line endings deterministic.
+Assets/StreamingAssets/LoopSort/lua/**/*.lua text eol=lf
+Assets/StreamingAssets/LoopSort/manifest.json text eol=lf

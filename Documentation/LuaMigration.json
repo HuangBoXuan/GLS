@@ -1,0 +1,65 @@
+{
+  "runtime": "Tencent xLua 2.1.16_android_16kb / Lua 5.3",
+  "source": "https://github.com/Tencent/xLua/releases/tag/2.1.16_android_16kb",
+  "bindingId": "97f16c68f906b530a2a1d4fa396b9ab5595633f0c605463d74b482ec737479cf",
+  "generatedBindingFiles": 46,
+  "luaModules": 6,
+  "csharpCompilation": "Unity 2022.3.62f2 headless editor and Android player compilation passed; IL2CPP ARM64 native compilation and Gradle APK build succeeded",
+  "luaCompilation": "Lua 5.3 xluaL_loadbuffer compiled all six source modules; no game chunks executed",
+  "editorMcp": "Primary editor MCP disconnected; independent headless build workspace used without closing the user editor",
+  "gameplayTestsRun": false,
+  "playModeEntered": false,
+  "androidBuildRun": true,
+  "liveUpdateRun": false,
+  "manifestUrlConfigured": false,
+  "initialPackage": "Builds/HotUpdate/any/1793115270/manifest.json",
+  "payloadFiles": 22,
+  "payloadBytes": 12310905,
+  "nativeFiles": [
+    {
+      "sha256": "28a00828476a4c58c583d58959446b7f4d863644573a1cd1d4ae3758767ddc7f",
+      "path": "Assets/Plugins/x86_64/xlua.dll"
+    },
+    {
+      "sha256": "28d898a19c8246b8079e7dadf37e6a13899e627929165aebecff9b28c83dc226",
+      "path": "Assets/Plugins/Android/libs/arm64-v8a/libxlua.so"
+    },
+    {
+      "sha256": "55b2819f1ef2c7c7342710e76ec2c32cb9bada2743d36ea61efab8c2273b7a44",
+      "path": "Assets/Plugins/Android/libs/armeabi-v7a/libxlua.so"
+    }
+  ],
+  "compilationCacheCleanup": "Automatic approval review rejected deleting Temp/LuaMigrationCompile with blocked by policy; ignored compiler cache retained.",
+  "androidBuildStatus": "Succeeded",
+  "androidApk": {
+    "path": "Builds/Android/LoopSort0-Lua-arm64.apk",
+    "bytes": 51917055,
+    "sha256": "14c8beb79bfcd05c00603e70ca5f459bbdfbb7195a4a36fe7dfeba7e2a343eaa",
+    "architecture": "ARM64",
+    "scriptingBackend": "IL2CPP",
+    "installed": false,
+    "launched": false,
+    "sourceUpToDate": false
+  },
+  "nativeAlignmentObservation": "Unity emitted a 16KB-alignment warning for libxlua.so. LLVM readelf shows every ELF LOAD segment alignment is 0x4000; no Android 15/16KB device run was performed.",
+  "codeReview": "Documentation/CodeReview.md",
+  "latestPackage": {
+    "manifest": "Builds/HotUpdate/any/1793118284/manifest.json",
+    "payloadFiles": 21,
+    "payloadBytes": 12303328
+  },
+  "resourceCleanup": {
+    "status": "blocked by policy",
+    "retainedResources": 75,
+    "retainedResourceBytes": 10390222,
+    "details": "Automatic approval review rejected deletion of obsolete UI/Textures/ui-skin resources and metadata; no bypass attempted."
+  },
+  "latestSourceFix": {
+    "issue": "LuaFunction.Call returns null for zero Lua return values; unguarded Length caused startup and rule-call NullReferenceException",
+    "file": "Assets/LoopSort/Runtime/HotUpdate/LuaGameRuntime.cs",
+    "editorCompilationPassed": true,
+    "apkRebuildPending": true,
+    "testsRun": false,
+    "playModeEnteredByAgent": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "d29dee4b7537b366bb82882ea5867874824fd8b42b716e36a40904ea370b8c51",
+  "sdkVersion": "0.2.0-localtest.9730783e9569c94e",
+  "luaVersion": "5.4.8",
+  "bindingMode": "standalone-reflection-host-api7-v1",
+  "standaloneOnly": true
+}

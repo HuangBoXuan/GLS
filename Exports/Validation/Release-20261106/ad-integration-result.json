@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "result": {
+    "success": true,
+    "message": "Code executed successfully.",
+    "data": {
+      "result": {
+        "heldDuringAd": true,
+        "resumedAfterCloseAndNoFill": true,
+        "noDuplicateRequests": true,
+        "noSettlementAd": true,
+        "gameplayRewardAttributed": true,
+        "requests": 2
+      },
+      "compiler": "codedom"
+    }
+  }
+}

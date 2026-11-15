@@ -1,0 +1,4 @@
+{
+  "name": "LoopSort.Standalone",
+  "references": ["LoopSort0.Runtime", "LoopSort.ProductIntegration", "MiniGamePlatform.Host", "MiniGamePlatform.SDK", "MaxSdk.Scripts"]
+}

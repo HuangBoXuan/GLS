@@ -1,0 +1,20 @@
+{
+  "name": "LoopSort0.Editor",
+  "references": [
+    "LoopSort0.Core",
+    "LoopSort0.Runtime",
+    "Unity.Newtonsoft.Json",
+    "UnityEngine.UI",
+    "MiniGamePlatform.XLua",
+    "MiniGamePlatform.SDK",
+    "MiniGamePlatform.Host",
+    "MiniGamePlatform.Authoring.Editor",
+    "LoopSort.ProductIntegration",
+    "LoopSort.ProductIntegration.Editor",
+    "MaxSdk.Scripts",
+    "MaxSdk.Scripts.IntegrationManager.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

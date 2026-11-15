@@ -1,0 +1,10 @@
+{
+  "name": "LoopSort0.Runtime",
+  "rootNamespace": "LoopSort0",
+  "references": [
+    "LoopSort0.Core",
+    "Unity.Newtonsoft.Json",
+    "UnityEngine.UI",
+    "MiniGamePlatform.XLua"
+  ]
+}

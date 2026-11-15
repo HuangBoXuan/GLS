@@ -1,0 +1,45 @@
+{
+  "source": "Unity shipped ARM64 release native libraries",
+  "libraries": [
+    {
+      "file": "libmain.so",
+      "loadSegmentAlignments": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "elf16kAligned": true
+    },
+    {
+      "file": "libunity.so",
+      "loadSegmentAlignments": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "elf16kAligned": true
+    }
+  ],
+  "finalApkValidated": false,
+  "deviceRun": false,
+  "onlineDevices": 0,
+  "offlineDevices": [
+    "emulator-5554"
+  ],
+  "androidPlatform36Installed": true,
+  "buildTools36Installed": true,
+  "additionalArm64Inputs": [
+    {
+      "path": "D:\\MiniProject\\BuildTemp\\LoopSort-3D-20261101\\Library\\PackageCache\\com.minigame.platform-host@9ceb61c60c11\\ThirdParty\\BallXLua\\Plugins\\Android\\arm64-v8a\\libxlua.so",
+      "loadSegmentAlignments": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "elf16kAligned": true
+    }
+  ]
+}

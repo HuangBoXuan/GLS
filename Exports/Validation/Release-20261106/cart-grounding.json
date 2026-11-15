@@ -1,0 +1,93 @@
+{
+  "placementsChecked": 17421,
+  "allBasesAligned": true,
+  "sourceXZPreserved": true,
+  "models": [
+    {
+      "kind": "carrier",
+      "yaw": 0.0,
+      "bottom": 0.7449995,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "long-carrier",
+      "yaw": 0.0,
+      "bottom": 0.744999051,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "generator",
+      "yaw": 0.0,
+      "bottom": 0.7449998,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "carrier",
+      "yaw": 90.0,
+      "bottom": 0.7449995,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "long-carrier",
+      "yaw": 90.0,
+      "bottom": 0.744999051,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "generator",
+      "yaw": 90.0,
+      "bottom": 0.7449998,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "carrier",
+      "yaw": 180.0,
+      "bottom": 0.7449995,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "long-carrier",
+      "yaw": 180.0,
+      "bottom": 0.744999051,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "generator",
+      "yaw": 180.0,
+      "bottom": 0.7449998,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "carrier",
+      "yaw": 270.0,
+      "bottom": 0.7449995,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "long-carrier",
+      "yaw": 270.0,
+      "bottom": 0.744999051,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    },
+    {
+      "kind": "generator",
+      "yaw": 270.0,
+      "bottom": 0.7449998,
+      "matchesConveyorBase": true,
+      "cargoFits": true
+    }
+  ],
+  "referenceBottomY": 0.745,
+  "localOnly": true
+}
